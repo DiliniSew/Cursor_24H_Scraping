@@ -1,0 +1,62 @@
+{
+    "url": "https://jetwingtravels.com/tour/experiential-east/",
+    "id": "experiential-east",
+    "tour_overview": {
+        "package_name": "Experiential East",
+        "theme": "Barefoot Luxury",
+        "duration": "7 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Negombo 40 minutes"
+        },
+        {
+            "day": "Day 2",
+            "description": "Negombo Wellawaya 5 hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Wellawaya Pottuvil Point 2 and half hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Pottuvil Point"
+        },
+        {
+            "day": "Day 5",
+            "description": "Pottuvil Point Yala 2 and half hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Yala Tangalle 1 and half hours"
+        },
+        {
+            "day": "Day 7",
+            "description": "Tangalle Weligama 1 hour"
+        },
+        {
+            "day": "Day 8",
+            "description": "Weligama Airport 2 and half hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "Perfect for those who appreciate history and local customs, as the itinerary is crafted to provide in-depth insights into the cultural and historical significance of East Sri Lanka.",
+            "If you have a penchant for unspoiled landscapes and unique ecosystems, this trip showcases the diverse flora and fauna of the region, including the chance to witness wildlife in their natural habitat.",
+            "Whether you’re a solo traveler, a couple, or a group, the flexible nature of the itinerary allows for personalized experiences, ensuring each participant can tailor their journey to match their preferences.",
+            "Immerse yourself in the rich cultural tapestry of East Sri Lanka, exploring ancient ruins and uncovering the region’s fascinating history.",
+            "Engage with the warmth of local communities, as our itinerary includes authentic interactions and cultural experiences, providing you with a genuine taste of Sri Lankan life.",
+            "While there are adventurous elements, the trip is designed for a wide range of travelers. Expect a mix of leisurely exploration and optional activities catering to various fitness levels.",
+            "For the thrill-seekers, this trip offers exciting opportunities for water sports in Arugam Bay and wildlife safaris in Gal Oya National Park, ensuring an adrenaline-pumping adventure."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "From the pristine beaches of Arugam Bay to the lush jungles of Gal Oya, experience the untouched beauty of Sri Lanka’s eastern coast, offering a serene escape for nature enthusiasts."
+        ]
+    }
+}

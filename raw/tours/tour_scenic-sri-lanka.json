@@ -1,0 +1,62 @@
+{
+    "url": "https://jetwingtravels.com/tour/scenic-sri-lanka/",
+    "id": "scenic-sri-lanka",
+    "tour_overview": {
+        "package_name": "Scenic Sri Lanka",
+        "theme": "Authentic Ceylon",
+        "duration": "7 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Colombo City 1 hour"
+        },
+        {
+            "day": "Day 2",
+            "description": "Colombo Sigiriya Dambulla 4 and half hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Dambulla Polonnaruwa Dambulla 3 hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Dambulla Kandy 3 hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Kandy Nuwara Eliya 3 hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Nuwara Eliya Yala 4 and half hours"
+        },
+        {
+            "day": "Day 7",
+            "description": "Yala Galle 4 hours"
+        },
+        {
+            "day": "Day 8",
+            "description": "Galle Airport 2 and half hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "A treat for food enthusiasts, this journey showcases authentic Sri Lankan cuisine. Designed for those appreciating the artistry and cultural significance behind every dish.",
+            "Unveil Sri Lanka’s past with UNESCO sites, ancient ruins and vibrant traditions. Ideal for those passionate about culture and history, delving into a rich and diverse tapestry.",
+            "Indulge in a gastronomic adventure, sampling spice-infused curries, exotic fruits and authentic cooking classes. A journey that not only feeds the body but also the soul.",
+            "Travel in style with Jetwing Travels. Tailored for discerning travelers, this trip ensures comfort with well-appointed accommodations, personalized service and uncompromising indulgence in Sri Lanka’s beauty.",
+            "Connect deeply with Sri Lanka’s heart through traditional dance, local village visits and ancient temple exploration. Immerse in rich heritage, fostering a profound appreciation for vibrant traditions.",
+            "Elevate your experience with Jetwing Travels’ commitment to luxury. Handpicked accommodations, seamless transportation and personalized service ensure indulgence, creating lasting memories in comfort and style.",
+            "Tailored for thrill-seekers, this trip offers climbing ancient fortresses, scenic train rides and water sports along the coast. Perfect for those with an adventurous spirit."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "Explore Sri Lanka’s diverse landscapes: from Sigiriya’s ancient marvel to Bentota’s golden beaches. A visual feast awaits nature enthusiasts, offering a unique panorama every day."
+        ]
+    }
+}

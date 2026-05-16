@@ -1,0 +1,70 @@
+{
+    "url": "https://jetwingtravels.com/tour/sri-lankan-rendezvous/",
+    "id": "sri-lankan-rendezvous",
+    "tour_overview": {
+        "package_name": "Sri Lankan Rendezvous",
+        "theme": "Romantic Serendipity",
+        "duration": "9 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Kandy 4 hours"
+        },
+        {
+            "day": "Day 2",
+            "description": "Kandy"
+        },
+        {
+            "day": "Day 3",
+            "description": "Kandy Nuwara Eliya 3 and half hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Nuwara Eliya 3 and half hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Nuwara Eliya Ella 2 hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Ella"
+        },
+        {
+            "day": "Day 7",
+            "description": "Ella Bentota 5 and half hours"
+        },
+        {
+            "day": "Day 8",
+            "description": "Bentota Galle Bentota"
+        },
+        {
+            "day": "Day 9",
+            "description": "Bentota 1 and half hours"
+        },
+        {
+            "day": "Day 10",
+            "description": "Bentota Airport 2 and half hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "Savor the symphony of flavors as you indulge in Sri Lanka’s diverse cuisine. From aromatic spices to delectable street food, each bite unveils a gastronomic adventure.",
+            "Encounter the heart of Sri Lanka through immersive experiences with locals, vibrant festivals and UNESCO World Heritage Sites, fostering a deep connection to the island’s rich heritage.",
+            "Travel in an intimate group setting, fostering meaningful connections. Engage with fellow explorers, creating memories that extend beyond the journey, making this experience both personal and unforgettable.",
+            "Perfect for travelers eager to delve into Sri Lanka’s cultural tapestry. Expect encounters with locals, vibrant markets and ancient traditions, offering a truly immersive experience.",
+            "Whether you crave relaxation or non-stop exploration, our itinerary accommodates diverse preferences, ensuring you can soak in the magic of Sri Lanka at your preferred pace."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "Enjoy a blend of opulence and nature at our carefully selected accommodations. Whether nestled in the hills or by the beach, expect unparalleled comfort in breathtaking surroundings.",
+            "Immerse yourself in Sri Lanka’s stunning beauty, from pristine beaches to lush tea plantations and ancient ruins, every day brings a new picturesque backdrop.",
+            "Ideal for those seeking an active getaway: from hiking through lush jungles to surfing on pristine beaches, there’s a thrilling adventure awaiting every enthusiast."
+        ]
+    }
+}

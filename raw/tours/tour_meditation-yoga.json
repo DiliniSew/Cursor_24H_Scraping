@@ -1,0 +1,50 @@
+{
+    "url": "https://jetwingtravels.com/tour/meditation-yoga/",
+    "id": "meditation-yoga",
+    "tour_overview": {
+        "package_name": "Meditation & Yoga Holiday Tour in Sri Lanka",
+        "theme": "Island of Wellness",
+        "duration": "4 day"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Kandy Digana 4 hours"
+        },
+        {
+            "day": "Day 2",
+            "description": "Kandy Digana"
+        },
+        {
+            "day": "Day 3",
+            "description": "Kandy Digana"
+        },
+        {
+            "day": "Day 4",
+            "description": "Kandy Digana"
+        },
+        {
+            "day": "Day 5",
+            "description": "Kandy Airport 4 hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "Enjoy the freedom to participate at your own pace. With a balanced mix of structured sessions and leisure time, you have the flexibility to explore the destination or simply unwind in peaceful surroundings.",
+            "Immerse yourself in serene landscapes, ideal for meditation and yoga. Our expert-led sessions amidst nature promise tranquility, fostering a deep connection between mind, body and soul.",
+            "Tailored to your needs, our itinerary ensures a personalized wellness experience. Whether you’re a seasoned yogi or a novice, discover a harmonious balance of relaxation and rejuvenation with us.",
+            "Rest easy with our commitment to comfort. From cozy accommodations to seamless logistics, we prioritize your well-being. Travel stress-free, allowing yourself to fully immerse yourself in a transformative experience.",
+            "Join a community of fellow travelers on a similar quest for self-discovery. Share stories, create memories and build connections in an inclusive environment that fosters support and camaraderie.",
+            "Whether you’re a yoga enthusiast or a beginner, our program caters to all levels. Experienced instructors provide guidance, ensuring everyone can embrace the journey towards inner peace.",
+            "Experience the perfect blend of traditional practices and modern comforts. This journey seamlessly integrates ancient meditation techniques with luxurious accommodations, offering a holistic and enriching escape."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "From misty mountain vistas to pristine beachfronts, each location is carefully chosen for its awe-inspiring beauty. Unwind in nature’s embrace, finding solace in picturesque surroundings that inspire mindfulness."
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "url": "https://jetwingtravels.com/tour/travel-like-a-local/",
+    "id": "travel-like-a-local",
+    "tour_overview": {
+        "package_name": "Travel like a local in Sri Lanka",
+        "theme": "Authentic Ceylon",
+        "duration": "12 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Negombo 30 minutes"
+        },
+        {
+            "day": "Day 2",
+            "description": "Negombo Galle 2 and half hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Galle Yala 3 and half hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Yala 3 and half hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Yala Ella 3 and half hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Ella"
+        },
+        {
+            "day": "Day 7",
+            "description": "Ella Kandy 5 hours train journey"
+        },
+        {
+            "day": "Day 8",
+            "description": "Kandy"
+        },
+        {
+            "day": "Day 9",
+            "description": "Kandy Pasikuda 4 and half hours"
+        },
+        {
+            "day": "Day 10",
+            "description": "Pasikuda"
+        },
+        {
+            "day": "Day 11",
+            "description": "Pasikuda Sigiriya 2 and half hours"
+        },
+        {
+            "day": "Day 12",
+            "description": "Sigiriya Polonnaruwa Negombo 4 hours"
+        },
+        {
+            "day": "Day 13",
+            "description": "Negombo Airport 20 minutes"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "Our seasoned travel curators have meticulously designed every detail. From accommodations to activities, expect a seamless blend of comfort and discovery, maximizing your enjoyment at every turn.",
+            "Immerse yourself in the heart of local traditions, savoring authentic flavors and experiencing daily life. Our itinerary promises a genuine connection with the destination.",
+            "Ideal for those who seek more than a surface-level encounter. Delve deep into local cultures, interact with communities and foster a profound appreciation for the richness of diversity.",
+            "If you crave more than the ordinary, this trip is tailor-made for you. Expect exciting challenges and unparalleled experiences that cater to your adventurous side.",
+            "Explore hidden gems and lesser-known wonders, ensuring a truly unique adventure. Discover the charm that lies beyond tourist hotspots for an unforgettable travel experience.",
+            "Enjoy the best of both worlds as we combine local expertise with international standards. Feel at home while exploring new horizons, creating memories that transcend cultural boundaries.",
+            "Embrace the unexpected. This trip is perfect for those who are open to spontaneity, allowing the journey to unfold organically and reveal the hidden treasures that lie off the traditional path.",
+            "For travelers who thrive in intimate settings, our small-group tours foster camaraderie and meaningful connections. Engage with fellow adventurers, creating bonds that last a lifetime on this shared exploration."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "Whale and dolphin watching",
+            "Coral reef snorkeling"
+        ]
+    }
+}

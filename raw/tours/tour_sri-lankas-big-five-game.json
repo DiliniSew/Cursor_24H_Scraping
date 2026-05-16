@@ -1,0 +1,70 @@
+{
+    "url": "https://jetwingtravels.com/tour/sri-lankas-big-five-game/",
+    "id": "sri-lankas-big-five-game",
+    "tour_overview": {
+        "package_name": "Sri Lanka’s Big Five Game",
+        "theme": "Following the Wild",
+        "duration": "9 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Colombo 1 hour"
+        },
+        {
+            "day": "Day 2",
+            "description": "Colombo Minneriya National Park Dambulla 4 hour and half hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Dambulla Nuwara Eliya 5 hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Nuwara Eliya Yala 4 and half hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Yala 3 hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Yala Udawalawe 2 hours"
+        },
+        {
+            "day": "Day 7",
+            "description": "Udawalawe Sinharaja 2 and half hours"
+        },
+        {
+            "day": "Day 8",
+            "description": "Sinharaja Galle 3 hours"
+        },
+        {
+            "day": "Day 9",
+            "description": "Galle Mirissa Galle 1 hour"
+        },
+        {
+            "day": "Day 10",
+            "description": "Galle Airport 2 and half hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "This journey suits those eager to explore beyond the obvious. Engage with local cultures, understand conservation efforts and participate in eco-friendly initiatives for a holistic travel experience.",
+            "Despite the wild setting, enjoy the lap of luxury. Our accommodations prioritize comfort, ensuring a rejuvenating stay after exciting adventures. Pamper yourself with exquisite amenities amid nature’s grandeur.",
+            "Beyond wildlife, delve into Sri Lanka’s rich culture. Visit ancient ruins, spice gardens and local communities, connecting with the island’s vibrant heritage. It’s a holistic journey, blending nature and tradition.",
+            "Indulge in opulent accommodations seamlessly blended with untamed landscapes, offering an exclusive retreat after exhilarating safaris. Our lodges redefine wilderness luxury with unparalleled comfort and style.",
+            "Capture breathtaking moments as wildlife roams freely against stunning backdrops. Our safari experiences provide ample opportunities for photography enthusiasts to hone their skills in the wild.",
+            "Our passionate guides transform your journey into an educational adventure. Their in-depth knowledge and storytelling prowess enhance every wildlife sighting, making your trip not just a vacation but a learning experience."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "If you crave close encounters with diverse ecosystems, this trip is your gateway to thriving biodiversity. From lush jungles to azure oceans, nature unfolds at its best.",
+            "Immerse yourself in Sri Lanka’s Big Five game experience, where diverse ecosystems host Elephants, Leopards, Sloth Bears, Blue Whales and myriad bird species, creating unforgettable encounters."
+        ]
+    }
+}

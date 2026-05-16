@@ -1,0 +1,74 @@
+{
+    "url": "https://jetwingtravels.com/tour/love-songs-of-ceylon/",
+    "id": "love-songs-of-ceylon",
+    "tour_overview": {
+        "package_name": "Love Songs of Ceylon – Sri Lanka Honeymoon Tour",
+        "theme": "Romantic Serendipity",
+        "duration": "10 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Negombo 25 minutes"
+        },
+        {
+            "day": "Day 2",
+            "description": "Negombo Sigiriya 4 and half hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Sigiriya Polonnaruwa Sigiriya 3 and half hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Sigiriya Kandy 3 hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Kandy Half a day city tour"
+        },
+        {
+            "day": "Day 6",
+            "description": "Kandy Hatton 3 and half hour train journey"
+        },
+        {
+            "day": "Day 7",
+            "description": "Hatton"
+        },
+        {
+            "day": "Day 8",
+            "description": "Hatton Bentota 4 and half hours"
+        },
+        {
+            "day": "Day 9",
+            "description": "Bentota Galle Bentota 1 and half hour"
+        },
+        {
+            "day": "Day 10",
+            "description": "Bentota 45 minutes"
+        },
+        {
+            "day": "Day 11",
+            "description": "Bentota Airport 1 and half hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "Tailored for travelers who appreciate the finer things in life, this journey combines cultural exploration with luxurious accommodations, ensuring a pampered experience throughout your Ceylonese adventure.",
+            "Indulge in a gastronomic adventure with our curated dining experiences, savoring authentic Ceylonese flavors. From street food to elegant dining, your taste buds are in for a treat.",
+            "Whether trekking through lush jungles, encountering wildlife, or engaging in water sports, thrill-seekers will find ample opportunities to satisfy their adventurous cravings.",
+            "Unwind in handpicked accommodations, blending modern comfort with cultural charm. Each stay is a sanctuary, offering a tranquil retreat after a day of exploration.",
+            "Experience the enchanting blend of Sri Lanka’s cultural tapestry as you explore ancient ruins, vibrant markets and engage with warm, welcoming locals.",
+            "Ideal for those who appreciate stunning landscapes and diverse cultures, providing endless opportunities to capture breathtaking moments that will fill your photo album with unparalleled memories.",
+            "If you relish discovering rich histories, ancient traditions and vibrant local customs, this cultural immersion will captivate your curiosity and leave you with lasting memories."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "From misty tea plantations to pristine beaches, this journey unveils diverse landscapes, ensuring every moment is a visual feast and a photographer’s dream come true."
+        ]
+    }
+}

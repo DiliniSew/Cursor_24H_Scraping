@@ -1,0 +1,64 @@
+{
+    "url": "https://jetwingtravels.com/tour/ramayana-tour/",
+    "id": "ramayana-tour",
+    "tour_overview": {
+        "package_name": "Sri Lanka Ramayana Tour",
+        "theme": "Authentic Ceylon",
+        "duration": "7 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Negombo 30 minutes"
+        },
+        {
+            "day": "Day 2",
+            "description": "Negombo Chilaw Kandy 4 and half hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Kandy Nuwara Eliya 2 and half hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Nuwara Eliya Ella 2 hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Ella Kataragama 2 hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Kataragama Galle 3 and half hours"
+        },
+        {
+            "day": "Day 7",
+            "description": "Galle Colombo 2 and half hours"
+        },
+        {
+            "day": "Day 8",
+            "description": "Galle Airport 1 hour"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "Enjoy the perfect blend of comfort and culture with our meticulously crafted itineraries, offering luxurious accommodations, delectable cuisine and seamless travel experiences throughout your Ramayana adventure.",
+            "Suited for travelers seeking a hassle-free experience, our all-inclusive packages cover accommodations, meals and expert guidance, allowing you to focus solely on absorbing the rich cultural tapestry.",
+            "Ideal for those craving a profound spiritual experience, this tour delves into the heart of Ramayana, offering moments of reflection, meditation and connection with ancient traditions.",
+            "Immerse yourself in the ancient saga of Ramayana as our expert guides bring the stories to life at iconic locations, making history a vibrant experience.",
+            "Dive into unique encounters, from sunrise rituals at sacred sites to private sessions with local artisans. This trip promises authentic moments that go beyond the ordinary, creating memories to last a lifetime.",
+            "Whether you’re a history enthusiast, nature lover, or cultural explorer, our trip caters to various interests. Each day brings a new facet of the Ramayana story, ensuring a diverse and fulfilling experience for everyone.",
+            "Perfect for group travel or solo adventurers, our Ramayana tour fosters a sense of community among like-minded individuals. Embrace shared moments or relish personal reflections at your own pace.",
+            "Our thoughtfully designed journey ensures you don’t just visit destinations but truly connect with the spiritual and historical essence of the Ramayana, making every day a revelation."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "Whale and dolphin watching",
+            "Coral reef snorkeling"
+        ]
+    }
+}
