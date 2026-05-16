@@ -1,7 +1,9 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/10/",
-    "experience_profile": {
-        "experience": "Learn Surfing",
-        "description": "If you fancy your turn on the board, there are many surf schools and qualified instructors to help you hit the waves safely."
-    }
+    "experiences": [
+        {
+            "experience": "Learn Surfing",
+            "description": "If you fancy your turn on the board, there are many surf schools and qualified instructors to help you hit the waves safely."
+        }
+    ]
 }

@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/5/",
-    "experience_profile": {
-        "experience": "Singing Fish and Kallady Bridge",
-        "description": "Kallady is Sri Lanka’s oldest and longest iron bridge. Popular legend claims that sounds of singing fish can be heard from beneath it."
-    }
+    "experiences": [
+        {
+            "experience": "Singing Fish and Kallady Bridge",
+            "description": "Kallady is Sri Lanka’s oldest and longest iron bridge. Popular legend claims that sounds of singing fish can be heard from beneath it."
+        },
+        {
+            "experience": "Batticaloa Lighthouse",
+            "description": "Built in 1913 by the British, it guided many ships to safety and still stands guard. The views from the top are breathtaking."
+        },
+        {
+            "experience": "Water Sports",
+            "description": "One of the safest beaches in the country, Passikudah is ideal for surfing, snorkelling, diving, windsurfing, water skiing, kite surfing and other watersports."
+        },
+        {
+            "experience": "Strawberry Fields",
+            "description": "Yes, strawberries in the tropics! Take a stroll around the gardens, enjoy picking your own fruit as well as savouring some delicious treats."
+        },
+        {
+            "experience": "Hakgala Gardens",
+            "description": "Over 88 acres of sprawling estate, home to around 10,000 temperate and subtropical plant species, Hakgala is popular for its rose gardens."
+        },
+        {
+            "experience": "Horton Plains",
+            "description": "An ethereal World Heritage Site of montane grassland and cloud forest over 2000m above sea level, it’s the highest plateau in Sri Lanka."
+        },
+        {
+            "experience": "Hamilton Canal",
+            "description": "Built in 1804, this busy waterway is in use to date. A boat ride along its Negombo stretch is a very scenic one."
+        },
+        {
+            "experience": "Negombo Fish Market",
+            "description": "The ‘Lellama’ as it’s known, is the heart of any fishing town. The catch of the day is traded here with much gusto."
+        },
+        {
+            "experience": "Secret Beach",
+            "description": "A small, relatively private cove, the Secret Beach may no longer be quite a secret, but its secluded charm is still incredibly perfect."
+        }
+    ]
 }

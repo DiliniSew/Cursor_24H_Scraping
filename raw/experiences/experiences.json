@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/",
-    "experience_profile": {
-        "experience": "Gangaramaya Temple",
-        "description": "A mix of modern architecture and cultural significance, the complex comprises the main temple, a museum, a library and a vocational training centre."
-    }
+    "experiences": [
+        {
+            "experience": "Gangaramaya Temple",
+            "description": "A mix of modern architecture and cultural significance, the complex comprises the main temple, a museum, a library and a vocational training centre."
+        },
+        {
+            "experience": "Colombo National Museum",
+            "description": "A beautiful colonial building surrounded by vast grounds, a collection of relics, artefacts and historical paraphernalia from Sri Lanka’s antiquity are housed here."
+        },
+        {
+            "experience": "Independence Square",
+            "description": "A national monument of Kandyan style architecture, this landmark and the surrounding square was built in 1948 to commemorate Independence from British rule."
+        },
+        {
+            "experience": "Waterfalls Trek",
+            "description": "Sinharaja reserve is home to 19 waterfalls. This trek will take you through the forest to admire the magnificence of some of them."
+        },
+        {
+            "experience": "Rope Swings at Dalawella and Wijeya Beach",
+            "description": "Become insta-famous with your own photos at these popular spots. The views will grab you even if rope swinging is not your thing."
+        },
+        {
+            "experience": "Japanese Peace Pagoda Rumassala",
+            "description": "Built in 2005 as a symbol of peace, this unique shrine on Rumassala hill also offers incredible views of the coastline and Galle."
+        },
+        {
+            "experience": "Relax at Jungle Beach",
+            "description": "One of the most famous and secluded beaches in Unawatuna, this pristine little cove flanked by jungle is an ideal place to chill."
+        },
+        {
+            "experience": "Cultural Dance Show",
+            "description": "Swirls of vibrant colour and pulsating rhythms; dances and drums that keep traditions of old alive. Witness an unforgettable display of Kandyan heritage."
+        },
+        {
+            "experience": "Peradeniya Botanical Garden",
+            "description": "Sprawled across 147 acres, the garden includes more than 4000 species of plants and trees, including rare orchids, spices, medicinal herbs and palms."
+        }
+    ]
 }

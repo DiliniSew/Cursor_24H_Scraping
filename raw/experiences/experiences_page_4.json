@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/4/",
-    "experience_profile": {
-        "experience": "Rekawa Turtle Conservation Project",
-        "description": "Endangered giant turtles nest on the Rekawa shoreline; here, you can learn more about their habits, habitats and help release hatchlings to sea."
-    }
+    "experiences": [
+        {
+            "experience": "Rekawa Turtle Conservation Project",
+            "description": "Endangered giant turtles nest on the Rekawa shoreline; here, you can learn more about their habits, habitats and help release hatchlings to sea."
+        },
+        {
+            "experience": "Birdwatching Trek",
+            "description": "With more than 147 species and over 95% of Sri Lanka’s endemic birds recorded here, this trek will be heaven for bird lovers."
+        },
+        {
+            "experience": "Forest Trek",
+            "description": "Walk through this ethereal forest and be transported back to a paradise unchanged from the beginning of time, perhaps even before man existed."
+        },
+        {
+            "experience": "Sigiriya Archaeological Museum",
+            "description": "Home to artefacts and exhibits dating back to pre-civilisation, the remnants of the rich heritage of the area is displayed over three floors."
+        },
+        {
+            "experience": "Pidurangala Rock",
+            "description": "The trek up this unique rock opposite Sigiriya is well worth it for the incredible views of the central plains - especially at sunrise."
+        },
+        {
+            "experience": "Sigiriya Rock",
+            "description": "Climb up to admire the frescoes on the rock face. Then reach the summit where 360 degree views, and timeless ruins await you."
+        },
+        {
+            "experience": "Monkey Kingdom",
+            "description": "The stars of the 2015 Disney nature documentary ‘Monkey Kingdom’ still rule the ruins. Meet them off-screen, and learn more about their lives."
+        },
+        {
+            "experience": "Minneriya National Park",
+            "description": "Where the elephants gather in their hundreds to drink, feed and play. Enjoy an exciting game drive to see them and their habitat."
+        },
+        {
+            "experience": "Ruins and Temples",
+            "description": "Ancient stupas, moonstones, landscaped gardens, imposing shrines and statues that have stood for hundreds of years - what stories they may tell, if asked."
+        }
+    ]
 }

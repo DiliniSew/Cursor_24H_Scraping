@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/7/",
-    "experience_profile": {
-        "experience": "Nallur Temple",
-        "description": "The 15th century Nallur Kandaswamy Kovil - one of the most significant Hindu temples in Sri Lanka - showcases the colourful grandeur of Dravidian architecture."
-    }
+    "experiences": [
+        {
+            "experience": "Nallur Temple",
+            "description": "The 15th century Nallur Kandaswamy Kovil - one of the most significant Hindu temples in Sri Lanka - showcases the colourful grandeur of Dravidian architecture."
+        },
+        {
+            "experience": "Hikkaduwa Turtle Hatchery",
+            "description": "Spend some quality time with baby turtles and support a project that’s dedicated to study, care for and protect Sri Lanka’s turtle species."
+        },
+        {
+            "experience": "Glass Bottom Boat Ride",
+            "description": "If you don't fancy getting in the water, a glass bottom boat is the best way to witness the wonders of underwater life."
+        },
+        {
+            "experience": "Snorkelling and Coral Reefs",
+            "description": "Dive down to a calm undersea world where over 60 species of corals, 170 species of reef fish and other marine life thrive."
+        },
+        {
+            "experience": "Warleigh Church",
+            "description": "Step into this old British church and step back in time to 1878. The period interior remains mostly unchanged, even the views outside."
+        },
+        {
+            "experience": "Kayaking on Castlereagh",
+            "description": "Take a kayak out on the tranquil castlereagh Reservoir surrounded by high mountains; and enjoy the breathtaking scenery and a sense of serenity."
+        },
+        {
+            "experience": "Adam’s Peak Sunrise",
+            "description": "Climb the holy mountain of Adam’s Peak to watch the sunrise and the incredible sight of its triangular shadow falling across the sky."
+        },
+        {
+            "experience": "Catamaran Ride",
+            "description": "Enjoy a leisurely ride on a traditional canoe called catamaran on the tranquil Habarana Lake, and watch fishermen and the kingfishers at work."
+        },
+        {
+            "experience": "Hurulu Eco Park",
+            "description": "Explore the 10,000 hectares of land home to elephants and other wildlife on an exciting game drive, early morning or late evening."
+        }
+    ]
 }

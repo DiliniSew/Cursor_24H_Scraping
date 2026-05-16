@@ -77,59 +77,6 @@
             }
         },
         {
-            "url": "https://jetwingtravels.com/tour/cycling-in-sri-lanka-tour/",
-            "id": "cycling-in-sri-lanka-tour",
-            "tour_overview": {
-                "package_name": "Cycling in Sri Lanka Tour",
-                "theme": "Adventurous Spirit",
-                "duration": "5 nights"
-            },
-            "core_inclusions": {
-                "accommodation": "Hotel Stay",
-                "meals": "Tailored to customer preferences",
-                "transport": "Private Air-Conditioned Vehicle"
-            },
-            "itinerary_breakdown": [
-                {
-                    "day": "Day 1",
-                    "route": "Airport to Negombo",
-                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to Negombo. Rest and recoup from jet lag, you have days of excitement ahead. When convenient, your chauffeur guide will familiarise you with what to expect while cycling on a Sri Lankan road. We encourage you to ride about the town and see some interesting sights and landmarks. Afterwards, chill out on the golden sands of Negombo beach and prepare for days of riding to come."
-                },
-                {
-                    "day": "Day 2",
-                    "route": "Negombo to Kurunegala to Dambulla",
-                    "description": "Start your expedition by cycling 35 km along a picturesque route passing paddy fields and coconut plantations to Kurunegala. The towering statue of Lord Buddha on ‘Atha gala’ - the town’s famous landmark rockface, is visible from afar. Ride around and explore Kurunegala town. In the afternoon, enjoy lunch at a delightful local restaurant. Then, pack your bikes away for the day, and continue by car to Dambulla in the heart of Sri Lanka’s cultural triangle. In Dambulla, visit the renowned Golden Temple Cave complex."
-                },
-                {
-                    "day": "Day 3",
-                    "route": "Dambulla to Polonnaruwa to Dambulla",
-                    "description": "Take a morning cycle tour to the ruins of ancient Ceylon at the UNESCO World Heritage City of Polonnaruwa - the medieval capital of ancient Lanka from the 11th to 13th century A.D. Take in the historic sites of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya. On your return, take an exhilarating jeep ride with an expert naturalist guide to the Minneriya or Kaudulla National Park - a sanctuary is a home to wild elephants, wild buffaloes, sambar deer, crocodiles, sloth bear and more."
-                },
-                {
-                    "day": "Day 4",
-                    "route": "Dambulla to Sigiriya to Kandy",
-                    "description": "Enjoy a hearty breakfast and get ready for a challenging ride ahead. Start by cycling to the World Heritage Site of Sigiriya. Over the 55km of moderate standard, you pass through lush jungle, traditional chena farms and rural villages. Climb Sigiriya rock and travel by car stopping for lunch at a local restaurant. Continue on to Kandy. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha."
-                },
-                {
-                    "day": "Day 5",
-                    "route": "Kandy",
-                    "description": "After a leisurely breakfast, set off to explore the historic town of Kandy. It is a busy, bustling hub of activity where heritage buildings and modernity mix. Visit the Udawattekele forest reserve - a haven of peace in the heart of town, or the vibrant market places. Walk or ride around the Kandy lake and ride up Lake Drive for some spectacular views of the town. For something a bit more challenging, ride to the hills of Hantana taking an uphill cycle route through the forest."
-                },
-                {
-                    "day": "Day 6",
-                    "route": "Kandy to Airport",
-                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
-                }
-            ],
-            "featured_experiences_and_highlights": {
-                "ocean_and_wildlife_adjacencies": [
-                    "Whale and dolphin watching",
-                    "Coral reef snorkeling",
-                    "Swimming with turtles"
-                ]
-            }
-        },
-        {
             "url": "https://jetwingtravels.com/tour/trails-treks-tour/",
             "id": "trails-treks-tour",
             "tour_overview": {
@@ -247,10 +194,10 @@
             ],
             "featured_experiences_and_highlights": {
                 "ocean_and_wildlife_adjacencies": [
-                    "Immerse yourself in a world of colorful marine life, from elusive sea turtles to dazzling schools of fish. Discover the joy of snorkeling and diving in crystal-clear waters.",
+                    "Indulge in exclusive stays at Jetwing’s handpicked coastal properties, offering a perfect blend of modern comforts and serene oceanfront views, ensuring a relaxing and rejuvenating experience after each day’s adventure.",
                     "Dive into the rich maritime history of Sri Lanka as you explore captivating shipwrecks and vibrant coral reefs, creating unforgettable memories in the depths of the Indian Ocean.",
-                    "Our experienced guides and certified dive instructors ensure not just a thrilling expedition but a safe one too. Dive with confidence as you explore the mesmerizing wrecks and reefs of Ceylon.",
-                    "Indulge in exclusive stays at Jetwing’s handpicked coastal properties, offering a perfect blend of modern comforts and serene oceanfront views, ensuring a relaxing and rejuvenating experience after each day’s adventure."
+                    "Immerse yourself in a world of colorful marine life, from elusive sea turtles to dazzling schools of fish. Discover the joy of snorkeling and diving in crystal-clear waters.",
+                    "Our experienced guides and certified dive instructors ensure not just a thrilling expedition but a safe one too. Dive with confidence as you explore the mesmerizing wrecks and reefs of Ceylon."
                 ]
             }
         },
@@ -737,8 +684,8 @@
             ],
             "featured_experiences_and_highlights": {
                 "ocean_and_wildlife_adjacencies": [
-                    "Indulge in opulent accommodations seamlessly blended with untamed landscapes, offering an exclusive retreat after exhilarating safaris. Our lodges redefine wilderness luxury with unparalleled comfort and style.",
-                    "Immerse yourself in Sri Lanka’s Big Five game experience, where diverse ecosystems host Elephants, Leopards, Sloth Bears, Blue Whales and myriad bird species, creating unforgettable encounters."
+                    "Immerse yourself in Sri Lanka’s Big Five game experience, where diverse ecosystems host Elephants, Leopards, Sloth Bears, Blue Whales and myriad bird species, creating unforgettable encounters.",
+                    "Indulge in opulent accommodations seamlessly blended with untamed landscapes, offering an exclusive retreat after exhilarating safaris. Our lodges redefine wilderness luxury with unparalleled comfort and style."
                 ]
             }
         },
@@ -1158,9 +1105,9 @@
             "destination_profile": {
                 "context": "The epicentre of Sinhalese civilization dating back to 4th century BC, Anuradhapura was the first historical capital of Sri Lanka, and its marvels still radiate greatness. Reigning for over a millennium, the kingdom had 117 rulers who built magnificent palaces, great reservoirs and irrigation systems, pleasure gardens, and Buddhist temples - some, amongst the biggest architectural creations of the ancient world, smaller in size only to the pyramids of Giza. The surviving ruins, and the restored temples and stupas are just a few of the places to visit in the sacred city of Anuradhapura.",
                 "relevance": [
-                    "Sri Maha Bodhiya",
                     "Mihintale",
-                    "Ruwanweli Maha Seya"
+                    "Ruwanweli Maha Seya",
+                    "Sri Maha Bodhiya"
                 ]
             }
         },
@@ -1169,8 +1116,8 @@
             "destination_profile": {
                 "context": "Unspoilt beaches and magnificent waves: it’s the ultimate ‘hangout’ for surfers and travellers from around the world. Located on the South Eastern shoreline, ‘the Bay’ is possibly the ‘coolest’ little seaside town in Sri Lanka. Famed as one of the top ten surfing spots in the world, it attracts big talent. With several local and international events taking place in Arugam Bay, the best time to visit would be May to August during the season. Apart from the waves, there is the lagoon, river, mangroves, jungle, rice fields and dunes to explore too.",
                 "relevance": [
-                    "Kudumbigala Sanctuary",
                     "Kumana National Park",
+                    "Kudumbigala Sanctuary",
                     "Learn Surfing"
                 ]
             }
@@ -1180,9 +1127,9 @@
             "destination_profile": {
                 "context": "With a mix of beautiful beaches, watersports and buzzing streets that attract tropical fun seekers, there are a myriad of things to do in Bentota. This popular resort town sits between the Bentota lagoon, the river and the ocean on the South West coast of Sri Lanka, and is at the centre of the watersport action in the region. Despite the activity, endangered sea turtles come to nest on the beach and many conservation projects operate in the area. The river and the thick mangrove swamps are also home to diverse marine life.",
                 "relevance": [
-                    "Lunuganga Gardens",
+                    "Kosgoda Turtle Hatchery",
                     "Bentota Lagoon",
-                    "Kosgoda Turtle Hatchery"
+                    "Lunuganga Gardens"
                 ]
             }
         },
@@ -1203,8 +1150,8 @@
                 "context": "One of the main tourist attractions in Dambulla is the sacred cave complex. Spread over an area of 2,100 sq metres, it has been a pilgrimage site visited by Buddhists for over 22 centuries. Established as one of the most important monasteries as far back as the 3rd century BC, these caves were protected and enhanced by successive kings till the 11th century, and they are deemed sacred even today. Apart from being historically significant, Dambulla continues to be a busy hub activity, and there are many places of interest to visit.",
                 "relevance": [
                     "Dambulla Cave Temple",
-                    "Hot Air Balloon Ride",
-                    "Rose Quartz Mountain"
+                    "Rose Quartz Mountain",
+                    "Hot Air Balloon Ride"
                 ]
             }
         },
@@ -1213,9 +1160,9 @@
             "destination_profile": {
                 "context": "Majestic waterfalls, hidden caves, breathtaking vistas across the mountains: Ella is a little town with big attractions. One of the hill country’s most loved destinations, it is the hub of cool in the hills. The main attraction of Ella is the breathtaking view from the ‘Ella Gap’ – looking out between the majestic bulk of Ella Rock on the right and through a gap in the hills to the plains miles down below. Climbing up Ella Rock is a tough but rewarding hike – and the views from the top are well worth the effort.",
                 "relevance": [
-                    "Mini Adam’s Peak",
                     "Ravana Ella Falls",
-                    "Demodara Bridge"
+                    "Demodara Bridge",
+                    "Mini Adam’s Peak"
                 ]
             }
         },
@@ -1224,9 +1171,9 @@
             "destination_profile": {
                 "context": "In this Southern capital natural and cultural diversity thrives, and history lives on. Galle has weathered many storms over the centuries, from battling colonial rulers to a devastating tsunami. Yet, an indomitable spirit seems to keep the city unshaken. Historically, Galle was an important trade post due to its location and natural harbour. In 1505, a Portuguese fleet landed by accident changing the course of the island’s history. They were ousted by the Dutch in 1640, who lost to the British in 1796. Their legacies shaped the city; and are seen to date.",
                 "relevance": [
+                    "Dutch Fort",
                     "Fort Lighthouse",
-                    "Kanneliya Forest",
-                    "Dutch Fort"
+                    "Kanneliya Forest"
                 ]
             }
         },
@@ -1235,9 +1182,9 @@
             "destination_profile": {
                 "context": "Strategically placed on the primary route to the North and East of Sri Lanka, Habarana is central to tourist places within the cultural triangle. It is the ideal base to explore the key sites, being within easy reach of Polonnaruwa, Anuradhapura, Dambulla, Sigiriya and Ritigala, as well as serving as a stopover for journeys to Jaffna or Trincomalee. Many elephant watching excursions to Minneriya and Kaudulla national parks also start from here. The scenic Habarana Lake and its surrounds are also an attraction with many village tours offering an insight into rural life.",
                 "relevance": [
-                    "Catamaran Ride",
                     "Hurulu Eco Park",
-                    "Hiriwadunna Village Walk"
+                    "Hiriwadunna Village Walk",
+                    "Catamaran Ride"
                 ]
             }
         },
@@ -1268,9 +1215,9 @@
             "destination_profile": {
                 "context": "Unique in landscape and identity, and steeped in complex history both ancient and modern, there is no place in Sri Lanka, quite like Jaffna. Famous places and must see sights popular with local and foreign visitors are scattered throughout the peninsula. Over its 2000 years of history on record the city changed rule time and again: Sinhalese, South Indian, Portuguese, Dutch and English all left their legacies. Surviving a 30 year civil war, Jaffna has rebuilt its own distinctive self and remains a bubbling hotpot of contrasts, much like those who live there.",
                 "relevance": [
-                    "Nagadeepa Temple",
                     "Nallur Temple",
-                    "Delft Island"
+                    "Delft Island",
+                    "Nagadeepa Temple"
                 ]
             }
         },
@@ -1279,9 +1226,9 @@
             "destination_profile": {
                 "context": "Paradise for nature lovers and watersports enthusiasts, Kalpitiya sits between the lagoon and the sea on the North Western coast. Renowned for observing large pods of dolphins and whales offshore, Kalpitiya is designated as a marine sanctuary with bar reefs, flat coastal plains, saltpans, mangrove swamps, marshes and vast sand dunes. The 307 sq.km Bar Reef is the largest coral reef in Sri Lanka. Rich in biodiversity, the reef is home to tropical fish manta rays, reef sharks and sea turtles. The best time to visit Kalpitiya is between October and May.",
                 "relevance": [
-                    "Whale and Dolphin Watching",
+                    "Kite / Windsurfing",
                     "Kalpitiya Dutch Fort",
-                    "Kite / Windsurfing"
+                    "Whale and Dolphin Watching"
                 ]
             }
         },
@@ -1290,8 +1237,8 @@
             "destination_profile": {
                 "context": "White-water rafting, jungle trekking, outbound training, cave explorations: it’s all about action packed thrills and spills at Kitulgala. Sri Lanka is becoming a popular adventure destination, and this small village on the Kelani River in the Western hills offers plenty of choice. Whether you are a novice or a seasoned adventurer, and whatever activity you choose, it is important to use a reputed, certified operator with qualified guides. The forest along the banks is home to over 54 rare bird species, so trekking is a must if you are a nature lover too.",
                 "relevance": [
-                    "Whitewater Rafting",
                     "Belilena Cave",
+                    "Whitewater Rafting",
                     "Makandawa Rain Forest"
                 ]
             }
@@ -1301,9 +1248,9 @@
             "destination_profile": {
                 "context": "A small town on the South coast of Sri Lanka, Mirissa is regarded as the closest point to where Blue whales gather. Others such as Bryde’s whales, sperm whales, killer whales, pilot whales, and four kinds of dolphins (spinner dolphin, bottlenose dolphin, striped dolphin, Risso’s dolphin) can also be spotted offshore. Water sports facilities such as sailing, fishing, coastal cruises, river trips, sea kayaking, snorkelling and boating are also there for those looking for other activities. The weather is generally fine, but the best time to visit Mirissa is from December to February.",
                 "relevance": [
-                    "Whale and Dolphin Watching",
+                    "Secret Beach",
                     "Coconut Tree Hill",
-                    "Secret Beach"
+                    "Whale and Dolphin Watching"
                 ]
             }
         },
@@ -1312,12 +1259,543 @@
             "destination_profile": {
                 "context": "Although renowned for its golden beaches, in Negombo, sightseeing opportunities are also plentiful. Predominantly Roman Catholic, it’s referred to as “Little Rome'' due to the many ornate Catholic churches. However, Buddhist, Hindu and Muslim landmarks of significance are also found - often almost next to each other. Several relics that date back to the Dutch and Portuguese colonial era remain, like the ancient Dutch Fort gate built in 1672. The 100 km long Dutch Canal is still in use, and a boat ride will offer a whole different view of Negombo and the suburbs.",
                 "relevance": [
-                    "Negombo Fish Market",
                     "Hamilton Canal",
+                    "Negombo Fish Market",
                     "Dutch Fort"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/nuwara-eliya/",
+            "destination_profile": {
+                "context": "Renowned as ‘Little England’, here in the tea country, traditions, breathtaking views and cold climes reign supreme. Hidden away high in the central mountains at an altitude of over 6000 feet, Nuwara Eliya is the resort capital of Sri Lanka. With the weather to match, the British tea planters of the mid 19th century created a replica of their home country. A sense of timelessness still prevails in the ambience with its mainly colonial architecture, the park, golf course, racing track, boating lake and grand period style mansions, which now serve as hotels.",
+                "relevance": [
+                    "Hakgala Gardens",
+                    "Horton Plains",
+                    "Strawberry Fields"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/passikudah/",
+            "destination_profile": {
+                "context": "The pristine shore of Passikudah is much sought after by those who prefer to escape to an isolated tropical heaven. The beach is wide and long; the waves are gentle and calm; there seems to be nothing for miles but pure white sands. Beneath the waters of the bay, a unique coral reef system thrives with myriad species of tropical fish. The shallow reef stretches far out and is connected to similar reefs at Kalkudah. This is one of the best-known reef systems in the region and is now a proposed Marine Sanctuary.",
+                "relevance": [
+                    "Batticaloa Lighthouse",
+                    "Water Sports",
+                    "Singing Fish and Kallady Bridge"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/polonnaruwa/",
+            "destination_profile": {
+                "context": "A cornerstone of the cultural triangle, Polonnaruwa is one of the most significant kingdoms in the nation’s history. Reigning supreme in 11th - 12th century AD, its scattered ruins still remain well preserved. The giant statue of Polonnaruwa's greatest king - Sri Parakramabahu, and the vast ‘Sea of Parakrama’ – a 12th century reservoir which he built, are still imposing. The Menik Vihara, Rankot Vihara, Alahana Pirivena and Jetavana monasteries, the Buddha statues carved from rock at the Gal Vihara complex, the Lankatilaka shrine, the King's Council Chamber and the Lotus Bath are must see attractions.",
+                "relevance": [
+                    "Minneriya National Park",
+                    "Monkey Kingdom",
+                    "Ruins and Temples"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/sigiriya/",
+            "destination_profile": {
+                "context": "A giant rock rising 370m above the surrounding flat landscape, this World Heritage Site was once the impenetrable fortress of King Kassapa who ruled in 5th Century BC. The acres of landscaped gardens, the giant lion paws guarding the fortress entrance, the mirror wall of scribbled verses, the frescoes painted on the sheer rock face, and the scattered ruins of the city at the summit are all matchless feats of artistry, architecture and engineering that have survived thousands of years. For those wishing to explore beyond Sigiriya, other tourist attractions are plentiful too.",
+                "relevance": [
+                    "Sigiriya Rock",
+                    "Pidurangala Rock",
+                    "Sigiriya Archaeological Museum"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/sinharaja/",
+            "destination_profile": {
+                "context": "Hidden in the heart of the wet zone on the south western mountains, the Sinharaja Forest Reserve continues to ward off the threat of modernity to give us a glimpse of how paradise should really be. A World Heritage Site and considered as one of the most distinctive and important biospheres, it has an immense diversity of endemic fauna and flora, most of which are found only at Sinharaja. That includes more than 60% of the trees, 50% of mammals, butterflies, insects, reptiles, fish and amphibians with over 21 endemic bird species too.",
+                "relevance": [
+                    "Forest Trek",
+                    "Waterfalls Trek",
+                    "Birdwatching Trek"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/tangalle/",
+            "destination_profile": {
+                "context": "Turtles, temples, giant Buddha statues, rural fishing outposts and the endless ocean on the horizon. Located on Southern Sri Lanka’s beautiful stretch of coastline, Tangalle remains unspoilt, offering a peaceful, idyllic setting. There’s much to explore though. The Kalametiya Bird Sanctuary, a haven for migrants and endemics, is a must do for birders. Another site worth visiting - being the topic of many legends and lore, is Ussangoda. Some claim that in ancient times a meteor had crashed on this barren plateau of dark red soil surrounded by forest; hence its distinctly foreboding air.",
+                "relevance": [
+                    "Hummanaya Blowhole",
+                    "Mulkirigala Temple",
+                    "Rekawa Turtle Conservation Project"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/trincomalee/",
+            "destination_profile": {
+                "context": "Ancient rulers and colonial powers fought over it; now it is the pristine white beaches that attract visitors to Trincomalee. Famous places are abundant here. The remnants of colonial occupation live on in the city’s architecture and abandoned forts. Sought after for centuries due to its natural harbour and strategic location, Trincomalee served as an important naval base for the allies during World War II, and still continues to be vital to the Sri Lankan Navy. The secluded beaches of Uppuveli, Nilaveli and Kuchchaveli and Pigeon Island offshore are must visit places too.",
+                "relevance": [
+                    "Koneswaram Temple",
+                    "Snorkelling at Pigeon Island",
+                    "Whale and Dolphin Watching"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/udawalawe/",
+            "destination_profile": {
+                "context": "A vast nature reserve shadowed by the Great Western mountain range, Udawalawe is centred around its namesake reservoir. Elephants are the park’s main attraction, being home to over 600 with herds of up to 50 being quite a common sight. The open plains and the lack of dense vegetation here makes it one of the best places on earth to spot elephants in their natural habitat. The park is also home to a wide variety of wildlife - buffalo, crocodiles, deer, sambur and many bird species. Leopards and bears however, are spotted less often.",
+                "relevance": [
+                    "Game Drives",
+                    "Elephant Transit Centre",
+                    "Mahapelessa Hot Springs"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/weligama/",
+            "destination_profile": {
+                "context": "A small town on the South coast of Sri Lanka, in Weligama, one of the main attractions is the unique sight of stilt fishermen - especially silhouetted against a blazing sunset. Precariously perched astride a crossbar on a single pole, they weather the waves to catch a meagre harvest. This traditional livelihood has been maintained for centuries with the skills passed down from one generation to the next. Weligama is also renowned for another picture-postcard sight: the islet known as Taprobane or Count de Mauny Island - a hop across the sea at low tide.",
+                "relevance": [
+                    "Stilt Fisherman",
+                    "Snorkelling and Diving",
+                    "Surfing Time"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/wellawaya/",
+            "destination_profile": {
+                "context": "A land of paddy, cascading waterfalls and peacocks, Wellawaya sits in rural tranquillity at the foothills of the central massif - the Great Western Mountain range. Simple lifestyles still preside here, deeply embedded in traditional livelihoods that have survived unchanged for centuries. The town is literally at the crossroads and an important gateway to the East and the South. Serene and peaceful, the unspoilt landscape changes from lush fields to scrub jungle and rocky terrain of waterfalls. The area is also culturally significant with sites of historical interest such as Buduruwagala Rock carvings nearby.",
+                "relevance": [
+                    "Waterfall Trek",
+                    "Ellawala Waterfall"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/wilpattu/",
+            "destination_profile": {
+                "context": "With over 131,000 hectares stretching from the North Western coast to the North Central province, Wilpattu is a complex of lakes surrounded by grassy plains and scrub jungle. Declared a wildlife sanctuary in 1905, Wilpattu is one of Sri Lanka’s oldest national parks. The main attraction is Leopards, but elephants, sloth bears, buffaloes and crocs and other species - common and rare, are also abundant. Wilpattu and its surroundings have great historical significance too. History states that in 543 BC Prince Vijaya arrived here from East India and formed the land of Lanka.",
+                "relevance": [
+                    "Game Drives",
+                    "Safari Camping"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/yala/",
+            "destination_profile": {
+                "context": "Diverse habitats, 44 mammal species, over 200 species of birds and a history retraced to 500 BC - Yala National Park is Sri Lanka’s most popular wildlife destination. Declared a Game Reserve in 1938, Yala comprises five blocks covering an area of 151,778 hectares. The park comprises several major habitat types - dunes, scrub forest, riverine forests, rocky out-crops, secondary forests and coastal lagoons with mangrove forests. It is also known to contain the highest concentration of leopards in the world. The endangered leopard subspecies Panthera Pardus Kotiya, is found only in Sri Lanka.",
+                "relevance": [
+                    "Yala Game Drive",
+                    "Bundala Game Drive",
+                    "Sithulpawwa Buddhist Monastery"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/kandy/",
+            "destination_profile": {
+                "context": "With history, heritage and tradition melding with modernity, there are many remarkable places to visit in kandy. The cultural epicentre of the island, it is Sri Lanka’s second city, and home to the Temple of the Tooth - the country’s most important religious shrine, and the traditional pageant - the Esala Perahera. The last stronghold of the Sinhalese, the kingdom of Kandy clung to sovereignty for centuries before falling to the British in 1818. They retained their own distinctive customs and culture. These traditions live on today in the city’s unique music, dance and architecture.",
+                "relevance": [
+                    "Cultural Dance Show",
+                    "Peradeniya Botanical Garden",
+                    "Temple of the Tooth Relic"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/unawatuna/",
+            "destination_profile": {
+                "context": "Much sought out for its ‘chilled out’ atmosphere, Unawatuna is a beautiful palm fringed cove on the Southern coastline, close to Galle. If you love a beach party atmosphere, this is the place to be. With plenty of restaurants and bars, ‘Una’ is buzzing with sun, fun, music and life all year round, and the best time to visit Unawatuna is in fact, any time. If you want a break, the protected Galapiteala and Napoleon Reefs over the bay offer safe swimming, and there are plenty of other natural and cultural attractions too.",
+                "relevance": [
+                    "Japanese Peace Pagoda Rumassala",
+                    "Relax at Jungle Beach",
+                    "Rope Swings at Dalawella and Wijeya Beach"
                 ]
             }
         }
     ],
-    "experiences": []
+    "experiences": [
+        {
+            "url": "https://jetwingtravels.com/experiences/",
+            "experiences": [
+                {
+                    "experience": "Gangaramaya Temple",
+                    "description": "A mix of modern architecture and cultural significance, the complex comprises the main temple, a museum, a library and a vocational training centre."
+                },
+                {
+                    "experience": "Colombo National Museum",
+                    "description": "A beautiful colonial building surrounded by vast grounds, a collection of relics, artefacts and historical paraphernalia from Sri Lanka’s antiquity are housed here."
+                },
+                {
+                    "experience": "Independence Square",
+                    "description": "A national monument of Kandyan style architecture, this landmark and the surrounding square was built in 1948 to commemorate Independence from British rule."
+                },
+                {
+                    "experience": "Waterfalls Trek",
+                    "description": "Sinharaja reserve is home to 19 waterfalls. This trek will take you through the forest to admire the magnificence of some of them."
+                },
+                {
+                    "experience": "Rope Swings at Dalawella and Wijeya Beach",
+                    "description": "Become insta-famous with your own photos at these popular spots. The views will grab you even if rope swinging is not your thing."
+                },
+                {
+                    "experience": "Japanese Peace Pagoda Rumassala",
+                    "description": "Built in 2005 as a symbol of peace, this unique shrine on Rumassala hill also offers incredible views of the coastline and Galle."
+                },
+                {
+                    "experience": "Relax at Jungle Beach",
+                    "description": "One of the most famous and secluded beaches in Unawatuna, this pristine little cove flanked by jungle is an ideal place to chill."
+                },
+                {
+                    "experience": "Cultural Dance Show",
+                    "description": "Swirls of vibrant colour and pulsating rhythms; dances and drums that keep traditions of old alive. Witness an unforgettable display of Kandyan heritage."
+                },
+                {
+                    "experience": "Peradeniya Botanical Garden",
+                    "description": "Sprawled across 147 acres, the garden includes more than 4000 species of plants and trees, including rare orchids, spices, medicinal herbs and palms."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/2/",
+            "experiences": [
+                {
+                    "experience": "Temple of the Tooth Relic",
+                    "description": "Revered by pilgrims from around the world, the ‘Sri Dalada Maligawa’ is a sacred Buddhist shrine housing a tooth relic of Lord Buddha."
+                },
+                {
+                    "experience": "Sithulpawwa Buddhist Monastery",
+                    "description": "On a rock rising above the wilderness, this ancient Buddhist monastery and cave - dating back to 2nd century BC - offers serenity and views."
+                },
+                {
+                    "experience": "Bundala Game Drive",
+                    "description": "A must for birdwatchers - over 150 species of birds are found here at any time of the year, as well as other wildlife."
+                },
+                {
+                    "experience": "Yala Game Drive",
+                    "description": "Take a morning or evening game drive to meet Sri Lanka’s big five: leopard, sloth bear, elephant, buffalo, crocodiles, and many others too."
+                },
+                {
+                    "experience": "Safari Camping",
+                    "description": "Want to experience the jungle more intimately? There’s perhaps nothing more thrilling than camping, even if you choose to do so in luxury."
+                },
+                {
+                    "experience": "Ellawala Waterfall",
+                    "description": "Trek or cycle through jungle and fields to this gentle cascade where you can cool off and just feel at one with nature."
+                },
+                {
+                    "experience": "Waterfall Trek",
+                    "description": "At 220 metres high, Diyaluma is Sri Lanka’s 2nd highest waterfall, and Uda Diyaluma is its upper segment with the insta-famous bathing pool."
+                },
+                {
+                    "experience": "Archaeology Experience",
+                    "description": "Visit the historical sites of Buduruwagala, Yudaganawa and Maligawila where giant Buddha statues and rock carvings from centuries ago have survived relatively unscathed."
+                },
+                {
+                    "experience": "Snorkelling and Diving",
+                    "description": "Slip into the shallow reefs teeming with marine life, or explore popular dive sites including Prince Heinrich Patch, Bridge Rock and Yala Rock."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/3/",
+            "experiences": [
+                {
+                    "experience": "Stilt Fisherman",
+                    "description": "Watch how these expert fishermen set up their stilts and cast their rods, and perhaps try your fishing skills on the crossbar too."
+                },
+                {
+                    "experience": "Surfing Time",
+                    "description": "With its protected bay and gentler waves, Weligama is great for beginners, however, there are tougher swells for the more experienced surfers too."
+                },
+                {
+                    "experience": "Mahapelessa Hot Springs",
+                    "description": "An unusual occurrence, these hot Springs are situated close to the Madunagala Hermitage. Belief of its healing properties draws visitors from all over."
+                },
+                {
+                    "experience": "Elephant Transit Centre",
+                    "description": "This ethical facility is dedicated to the care of vulnerable elephants. Here, abandoned calves are taken in, nurtured and nursed back to health."
+                },
+                {
+                    "experience": "Game Drives",
+                    "description": "Explore Udawalawe on a morning or evening game drive to see the elephant herds and a host of its other less famous residents."
+                },
+                {
+                    "experience": "Koneswaram Temple",
+                    "description": "A significant site in the Ramayana legend, this ‘temple of a thousand pillars’ sits on the sheer Swami Rock - also called Lovers Leap."
+                },
+                {
+                    "experience": "Snorkelling at Pigeon Island",
+                    "description": "This is snorkelling heaven. Explore a 200m long, 100m wide reef with over 300 species of fish, sea turtles and Blacktip Reef sharks."
+                },
+                {
+                    "experience": "Mulkirigala Temple",
+                    "description": "High on a rock 250 metres tall, this monastery complex is over 2000 years old and is of great cultural and historical significance."
+                },
+                {
+                    "experience": "Hummanaya Blowhole",
+                    "description": "The second largest in the world, and the only one in Sri Lanka, this natural blowhole sprays jets of water often reaching 100ft."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/4/",
+            "experiences": [
+                {
+                    "experience": "Rekawa Turtle Conservation Project",
+                    "description": "Endangered giant turtles nest on the Rekawa shoreline; here, you can learn more about their habits, habitats and help release hatchlings to sea."
+                },
+                {
+                    "experience": "Birdwatching Trek",
+                    "description": "With more than 147 species and over 95% of Sri Lanka’s endemic birds recorded here, this trek will be heaven for bird lovers."
+                },
+                {
+                    "experience": "Forest Trek",
+                    "description": "Walk through this ethereal forest and be transported back to a paradise unchanged from the beginning of time, perhaps even before man existed."
+                },
+                {
+                    "experience": "Sigiriya Archaeological Museum",
+                    "description": "Home to artefacts and exhibits dating back to pre-civilisation, the remnants of the rich heritage of the area is displayed over three floors."
+                },
+                {
+                    "experience": "Pidurangala Rock",
+                    "description": "The trek up this unique rock opposite Sigiriya is well worth it for the incredible views of the central plains - especially at sunrise."
+                },
+                {
+                    "experience": "Sigiriya Rock",
+                    "description": "Climb up to admire the frescoes on the rock face. Then reach the summit where 360 degree views, and timeless ruins await you."
+                },
+                {
+                    "experience": "Monkey Kingdom",
+                    "description": "The stars of the 2015 Disney nature documentary ‘Monkey Kingdom’ still rule the ruins. Meet them off-screen, and learn more about their lives."
+                },
+                {
+                    "experience": "Minneriya National Park",
+                    "description": "Where the elephants gather in their hundreds to drink, feed and play. Enjoy an exciting game drive to see them and their habitat."
+                },
+                {
+                    "experience": "Ruins and Temples",
+                    "description": "Ancient stupas, moonstones, landscaped gardens, imposing shrines and statues that have stood for hundreds of years - what stories they may tell, if asked."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/5/",
+            "experiences": [
+                {
+                    "experience": "Singing Fish and Kallady Bridge",
+                    "description": "Kallady is Sri Lanka’s oldest and longest iron bridge. Popular legend claims that sounds of singing fish can be heard from beneath it."
+                },
+                {
+                    "experience": "Batticaloa Lighthouse",
+                    "description": "Built in 1913 by the British, it guided many ships to safety and still stands guard. The views from the top are breathtaking."
+                },
+                {
+                    "experience": "Water Sports",
+                    "description": "One of the safest beaches in the country, Passikudah is ideal for surfing, snorkelling, diving, windsurfing, water skiing, kite surfing and other watersports."
+                },
+                {
+                    "experience": "Strawberry Fields",
+                    "description": "Yes, strawberries in the tropics! Take a stroll around the gardens, enjoy picking your own fruit as well as savouring some delicious treats."
+                },
+                {
+                    "experience": "Hakgala Gardens",
+                    "description": "Over 88 acres of sprawling estate, home to around 10,000 temperate and subtropical plant species, Hakgala is popular for its rose gardens."
+                },
+                {
+                    "experience": "Horton Plains",
+                    "description": "An ethereal World Heritage Site of montane grassland and cloud forest over 2000m above sea level, it’s the highest plateau in Sri Lanka."
+                },
+                {
+                    "experience": "Hamilton Canal",
+                    "description": "Built in 1804, this busy waterway is in use to date. A boat ride along its Negombo stretch is a very scenic one."
+                },
+                {
+                    "experience": "Negombo Fish Market",
+                    "description": "The ‘Lellama’ as it’s known, is the heart of any fishing town. The catch of the day is traded here with much gusto."
+                },
+                {
+                    "experience": "Secret Beach",
+                    "description": "A small, relatively private cove, the Secret Beach may no longer be quite a secret, but its secluded charm is still incredibly perfect."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/6/",
+            "experiences": [
+                {
+                    "experience": "Coconut Tree Hill",
+                    "description": "Walk to this much sought after location, made famous by instagram, to understand why this protruding grove of coconut is so very special."
+                },
+                {
+                    "experience": "Makandawa Rain Forest",
+                    "description": "Comprising 1155 hectares of rich biodiversity, including the only aquatic orchid species in the country, Makandawa is the oldest rainforest in Sri Lanka."
+                },
+                {
+                    "experience": "Belilena Cave",
+                    "description": "The largest cave in Sri Lanka, the skeletal remains of the prehistoric “Balangoda man” (more than 32,000 years old) were found here."
+                },
+                {
+                    "experience": "Whitewater Rafting",
+                    "description": "Get your adrenaline rush rafting on the raging rapids. The twists and turns of the river offer challenges for beginners and experts alike."
+                },
+                {
+                    "experience": "Kalpitiya Dutch Fort",
+                    "description": "Built in 1666, this ancient Dutch Fort is now in ruins, but it still holds on to a shadow of its past grandeur."
+                },
+                {
+                    "experience": "Whale and Dolphin Watching",
+                    "description": "Take a boat ride to watch pods of dolphins and whales in their natural habitat; many varieties thrive in the waters off Kalpitiya."
+                },
+                {
+                    "experience": "Kite / Windsurfing",
+                    "description": "Get your kite, catch the waves, or just watch the fun. Kalpitiya is popular with enthusiasts and tourists from all around the world."
+                },
+                {
+                    "experience": "Delft Island",
+                    "description": "Home to herds of feral ‘Delft ponies’, lost ruins and legacies of colonial rule, this is the remotest of Sri Lanka’s inhabited islands."
+                },
+                {
+                    "experience": "Nagadeepa Temple",
+                    "description": "One of Sri Lanka’s 16 holiest Buddhist shrines, this ancient temple sits on the island of Nainativu, off the coast of Jaffna peninsula."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/7/",
+            "experiences": [
+                {
+                    "experience": "Nallur Temple",
+                    "description": "The 15th century Nallur Kandaswamy Kovil - one of the most significant Hindu temples in Sri Lanka - showcases the colourful grandeur of Dravidian architecture."
+                },
+                {
+                    "experience": "Hikkaduwa Turtle Hatchery",
+                    "description": "Spend some quality time with baby turtles and support a project that’s dedicated to study, care for and protect Sri Lanka’s turtle species."
+                },
+                {
+                    "experience": "Glass Bottom Boat Ride",
+                    "description": "If you don't fancy getting in the water, a glass bottom boat is the best way to witness the wonders of underwater life."
+                },
+                {
+                    "experience": "Snorkelling and Coral Reefs",
+                    "description": "Dive down to a calm undersea world where over 60 species of corals, 170 species of reef fish and other marine life thrive."
+                },
+                {
+                    "experience": "Warleigh Church",
+                    "description": "Step into this old British church and step back in time to 1878. The period interior remains mostly unchanged, even the views outside."
+                },
+                {
+                    "experience": "Kayaking on Castlereagh",
+                    "description": "Take a kayak out on the tranquil castlereagh Reservoir surrounded by high mountains; and enjoy the breathtaking scenery and a sense of serenity."
+                },
+                {
+                    "experience": "Adam’s Peak Sunrise",
+                    "description": "Climb the holy mountain of Adam’s Peak to watch the sunrise and the incredible sight of its triangular shadow falling across the sky."
+                },
+                {
+                    "experience": "Catamaran Ride",
+                    "description": "Enjoy a leisurely ride on a traditional canoe called catamaran on the tranquil Habarana Lake, and watch fishermen and the kingfishers at work."
+                },
+                {
+                    "experience": "Hurulu Eco Park",
+                    "description": "Explore the 10,000 hectares of land home to elephants and other wildlife on an exciting game drive, early morning or late evening."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/8/",
+            "experiences": [
+                {
+                    "experience": "Hiriwadunna Village Walk",
+                    "description": "Take a walk through paddy fields and ‘chena’ cultivations to a rural village home for a typical Sri Lankan lunch - rice and curry."
+                },
+                {
+                    "experience": "Kanneliya Forest",
+                    "description": "The second remaining rainforest in Sri Lanka, this UNESCO biosphere is a paradise containing a high level of endemism in fauna and flora."
+                },
+                {
+                    "experience": "Fort Lighthouse",
+                    "description": "Within the Fort, overlooking the harbour, this is the first onshore lighthouse in the area and dates back to the mid 19th century."
+                },
+                {
+                    "experience": "Dutch Fort",
+                    "description": "Built by the Portuguese in 1588, fortified by the Dutch from 1649, this World Heritage site has truly withstood many tests of time."
+                },
+                {
+                    "experience": "Ravana Ella Falls",
+                    "description": "This impressive cascade is the widest in Sri Lanka, and legend states that King Ravana held the Indian princess Sita captive in them."
+                },
+                {
+                    "experience": "Demodara Bridge",
+                    "description": "A colonial engineering marvel that’s 24m tall and spans 91 m, the insta-famous Nine Arch Bridge sits on the Demodara loop - a must visit."
+                },
+                {
+                    "experience": "Mini Adam’s Peak",
+                    "description": "Hiking up Mini Adam’s Peak is an easy and very rewarding one. At 1141m above sea level, the panoramic views are truly breathtaking."
+                },
+                {
+                    "experience": "Rose Quartz Mountain",
+                    "description": "Around 180 and 300 metres above sea level, this unusual pink quartz mountain range is believed to be over 500 million years old."
+                },
+                {
+                    "experience": "Hot Air Balloon Ride",
+                    "description": "There is perhaps no better way to get a bird’s eye view of Dambulla and take in the beauty of the surrounding landscape."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/9/",
+            "experiences": [
+                {
+                    "experience": "Dambulla Cave Temple",
+                    "description": "The largest and the best preserved cave monastery in the island, its five sanctuaries comprise 157 statues and intricate frescoes covering the walls."
+                },
+                {
+                    "experience": "Kosgoda Turtle Hatchery",
+                    "description": "Here, five turtle species - Olive Ridleys, Leatherbacks, Green Turtles, Loggerheads and Hawksbills, make their nests. Your visit will help the project’s conservation efforts."
+                },
+                {
+                    "experience": "Bentota Lagoon",
+                    "description": "Jet Skiing, windsurfing, boat rides, tube rides, waterboarding and much more, there are many thrills and spills to enjoy on the Bentota lagoon."
+                },
+                {
+                    "experience": "Lunuganga Gardens",
+                    "description": "14 acres of lush, beautifully landscaped gardens on the banks of the Dedduwa lake, this was the renowned architect Geoffrey Bawa’s personal hideaway."
+                },
+                {
+                    "experience": "Mihintale",
+                    "description": "Deemed the birthplace of Buddhism in Sri Lanka, this 500m tall outcrop features ancient stupas, a stone hewed stairway, and 68 cave dwellings."
+                },
+                {
+                    "experience": "Ruwanweli Maha Seya",
+                    "description": "Built by King Dutugemunu around 140 BC, this giant stupa contains the largest collection of relics of Lord Buddha, and is highly venerated."
+                },
+                {
+                    "experience": "Sri Maha Bodhiya",
+                    "description": "Considered to be the oldest planted tree in the world with a recorded history, this sacred Bo tree dates back to 245 BC."
+                },
+                {
+                    "experience": "Kumana National Park",
+                    "description": "Located at the eastern edge of Yala, Kumana is renowned for large flocks of migratory waterfowl and wading birds - a paradise for birdwatchers."
+                },
+                {
+                    "experience": "Kudumbigala Sanctuary",
+                    "description": "This isolated monastic complex built in 246 BC offers scenic views. 26 km south, the drive alongside the jungle is rather exciting too."
+                }
+            ]
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/10/",
+            "experiences": [
+                {
+                    "experience": "Learn Surfing",
+                    "description": "If you fancy your turn on the board, there are many surf schools and qualified instructors to help you hit the waves safely."
+                }
+            ]
+        }
+    ]
 }

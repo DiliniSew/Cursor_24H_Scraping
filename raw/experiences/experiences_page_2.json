@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/2/",
-    "experience_profile": {
-        "experience": "Temple of the Tooth Relic",
-        "description": "Revered by pilgrims from around the world, the ‘Sri Dalada Maligawa’ is a sacred Buddhist shrine housing a tooth relic of Lord Buddha."
-    }
+    "experiences": [
+        {
+            "experience": "Temple of the Tooth Relic",
+            "description": "Revered by pilgrims from around the world, the ‘Sri Dalada Maligawa’ is a sacred Buddhist shrine housing a tooth relic of Lord Buddha."
+        },
+        {
+            "experience": "Sithulpawwa Buddhist Monastery",
+            "description": "On a rock rising above the wilderness, this ancient Buddhist monastery and cave - dating back to 2nd century BC - offers serenity and views."
+        },
+        {
+            "experience": "Bundala Game Drive",
+            "description": "A must for birdwatchers - over 150 species of birds are found here at any time of the year, as well as other wildlife."
+        },
+        {
+            "experience": "Yala Game Drive",
+            "description": "Take a morning or evening game drive to meet Sri Lanka’s big five: leopard, sloth bear, elephant, buffalo, crocodiles, and many others too."
+        },
+        {
+            "experience": "Safari Camping",
+            "description": "Want to experience the jungle more intimately? There’s perhaps nothing more thrilling than camping, even if you choose to do so in luxury."
+        },
+        {
+            "experience": "Ellawala Waterfall",
+            "description": "Trek or cycle through jungle and fields to this gentle cascade where you can cool off and just feel at one with nature."
+        },
+        {
+            "experience": "Waterfall Trek",
+            "description": "At 220 metres high, Diyaluma is Sri Lanka’s 2nd highest waterfall, and Uda Diyaluma is its upper segment with the insta-famous bathing pool."
+        },
+        {
+            "experience": "Archaeology Experience",
+            "description": "Visit the historical sites of Buduruwagala, Yudaganawa and Maligawila where giant Buddha statues and rock carvings from centuries ago have survived relatively unscathed."
+        },
+        {
+            "experience": "Snorkelling and Diving",
+            "description": "Slip into the shallow reefs teeming with marine life, or explore popular dive sites including Prince Heinrich Patch, Bridge Rock and Yala Rock."
+        }
+    ]
 }

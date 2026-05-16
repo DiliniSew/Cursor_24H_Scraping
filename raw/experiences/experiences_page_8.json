@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/8/",
-    "experience_profile": {
-        "experience": "Hiriwadunna Village Walk",
-        "description": "Take a walk through paddy fields and ‘chena’ cultivations to a rural village home for a typical Sri Lankan lunch - rice and curry."
-    }
+    "experiences": [
+        {
+            "experience": "Hiriwadunna Village Walk",
+            "description": "Take a walk through paddy fields and ‘chena’ cultivations to a rural village home for a typical Sri Lankan lunch - rice and curry."
+        },
+        {
+            "experience": "Kanneliya Forest",
+            "description": "The second remaining rainforest in Sri Lanka, this UNESCO biosphere is a paradise containing a high level of endemism in fauna and flora."
+        },
+        {
+            "experience": "Fort Lighthouse",
+            "description": "Within the Fort, overlooking the harbour, this is the first onshore lighthouse in the area and dates back to the mid 19th century."
+        },
+        {
+            "experience": "Dutch Fort",
+            "description": "Built by the Portuguese in 1588, fortified by the Dutch from 1649, this World Heritage site has truly withstood many tests of time."
+        },
+        {
+            "experience": "Ravana Ella Falls",
+            "description": "This impressive cascade is the widest in Sri Lanka, and legend states that King Ravana held the Indian princess Sita captive in them."
+        },
+        {
+            "experience": "Demodara Bridge",
+            "description": "A colonial engineering marvel that’s 24m tall and spans 91 m, the insta-famous Nine Arch Bridge sits on the Demodara loop - a must visit."
+        },
+        {
+            "experience": "Mini Adam’s Peak",
+            "description": "Hiking up Mini Adam’s Peak is an easy and very rewarding one. At 1141m above sea level, the panoramic views are truly breathtaking."
+        },
+        {
+            "experience": "Rose Quartz Mountain",
+            "description": "Around 180 and 300 metres above sea level, this unusual pink quartz mountain range is believed to be over 500 million years old."
+        },
+        {
+            "experience": "Hot Air Balloon Ride",
+            "description": "There is perhaps no better way to get a bird’s eye view of Dambulla and take in the beauty of the surrounding landscape."
+        }
+    ]
 }

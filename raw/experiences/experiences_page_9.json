@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/9/",
-    "experience_profile": {
-        "experience": "Dambulla Cave Temple",
-        "description": "The largest and the best preserved cave monastery in the island, its five sanctuaries comprise 157 statues and intricate frescoes covering the walls."
-    }
+    "experiences": [
+        {
+            "experience": "Dambulla Cave Temple",
+            "description": "The largest and the best preserved cave monastery in the island, its five sanctuaries comprise 157 statues and intricate frescoes covering the walls."
+        },
+        {
+            "experience": "Kosgoda Turtle Hatchery",
+            "description": "Here, five turtle species - Olive Ridleys, Leatherbacks, Green Turtles, Loggerheads and Hawksbills, make their nests. Your visit will help the project’s conservation efforts."
+        },
+        {
+            "experience": "Bentota Lagoon",
+            "description": "Jet Skiing, windsurfing, boat rides, tube rides, waterboarding and much more, there are many thrills and spills to enjoy on the Bentota lagoon."
+        },
+        {
+            "experience": "Lunuganga Gardens",
+            "description": "14 acres of lush, beautifully landscaped gardens on the banks of the Dedduwa lake, this was the renowned architect Geoffrey Bawa’s personal hideaway."
+        },
+        {
+            "experience": "Mihintale",
+            "description": "Deemed the birthplace of Buddhism in Sri Lanka, this 500m tall outcrop features ancient stupas, a stone hewed stairway, and 68 cave dwellings."
+        },
+        {
+            "experience": "Ruwanweli Maha Seya",
+            "description": "Built by King Dutugemunu around 140 BC, this giant stupa contains the largest collection of relics of Lord Buddha, and is highly venerated."
+        },
+        {
+            "experience": "Sri Maha Bodhiya",
+            "description": "Considered to be the oldest planted tree in the world with a recorded history, this sacred Bo tree dates back to 245 BC."
+        },
+        {
+            "experience": "Kumana National Park",
+            "description": "Located at the eastern edge of Yala, Kumana is renowned for large flocks of migratory waterfowl and wading birds - a paradise for birdwatchers."
+        },
+        {
+            "experience": "Kudumbigala Sanctuary",
+            "description": "This isolated monastic complex built in 246 BC offers scenic views. 26 km south, the drive alongside the jungle is rather exciting too."
+        }
+    ]
 }

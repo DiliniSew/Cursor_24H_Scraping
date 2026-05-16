@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/6/",
-    "experience_profile": {
-        "experience": "Coconut Tree Hill",
-        "description": "Walk to this much sought after location, made famous by instagram, to understand why this protruding grove of coconut is so very special."
-    }
+    "experiences": [
+        {
+            "experience": "Coconut Tree Hill",
+            "description": "Walk to this much sought after location, made famous by instagram, to understand why this protruding grove of coconut is so very special."
+        },
+        {
+            "experience": "Makandawa Rain Forest",
+            "description": "Comprising 1155 hectares of rich biodiversity, including the only aquatic orchid species in the country, Makandawa is the oldest rainforest in Sri Lanka."
+        },
+        {
+            "experience": "Belilena Cave",
+            "description": "The largest cave in Sri Lanka, the skeletal remains of the prehistoric “Balangoda man” (more than 32,000 years old) were found here."
+        },
+        {
+            "experience": "Whitewater Rafting",
+            "description": "Get your adrenaline rush rafting on the raging rapids. The twists and turns of the river offer challenges for beginners and experts alike."
+        },
+        {
+            "experience": "Kalpitiya Dutch Fort",
+            "description": "Built in 1666, this ancient Dutch Fort is now in ruins, but it still holds on to a shadow of its past grandeur."
+        },
+        {
+            "experience": "Whale and Dolphin Watching",
+            "description": "Take a boat ride to watch pods of dolphins and whales in their natural habitat; many varieties thrive in the waters off Kalpitiya."
+        },
+        {
+            "experience": "Kite / Windsurfing",
+            "description": "Get your kite, catch the waves, or just watch the fun. Kalpitiya is popular with enthusiasts and tourists from all around the world."
+        },
+        {
+            "experience": "Delft Island",
+            "description": "Home to herds of feral ‘Delft ponies’, lost ruins and legacies of colonial rule, this is the remotest of Sri Lanka’s inhabited islands."
+        },
+        {
+            "experience": "Nagadeepa Temple",
+            "description": "One of Sri Lanka’s 16 holiest Buddhist shrines, this ancient temple sits on the island of Nainativu, off the coast of Jaffna peninsula."
+        }
+    ]
 }

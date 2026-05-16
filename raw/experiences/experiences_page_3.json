@@ -1,7 +1,41 @@
 {
     "url": "https://jetwingtravels.com/experiences/page/3/",
-    "experience_profile": {
-        "experience": "Stilt Fisherman",
-        "description": "Watch how these expert fishermen set up their stilts and cast their rods, and perhaps try your fishing skills on the crossbar too."
-    }
+    "experiences": [
+        {
+            "experience": "Stilt Fisherman",
+            "description": "Watch how these expert fishermen set up their stilts and cast their rods, and perhaps try your fishing skills on the crossbar too."
+        },
+        {
+            "experience": "Surfing Time",
+            "description": "With its protected bay and gentler waves, Weligama is great for beginners, however, there are tougher swells for the more experienced surfers too."
+        },
+        {
+            "experience": "Mahapelessa Hot Springs",
+            "description": "An unusual occurrence, these hot Springs are situated close to the Madunagala Hermitage. Belief of its healing properties draws visitors from all over."
+        },
+        {
+            "experience": "Elephant Transit Centre",
+            "description": "This ethical facility is dedicated to the care of vulnerable elephants. Here, abandoned calves are taken in, nurtured and nursed back to health."
+        },
+        {
+            "experience": "Game Drives",
+            "description": "Explore Udawalawe on a morning or evening game drive to see the elephant herds and a host of its other less famous residents."
+        },
+        {
+            "experience": "Koneswaram Temple",
+            "description": "A significant site in the Ramayana legend, this ‘temple of a thousand pillars’ sits on the sheer Swami Rock - also called Lovers Leap."
+        },
+        {
+            "experience": "Snorkelling at Pigeon Island",
+            "description": "This is snorkelling heaven. Explore a 200m long, 100m wide reef with over 300 species of fish, sea turtles and Blacktip Reef sharks."
+        },
+        {
+            "experience": "Mulkirigala Temple",
+            "description": "High on a rock 250 metres tall, this monastery complex is over 2000 years old and is of great cultural and historical significance."
+        },
+        {
+            "experience": "Hummanaya Blowhole",
+            "description": "The second largest in the world, and the only one in Sri Lanka, this natural blowhole sprays jets of water often reaching 100ft."
+        }
+    ]
 }

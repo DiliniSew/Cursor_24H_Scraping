@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
-# Workspace file paths & directory trees
+# Workspace file paths & folder configurations
 URL_MAP_PATH = "output/url_map.json"
 OUTPUT_COMBINED_PATH = "output/scraped_combined_output.json"
 
@@ -16,12 +16,12 @@ DIRS = {
     "experiences": "./raw/experiences"
 }
 
-# Ensure directories exist upfront
+# Ensure all workspace output folders exist upfront
 os.makedirs("output", exist_ok=True)
 for path in DIRS.values():
     os.makedirs(path, exist_ok=True)
 
-# Safety scraping delays and headers to prevent blocks
+# Safety scraping settings derived from your scraping guide
 DELAY = 1.5
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -55,12 +55,12 @@ def get_slug(url: str) -> str:
     return re.sub(r'[^a-zA-Z0-9_-]', '_', path)
 
 def parse_tour(soup, url: str) -> dict:
-    """Parses individual tour items capturing exact route flows and day schedules."""
+    """Parses tour items with clean accordion itinerary schedules and wildlife adjacencies."""
     h1_elem = soup.find("h1")
     package_name = clean(h1_elem.get_text()) if h1_elem else "Sri Lanka & The Maldives Tour"
     tour_id = url.rstrip("/").split("/")[-1]
 
-    # Heuristic Theme Finder
+    # Theme/Category Discovery Heuristic Array
     theme = "Barefoot Luxury"
     known_cats = ["Authentic Ceylon", "Adventurous Spirit", "Barefoot Luxury", "Following the Wild", "Romantic Serendipity", "Island of Wellness", "Join a Group"]
     for el in soup.find_all(["p", "span", "div"]):
@@ -75,7 +75,7 @@ def parse_tour(soup, url: str) -> dict:
     if duration_match:
         duration = clean(duration_match.group(0))
 
-    # Core Inclusions Map
+    # Core Inclusions
     inclusions = {
         "accommodation": "Hotel Stay",
         "meals": "Tailored to customer preferences",
@@ -89,7 +89,7 @@ def parse_tour(soup, url: str) -> dict:
                 val = [clean(li.get_text()) for li in nxt.find_all("li")] if nxt.name == "ul" else clean(nxt.get_text())
                 inclusions[label] = ", ".join(val) if isinstance(val, list) else val
 
-    # Itinerary Breakdown Strategy
+    # Day Schedule Accordion Processing 
     itinerary_list = []
     itinerary_containers = soup.find_all("div", class_="single-itinerary")
     
@@ -98,7 +98,7 @@ def parse_tour(soup, url: str) -> dict:
             day_el = item.find(class_="day")
             day_label = clean(day_el.get_text()) if day_el else "Day"
             
-            # Extract clean connecting path flow nodes
+            # Formats structural connecting path arrays (e.g., 'A to B to C')
             route_el = item.find(class_="route")
             route_text = ""
             if route_el:
@@ -114,7 +114,7 @@ def parse_tour(soup, url: str) -> dict:
                 "description": description
             })
     else:
-        # Fallback tracking logic for alternate theme architectures
+        # Static text fallback parser for older framework templates
         for el in soup.find_all(["h3", "h4", "strong"]):
             if re.match(r"day\s*\d+", clean(el.get_text()), re.IGNORECASE):
                 day_label = clean(el.get_text())
@@ -133,7 +133,7 @@ def parse_tour(soup, url: str) -> dict:
                     "description": " ".join(desc_parts[:2])
                 })
 
-    # Separate Wildlife/Ocean Experience Highlights
+    # Marine & Wildlife Excursion Filter
     highlights = []
     for heading in soup.find_all(["h2", "h3", "h4", "h5"]):
         if "highlights" in clean(heading.get_text()).lower() or "love" in clean(heading.get_text()).lower():
@@ -146,7 +146,7 @@ def parse_tour(soup, url: str) -> dict:
         if any(kw in hl.lower() for kw in ["whale", "dolphin", "turtle", "reef", "diving", "snorkel", "ocean", "safari", "elephant"]):
             ocean_wildlife.append(hl)
 
-    # REMOVED cultural_heritage key per your absolute constraint specifications
+    # REMOVED cultural_heritage key per explicit constraint adjustments
     return {
         "url": url,
         "id": tour_id,
@@ -163,36 +163,46 @@ def parse_tour(soup, url: str) -> dict:
     }
 
 def parse_experience(soup, url: str) -> dict:
-    """Extracts base standard target profile descriptions from active items."""
+    """Extracts ALL target experience cards, titles, and descriptions dynamically from page grids."""
     results = []
-    cards = soup.find_all("article") or soup.find_all("div", class_=lambda c: c and "experience" in c.lower())
-    for card in cards:
-        name_el = card.find(["h2", "h3", "h4"])
-        desc_el = card.find("p")
-        if name_el:
+    
+    # Grid loop traversing every item card layout on the archive list
+    wrappers = soup.find_all("div", class_="content-wrapper")
+    for wrap in wrappers:
+        title_el = wrap.find(["h2", "h3", "h4", "span"], class_="title") or wrap.find(["h2", "h3", "h4"])
+        desc_el = wrap.find("p", class_="mini-desc") or wrap.find("p", class_="desc") or wrap.find("p")
+        
+        if title_el:
             results.append({
-                "experience": clean(name_el.get_text()),
+                "experience": clean(title_el.get_text()),
                 "description": clean(desc_el.get_text()) if desc_el else ""
             })
-
+            
+    # Universal loop fallback block
     if not results:
-        h1_el = soup.find("h1")
-        content_div = soup.find("div", class_="entry-content") or soup.find("main")
-        desc_text = ""
-        if content_div:
-            desc_text = " ".join([clean(p.get_text()) for p in content_div.find_all("p") if len(clean(p.get_text())) > 40])
-        results.append({
-            "experience": clean(h1_el.get_text()) if h1_el else "Sri Lankan Attraction Portfolio",
-            "description": desc_text
-        })
+        items = soup.find_all("div", class_="item") or soup.find_all("article")
+        for item in items:
+            title_el = item.find(["h2", "h3", "h4"], class_="title")
+            desc_el = item.find("p", class_="mini-desc") or item.find("p", class_="desc")
+            if title_el:
+                results.append({
+                    "experience": clean(title_el.get_text()),
+                    "description": clean(desc_el.get_text()) if desc_el else ""
+                })
 
     return {
         "url": url,
-        "experience_profile": results[0] if results else {"experience": "Unknown Experience", "description": ""}
+        "experiences": results
     }
 
 def parse_destination(soup, url: str) -> dict:
-    """Gathers localized descriptions & explicit historical POIs while scrubbing blog content logs."""
+    """Gathers historical destination context overviews and extracts clean POIs using blacklists."""
+    
+    # Decompose structural sidebar layout and promotional widget noise first
+    for layout_noise in soup.find_all(["footer", "header", "nav", "aside", "div"], class_=["footer", "header", "similar-articles", "sidebar", "opening-hours", "contact-details", "blog-section"]):
+        layout_noise.decompose()
+
+    # Context Builder Pass
     context_text = ""
     content_containers = soup.find_all("div", class_=["entry-content", "content", "inner-page-intro", "desc-wrapper"])
     
@@ -208,6 +218,7 @@ def parse_destination(soup, url: str) -> dict:
         if valid_paras:
             context_text = valid_paras[0]
 
+    # Explicit Point of Interest filtering strategy
     relevance_names = []
     forbidden_terms = [
         "our blog", "local insights", "hidden gems", "travel tales", 
@@ -242,7 +253,7 @@ def parse_destination(soup, url: str) -> dict:
 
 def main():
     if not os.path.exists(URL_MAP_PATH):
-        print(f"Aborting execution: Mapping setup trace configuration missing at: '{URL_MAP_PATH}'")
+        print(f"Aborting execution: Configuration mapping input file missing at: '{URL_MAP_PATH}'")
         return
 
     with open(URL_MAP_PATH, "r", encoding="utf-8") as f:
@@ -254,6 +265,7 @@ def main():
         "experiences": []
     }
 
+    # Primary scraping loop running category blocks sequentially
     for category, urls in url_map.items():
         if category not in DIRS:
             continue
@@ -266,6 +278,7 @@ def main():
             if not soup:
                 continue
             
+            # Route soup elements to dedicated handlers
             if category == "tours":
                 parsed_item = parse_tour(soup, url)
             elif category == "experiences":
@@ -273,19 +286,21 @@ def main():
             elif category == "destinations":
                 parsed_item = parse_destination(soup, url)
             
+            # Write isolated document JSON backups out to separate subdirectories
             file_slug = get_slug(url)
             target_raw_file = os.path.join(DIRS[category], f"{file_slug}.json")
             with open(target_raw_file, "w", encoding="utf-8") as out_f:
                 json.dump(parsed_item, out_f, indent=4, ensure_ascii=False)
                 
+            # Append inside dynamic memory array for aggregated export
             combined_data[category].append(parsed_item)
             time.sleep(DELAY)
 
+    # Output generation consolidation step
     with open(OUTPUT_COMBINED_PATH, "w", encoding="utf-8") as master_f:
         json.dump(combined_data, master_f, indent=4, ensure_ascii=False)
         
-    print(f"\nData extraction workflow finished successfully.")
-    print(f"Consolidated artifact produced at: '{OUTPUT_COMBINED_PATH}'")
+    print(f"\nData extraction complete. Consolidated format file created at: '{OUTPUT_COMBINED_PATH}'")
 
 if __name__ == "__main__":
     main()
