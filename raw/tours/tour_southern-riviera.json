@@ -1,0 +1,74 @@
+{
+    "url": "https://jetwingtravels.com/tour/southern-riviera/",
+    "id": "southern-riviera",
+    "tour_overview": {
+        "package_name": "Southern Riviera",
+        "theme": "Barefoot Luxury",
+        "duration": "10 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Negombo 30 minutes"
+        },
+        {
+            "day": "Day 2",
+            "description": "Negombo Anuradhapura 4 hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Anuradhapura"
+        },
+        {
+            "day": "Day 4",
+            "description": "Anuradhapura Sigiriya 1 and half hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Anuradhapura Hatton 5 hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Hatton"
+        },
+        {
+            "day": "Day 7",
+            "description": "Hatton Yala 6 and half hours"
+        },
+        {
+            "day": "Day 8",
+            "description": "Yala"
+        },
+        {
+            "day": "Day 9",
+            "description": "Yala Bentota 4 hours"
+        },
+        {
+            "day": "Day 10",
+            "description": "Bentota"
+        },
+        {
+            "day": "Day 11",
+            "description": "Negombo Airport 2 hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "Whether it’s surfing the waves, wildlife safaris, or leisurely strolls through spice gardens, the Southern Riviera offers a spectrum of adventures. Find your perfect thrill in this diverse coastal haven.",
+            "Indulge your taste buds in a gastronomic journey through local flavors. From fresh seafood to exotic spices, savor the vibrant and diverse culinary tapestry of the Southern coast.",
+            "If your travel memories are intertwined with culinary experiences, indulge in the Southern Riviera’s diverse flavors. From seaside seafood feasts to aromatic spice trails, this trip is a food lover’s delight.",
+            "Explore the rich cultural heritage of the region, from ancient temples to colonial architecture. Engage with local communities and witness the harmonious blend of tradition and modernity.",
+            "Ideal for those seeking cultural immersion, this journey unveils the tapestry of Sri Lanka’s history. Engage with local communities and witness the living traditions of this enchanting region."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "Immerse in the tranquil beauty of the Southern Riviera, where golden beaches meet azure waters. Enjoy breathtaking sunsets and discover the art of unwinding in paradise.",
+            "Whether you seek relaxation or adventure, the Southern Riviera caters to varied preferences. Tailor your experience, from tranquil beachside retreats to exhilarating outdoor escapades, ensuring a personalized journey.",
+            "If you yearn for nature’s embrace, from lush landscapes to pristine beaches, this trip beckons. Revel in the biodiversity of the Southern Riviera, a haven for wildlife and eco-enthusiasts."
+        ]
+    }
+}

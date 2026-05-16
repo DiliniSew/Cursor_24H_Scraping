@@ -1,0 +1,56 @@
+{
+    "url": "https://jetwingtravels.com/tour/cycling-in-sri-lanka-tour/",
+    "id": "cycling-in-sri-lanka-tour",
+    "tour_overview": {
+        "package_name": "Cycling in Sri Lanka Tour",
+        "theme": "Adventurous Spirit",
+        "duration": "5 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Negombo Drive: 25 minutes, Cycle: 1 hour"
+        },
+        {
+            "day": "Day 2",
+            "description": "Negombo Kurunegala Dambulla Drive: 3 hours, Cycle: 5 hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Dambulla Polonnaruwa Dambulla Drive: 3 hours, Cycle: 3 hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Dambulla Sigiriya Kandy Drive: 3 hours, Cycle: 2 hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Kandy Cycle: 3 hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Kandy Airport 4 hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "If you relish the outdoors, this trip seamlessly integrates nature and adventure. Cycling allows you to appreciate the subtleties of the landscape, making it an ideal choice for nature enthusiasts.",
+            "Pedal through ancient ruins, bustling markets and serene villages, encountering the heart of Sri Lanka up close, fostering a deep connection with its rich cultural tapestry.",
+            "Savor the vibrant flavors of Sri Lankan cuisine, sampling local delicacies during your journey. From aromatic curries to street-side treats, every meal becomes a culinary adventure.",
+            "Contribute to sustainable tourism by choosing an eco-friendly mode of exploration. Cycling allows you to minimize your carbon footprint, fostering a responsible and environmentally conscious travel experience.",
+            "Perfect for solo travelers, couples, or friends seeking a shared adventure. The group dynamic adds a social element to the journey, fostering connections and shared memories along the way.",
+            "Ideal for those eager to delve into Sri Lanka’s diverse culture. If you appreciate authentic encounters and immersive experiences, this trip provides a perfect balance of adventure and cultural exploration.",
+            "Uncover breathtaking scenery as you cycle through diverse landscapes, from misty mountains to pristine coastlines. The thrill of discovery is amplified by the freedom of cycling.",
+            "While suitable for active enthusiasts, the itinerary is designed with a moderate pace, accommodating varying fitness levels. Enjoy the thrill of cycling without overwhelming physical demands."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "Whale and dolphin watching",
+            "Coral reef snorkeling"
+        ]
+    }
+}

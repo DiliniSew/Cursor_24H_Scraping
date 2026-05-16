@@ -1,0 +1,74 @@
+{
+    "url": "https://jetwingtravels.com/tour/sri-lanka-the-maldives-tour/",
+    "id": "sri-lanka-the-maldives-tour",
+    "tour_overview": {
+        "package_name": "Sri Lanka & The Maldives Tour",
+        "theme": "Barefoot Luxury",
+        "duration": "7 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Negombo 25 minutes"
+        },
+        {
+            "day": "Day 2",
+            "description": "Negombo Sigiriya 4 and half hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Sigiriya Polonnaruwa Sigiriya 3 hours drive"
+        },
+        {
+            "day": "Day 4",
+            "description": "Sigiriya Kandy 3 hours drive"
+        },
+        {
+            "day": "Day 5",
+            "description": "Kandy Half day city tour"
+        },
+        {
+            "day": "Day 6",
+            "description": "Kandy Nuwara Eliya 3 and half hours train Journey"
+        },
+        {
+            "day": "Day 7",
+            "description": "Nuwara Eliya Colombo 6 hours"
+        },
+        {
+            "day": "Day 8",
+            "description": "Colombo Airport Male 1 hour"
+        },
+        {
+            "day": "Day 9",
+            "description": "Male 2 hours boat ride"
+        },
+        {
+            "day": "Day 10",
+            "description": "Male 90 minutes"
+        },
+        {
+            "day": "Day 11",
+            "description": "Male Airport Depends on the resort chosen"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "History buffs and culture enthusiasts will revel in the rich heritage of Sri Lanka’s ancient cities and the Maldives’ unique island culture. Every site visited is a journey through time.",
+            "Embark on a gastronomic adventure, savoring the tantalizing flavors of authentic Sri Lankan and Maldivian cuisine. From spicy curries to fresh seafood, every meal is a celebration of local tastes.",
+            "For those who appreciate the finer things in life, our meticulously curated itinerary offers a perfect balance of indulgence and cultural immersion. Pamper yourself in style and elegance.",
+            "Indulge in opulent accommodations and personalized service, ensuring a seamless blend of comfort and sophistication throughout your journey. Experience travel as it’s meant to be lavish and memorable."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "If you crave exploration and discovery, this trip is tailored for you. Trek through lush jungles, encounter wildlife and snorkel in azure waters for an unforgettable escapade.",
+            "If your idea of paradise involves powdery beaches, crystal-clear waters and tropical serenity, this trip is your ticket to bliss. Unwind on pristine shores and let the waves lull you into tranquility.",
+            "Immerse yourself in the rich tapestry of Sri Lanka and the Maldives, from ancient temples to pristine beaches. Each day brings new landscapes and cultural treasures.",
+            "Dive into unique activities, like a sunrise hot air balloon ride over the Sigiriya rock fortress or snorkeling in the crystal-clear waters of the Maldives. Create memories that linger long after the journey ends."
+        ]
+    }
+}

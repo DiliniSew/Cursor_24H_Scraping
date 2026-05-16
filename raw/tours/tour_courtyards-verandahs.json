@@ -1,0 +1,64 @@
+{
+    "url": "https://jetwingtravels.com/tour/courtyards-verandahs/",
+    "id": "courtyards-verandahs",
+    "tour_overview": {
+        "package_name": "Courtyards & Verandahs – Geoffrey Bawa Architecture Tour in Sri Lanka",
+        "theme": "Authentic Ceylon",
+        "duration": "7 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Negombo 25 minutes"
+        },
+        {
+            "day": "Day 2",
+            "description": "Negombo Anuradhapura Kandalama 4 and half hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Kandalama Sigiriya Polonnaruwa Kandalama 3 and half hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Dambulla Matale Kandy 3 hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Kandy Bandarawela Ella 4 and half hours"
+        },
+        {
+            "day": "Day 6",
+            "description": "Ella Galle 5 and half hours"
+        },
+        {
+            "day": "Day 7",
+            "description": "Galle Colombo 2 and half hours"
+        },
+        {
+            "day": "Day 8",
+            "description": "Colombo Airport 1 hour"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "If capturing moments is your passion, this itinerary unfolds a photographer’s dream. From ancient architecture to vibrant landscapes, every frame tells a story of Sri Lanka’s captivating beauty.",
+            "If your travel style involves staying in distinctive accommodations, from historic mansions to boutique hotels, this journey promises a blend of comfort and uniqueness that complements your taste.",
+            "Experience the warmth of personalized hospitality at every stop. Our curated itinerary ensures you not only witness the beauty of Sri Lanka but also connect with its people on a personal level.",
+            "Ideal for those seeking a balance between exploration and relaxation. While there are enriching activities, the trip allows ample time for you to unwind in the scenic surroundings at your own pace.",
+            "Delight your taste buds with a gastronomic journey. From traditional Sri Lankan delicacies to gourmet experiences, this trip is a feast for those who savor the fusion of flavors.",
+            "Indulge in breathtaking landscapes and serene retreats that redefine relaxation. From lush tea plantations to historic estates, each moment promises awe-inspiring beauty and tranquility.",
+            "If you crave an authentic cultural experience, this trip is tailored for you. Immerse yourself in the traditions, arts and lifestyles that make Sri Lanka a cultural gem.",
+            "Embark on a journey through the heart of Sri Lanka, exploring charming courtyards and verandahs that resonate with the island’s rich history, offering an authentic cultural immersion."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "Whale and dolphin watching",
+            "Coral reef snorkeling"
+        ]
+    }
+}

@@ -1,0 +1,1539 @@
+{
+    "tours": [
+        {
+            "url": "https://jetwingtravels.com/tour/sri-lanka-the-maldives-tour/",
+            "id": "sri-lanka-the-maldives-tour",
+            "tour_overview": {
+                "package_name": "Sri Lanka & The Maldives Tour",
+                "theme": "Barefoot Luxury",
+                "duration": "7 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Negombo 25 minutes"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Negombo Sigiriya 4 and half hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Sigiriya Polonnaruwa Sigiriya 3 hours drive"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Sigiriya Kandy 3 hours drive"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Kandy Half day city tour"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Kandy Nuwara Eliya 3 and half hours train Journey"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Nuwara Eliya Colombo 6 hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Colombo Airport Male 1 hour"
+                },
+                {
+                    "day": "Day 9",
+                    "description": "Male 2 hours boat ride"
+                },
+                {
+                    "day": "Day 10",
+                    "description": "Male 90 minutes"
+                },
+                {
+                    "day": "Day 11",
+                    "description": "Male Airport Depends on the resort chosen"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "History buffs and culture enthusiasts will revel in the rich heritage of Sri Lanka’s ancient cities and the Maldives’ unique island culture. Every site visited is a journey through time.",
+                    "Embark on a gastronomic adventure, savoring the tantalizing flavors of authentic Sri Lankan and Maldivian cuisine. From spicy curries to fresh seafood, every meal is a celebration of local tastes.",
+                    "For those who appreciate the finer things in life, our meticulously curated itinerary offers a perfect balance of indulgence and cultural immersion. Pamper yourself in style and elegance.",
+                    "Indulge in opulent accommodations and personalized service, ensuring a seamless blend of comfort and sophistication throughout your journey. Experience travel as it’s meant to be lavish and memorable."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "If you crave exploration and discovery, this trip is tailored for you. Trek through lush jungles, encounter wildlife and snorkel in azure waters for an unforgettable escapade.",
+                    "If your idea of paradise involves powdery beaches, crystal-clear waters and tropical serenity, this trip is your ticket to bliss. Unwind on pristine shores and let the waves lull you into tranquility.",
+                    "Immerse yourself in the rich tapestry of Sri Lanka and the Maldives, from ancient temples to pristine beaches. Each day brings new landscapes and cultural treasures.",
+                    "Dive into unique activities, like a sunrise hot air balloon ride over the Sigiriya rock fortress or snorkeling in the crystal-clear waters of the Maldives. Create memories that linger long after the journey ends."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/cycling-in-sri-lanka-tour/",
+            "id": "cycling-in-sri-lanka-tour",
+            "tour_overview": {
+                "package_name": "Cycling in Sri Lanka Tour",
+                "theme": "Adventurous Spirit",
+                "duration": "5 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Negombo Drive: 25 minutes, Cycle: 1 hour"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Negombo Kurunegala Dambulla Drive: 3 hours, Cycle: 5 hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Dambulla Polonnaruwa Dambulla Drive: 3 hours, Cycle: 3 hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Dambulla Sigiriya Kandy Drive: 3 hours, Cycle: 2 hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Kandy Cycle: 3 hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Kandy Airport 4 hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "If you relish the outdoors, this trip seamlessly integrates nature and adventure. Cycling allows you to appreciate the subtleties of the landscape, making it an ideal choice for nature enthusiasts.",
+                    "Pedal through ancient ruins, bustling markets and serene villages, encountering the heart of Sri Lanka up close, fostering a deep connection with its rich cultural tapestry.",
+                    "Savor the vibrant flavors of Sri Lankan cuisine, sampling local delicacies during your journey. From aromatic curries to street-side treats, every meal becomes a culinary adventure.",
+                    "Contribute to sustainable tourism by choosing an eco-friendly mode of exploration. Cycling allows you to minimize your carbon footprint, fostering a responsible and environmentally conscious travel experience.",
+                    "Perfect for solo travelers, couples, or friends seeking a shared adventure. The group dynamic adds a social element to the journey, fostering connections and shared memories along the way.",
+                    "Ideal for those eager to delve into Sri Lanka’s diverse culture. If you appreciate authentic encounters and immersive experiences, this trip provides a perfect balance of adventure and cultural exploration.",
+                    "Uncover breathtaking scenery as you cycle through diverse landscapes, from misty mountains to pristine coastlines. The thrill of discovery is amplified by the freedom of cycling.",
+                    "While suitable for active enthusiasts, the itinerary is designed with a moderate pace, accommodating varying fitness levels. Enjoy the thrill of cycling without overwhelming physical demands."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/trails-treks-tour/",
+            "id": "trails-treks-tour",
+            "tour_overview": {
+                "package_name": "Trails & Treks Tour Sri Lanka",
+                "theme": "Adventurous Spirit",
+                "duration": "9 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Elkaduwa Kandy 5 hours"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Elkaduwa Kandy Elkaduwa 2 hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Elkaduwa Kandy Elkaduwa"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Elkaduwa Kandy Ella 5 hours Train Journey"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Ella"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Ella Wellawaya 1 and half hours"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Wellawaya"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Wellawaya 2 hours"
+                },
+                {
+                    "day": "Day 9",
+                    "description": "Wellawaya Galle 5 and half hours"
+                },
+                {
+                    "day": "Day 10",
+                    "description": "Galle Airport 3 hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Embark on a journey that seamlessly blends coastal bliss, misty mountains and vibrant cities, offering a kaleidoscope of experiences that will leave you enchanted at every turn.",
+                    "Traverse through nature’s wonders as you witness breathtaking wildlife spectacles. Whether it’s a safari adventure or a marine escapade, each moment is a chance to connect with the untamed beauty of the world.",
+                    "Indulge your taste buds in a culinary odyssey, savoring diverse flavors that tell the story of the region. From street food delights to fine dining, every meal is a celebration of local gastronomy.",
+                    "Immerse yourself in the rich tapestry of local cultures. From ancient traditions to modern influences, each encounter reveals a unique facet, creating memories that resonate long after your return.",
+                    "For those captivated by history and culture, this journey offers immersive encounters. Get ready to explore ancient ruins, interact with local communities and witness living traditions in action.",
+                    "Whether you seek relaxation or a fast-paced adventure, this itinerary accommodates various preferences. Customize your journey to match your energy levels, ensuring a vacation that suits your style."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Nature enthusiasts will find solace in the diverse landscapes traversed. From pristine beaches to lush mountains, this trip is a sanctuary for those seeking to reconnect with the natural world and its wonders.",
+                    "If you crave excitement and love pushing boundaries, this trip caters to thrill-seekers. Whether trekking through dense jungles or diving into the ocean depths, adventure awaits."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/wrecks-reefs/",
+            "id": "wrecks-reefs",
+            "tour_overview": {
+                "package_name": "Wrecks & Reefs | Snorkeling, Diving & Marine life Tour in Sri Lanka",
+                "theme": "Adventurous Spirit",
+                "duration": "5 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Kalpitiya 2 and half hours"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Kalpitiya"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Kalpitiya Galle 5 hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Galle 30 minutes"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Galle 30 minutes"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Galle Airport 2 and half hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Whether you’re a seasoned diver or a beginner eager to explore the depths, our expert instructors tailor experiences, ensuring everyone enjoys the wonders beneath the surface.",
+                    "If you crave underwater excitement and have a passion for maritime history, this trip offers the perfect blend of thrilling dives amid historic shipwrecks."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Dive into the rich maritime history of Sri Lanka as you explore captivating shipwrecks and vibrant coral reefs, creating unforgettable memories in the depths of the Indian Ocean.",
+                    "Our experienced guides and certified dive instructors ensure not just a thrilling expedition but a safe one too. Dive with confidence as you explore the mesmerizing wrecks and reefs of Ceylon.",
+                    "Indulge in exclusive stays at Jetwing’s handpicked coastal properties, offering a perfect blend of modern comforts and serene oceanfront views, ensuring a relaxing and rejuvenating experience after each day’s adventure.",
+                    "If you appreciate eco-friendly tourism, rest assured that our excursions prioritize sustainability. Join us in responsible diving practices, preserving the marine ecosystem for generations to come.",
+                    "Seeking a balance of adventure and relaxation? This trip lets you escape the hustle, providing a chance to unwind on pristine beaches and savor the coastal charm of Sri Lanka.",
+                    "Immerse yourself in a world of colorful marine life, from elusive sea turtles to dazzling schools of fish. Discover the joy of snorkeling and diving in crystal-clear waters."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/courtyards-verandahs/",
+            "id": "courtyards-verandahs",
+            "tour_overview": {
+                "package_name": "Courtyards & Verandahs – Geoffrey Bawa Architecture Tour in Sri Lanka",
+                "theme": "Authentic Ceylon",
+                "duration": "7 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Negombo 25 minutes"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Negombo Anuradhapura Kandalama 4 and half hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Kandalama Sigiriya Polonnaruwa Kandalama 3 and half hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Dambulla Matale Kandy 3 hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Kandy Bandarawela Ella 4 and half hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Ella Galle 5 and half hours"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Galle Colombo 2 and half hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Colombo Airport 1 hour"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "If capturing moments is your passion, this itinerary unfolds a photographer’s dream. From ancient architecture to vibrant landscapes, every frame tells a story of Sri Lanka’s captivating beauty.",
+                    "If your travel style involves staying in distinctive accommodations, from historic mansions to boutique hotels, this journey promises a blend of comfort and uniqueness that complements your taste.",
+                    "Experience the warmth of personalized hospitality at every stop. Our curated itinerary ensures you not only witness the beauty of Sri Lanka but also connect with its people on a personal level.",
+                    "Ideal for those seeking a balance between exploration and relaxation. While there are enriching activities, the trip allows ample time for you to unwind in the scenic surroundings at your own pace.",
+                    "Delight your taste buds with a gastronomic journey. From traditional Sri Lankan delicacies to gourmet experiences, this trip is a feast for those who savor the fusion of flavors.",
+                    "Indulge in breathtaking landscapes and serene retreats that redefine relaxation. From lush tea plantations to historic estates, each moment promises awe-inspiring beauty and tranquility.",
+                    "If you crave an authentic cultural experience, this trip is tailored for you. Immerse yourself in the traditions, arts and lifestyles that make Sri Lanka a cultural gem.",
+                    "Embark on a journey through the heart of Sri Lanka, exploring charming courtyards and verandahs that resonate with the island’s rich history, offering an authentic cultural immersion."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/ramayana-tour/",
+            "id": "ramayana-tour",
+            "tour_overview": {
+                "package_name": "Sri Lanka Ramayana Tour",
+                "theme": "Authentic Ceylon",
+                "duration": "7 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Negombo 30 minutes"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Negombo Chilaw Kandy 4 and half hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Kandy Nuwara Eliya 2 and half hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Nuwara Eliya Ella 2 hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Ella Kataragama 2 hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Kataragama Galle 3 and half hours"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Galle Colombo 2 and half hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Galle Airport 1 hour"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Enjoy the perfect blend of comfort and culture with our meticulously crafted itineraries, offering luxurious accommodations, delectable cuisine and seamless travel experiences throughout your Ramayana adventure.",
+                    "Suited for travelers seeking a hassle-free experience, our all-inclusive packages cover accommodations, meals and expert guidance, allowing you to focus solely on absorbing the rich cultural tapestry.",
+                    "Ideal for those craving a profound spiritual experience, this tour delves into the heart of Ramayana, offering moments of reflection, meditation and connection with ancient traditions.",
+                    "Immerse yourself in the ancient saga of Ramayana as our expert guides bring the stories to life at iconic locations, making history a vibrant experience.",
+                    "Dive into unique encounters, from sunrise rituals at sacred sites to private sessions with local artisans. This trip promises authentic moments that go beyond the ordinary, creating memories to last a lifetime.",
+                    "Whether you’re a history enthusiast, nature lover, or cultural explorer, our trip caters to various interests. Each day brings a new facet of the Ramayana story, ensuring a diverse and fulfilling experience for everyone.",
+                    "Perfect for group travel or solo adventurers, our Ramayana tour fosters a sense of community among like-minded individuals. Embrace shared moments or relish personal reflections at your own pace.",
+                    "Our thoughtfully designed journey ensures you don’t just visit destinations but truly connect with the spiritual and historical essence of the Ramayana, making every day a revelation."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/scenic-sri-lanka/",
+            "id": "scenic-sri-lanka",
+            "tour_overview": {
+                "package_name": "Scenic Sri Lanka",
+                "theme": "Authentic Ceylon",
+                "duration": "7 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Colombo City 1 hour"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Colombo Sigiriya Dambulla 4 and half hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Dambulla Polonnaruwa Dambulla 3 hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Dambulla Kandy 3 hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Kandy Nuwara Eliya 3 hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Nuwara Eliya Yala 4 and half hours"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Yala Galle 4 hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Galle Airport 2 and half hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "A treat for food enthusiasts, this journey showcases authentic Sri Lankan cuisine. Designed for those appreciating the artistry and cultural significance behind every dish.",
+                    "Unveil Sri Lanka’s past with UNESCO sites, ancient ruins and vibrant traditions. Ideal for those passionate about culture and history, delving into a rich and diverse tapestry.",
+                    "Indulge in a gastronomic adventure, sampling spice-infused curries, exotic fruits and authentic cooking classes. A journey that not only feeds the body but also the soul.",
+                    "Travel in style with Jetwing Travels. Tailored for discerning travelers, this trip ensures comfort with well-appointed accommodations, personalized service and uncompromising indulgence in Sri Lanka’s beauty.",
+                    "Connect deeply with Sri Lanka’s heart through traditional dance, local village visits and ancient temple exploration. Immerse in rich heritage, fostering a profound appreciation for vibrant traditions.",
+                    "Elevate your experience with Jetwing Travels’ commitment to luxury. Handpicked accommodations, seamless transportation and personalized service ensure indulgence, creating lasting memories in comfort and style.",
+                    "Tailored for thrill-seekers, this trip offers climbing ancient fortresses, scenic train rides and water sports along the coast. Perfect for those with an adventurous spirit."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Explore Sri Lanka’s diverse landscapes: from Sigiriya’s ancient marvel to Bentota’s golden beaches. A visual feast awaits nature enthusiasts, offering a unique panorama every day."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/travel-like-a-local/",
+            "id": "travel-like-a-local",
+            "tour_overview": {
+                "package_name": "Travel like a local in Sri Lanka",
+                "theme": "Authentic Ceylon",
+                "duration": "12 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Negombo 30 minutes"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Negombo Galle 2 and half hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Galle Yala 3 and half hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Yala 3 and half hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Yala Ella 3 and half hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Ella"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Ella Kandy 5 hours train journey"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Kandy"
+                },
+                {
+                    "day": "Day 9",
+                    "description": "Kandy Pasikuda 4 and half hours"
+                },
+                {
+                    "day": "Day 10",
+                    "description": "Pasikuda"
+                },
+                {
+                    "day": "Day 11",
+                    "description": "Pasikuda Sigiriya 2 and half hours"
+                },
+                {
+                    "day": "Day 12",
+                    "description": "Sigiriya Polonnaruwa Negombo 4 hours"
+                },
+                {
+                    "day": "Day 13",
+                    "description": "Negombo Airport 20 minutes"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Our seasoned travel curators have meticulously designed every detail. From accommodations to activities, expect a seamless blend of comfort and discovery, maximizing your enjoyment at every turn.",
+                    "Immerse yourself in the heart of local traditions, savoring authentic flavors and experiencing daily life. Our itinerary promises a genuine connection with the destination.",
+                    "Ideal for those who seek more than a surface-level encounter. Delve deep into local cultures, interact with communities and foster a profound appreciation for the richness of diversity.",
+                    "If you crave more than the ordinary, this trip is tailor-made for you. Expect exciting challenges and unparalleled experiences that cater to your adventurous side.",
+                    "Explore hidden gems and lesser-known wonders, ensuring a truly unique adventure. Discover the charm that lies beyond tourist hotspots for an unforgettable travel experience.",
+                    "Enjoy the best of both worlds as we combine local expertise with international standards. Feel at home while exploring new horizons, creating memories that transcend cultural boundaries.",
+                    "Embrace the unexpected. This trip is perfect for those who are open to spontaneity, allowing the journey to unfold organically and reveal the hidden treasures that lie off the traditional path.",
+                    "For travelers who thrive in intimate settings, our small-group tours foster camaraderie and meaningful connections. Engage with fellow adventurers, creating bonds that last a lifetime on this shared exploration."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/southern-riviera/",
+            "id": "southern-riviera",
+            "tour_overview": {
+                "package_name": "Southern Riviera",
+                "theme": "Barefoot Luxury",
+                "duration": "10 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Negombo 30 minutes"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Negombo Anuradhapura 4 hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Anuradhapura"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Anuradhapura Sigiriya 1 and half hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Anuradhapura Hatton 5 hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Hatton"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Hatton Yala 6 and half hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Yala"
+                },
+                {
+                    "day": "Day 9",
+                    "description": "Yala Bentota 4 hours"
+                },
+                {
+                    "day": "Day 10",
+                    "description": "Bentota"
+                },
+                {
+                    "day": "Day 11",
+                    "description": "Negombo Airport 2 hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Whether it’s surfing the waves, wildlife safaris, or leisurely strolls through spice gardens, the Southern Riviera offers a spectrum of adventures. Find your perfect thrill in this diverse coastal haven.",
+                    "Indulge your taste buds in a gastronomic journey through local flavors. From fresh seafood to exotic spices, savor the vibrant and diverse culinary tapestry of the Southern coast.",
+                    "If your travel memories are intertwined with culinary experiences, indulge in the Southern Riviera’s diverse flavors. From seaside seafood feasts to aromatic spice trails, this trip is a food lover’s delight.",
+                    "Explore the rich cultural heritage of the region, from ancient temples to colonial architecture. Engage with local communities and witness the harmonious blend of tradition and modernity.",
+                    "Ideal for those seeking cultural immersion, this journey unveils the tapestry of Sri Lanka’s history. Engage with local communities and witness the living traditions of this enchanting region."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Immerse in the tranquil beauty of the Southern Riviera, where golden beaches meet azure waters. Enjoy breathtaking sunsets and discover the art of unwinding in paradise.",
+                    "Whether you seek relaxation or adventure, the Southern Riviera caters to varied preferences. Tailor your experience, from tranquil beachside retreats to exhilarating outdoor escapades, ensuring a personalized journey.",
+                    "If you yearn for nature’s embrace, from lush landscapes to pristine beaches, this trip beckons. Revel in the biodiversity of the Southern Riviera, a haven for wildlife and eco-enthusiasts."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/the-colonial-golf-clubs-of-ceylon/",
+            "id": "the-colonial-golf-clubs-of-ceylon",
+            "tour_overview": {
+                "package_name": "The Colonial Golf Clubs of Ceylon – Golf Tour in Sri Lanka",
+                "theme": "Barefoot Luxury",
+                "duration": "7 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Colombo Colombo City 1 hour"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Colombo Half day city tour"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Colombo Kandy Victoria Golf Course & Resort 4 and half hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Victoria Golf Course & Resort"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Kandy Nuwara Eliya 3 and half hour train journey"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Nuwara Eliya"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Nuwara Eliya Negombo 6 hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Galle Airport 30 minutes"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Tee off in style at iconic courses, combining the thrill of the sport with unmatched elegance, surrounded by breathtaking vistas that enhance your golfing pleasure.",
+                    "Immerse yourself in the colonial grandeur of Ceylon’s golf clubs, where each swing is a step back in time amid lush landscapes and rich heritage.",
+                    "Unwind in opulent colonial-era hotels, blending modern comfort with old-world charm. Indulge in luxury and personalized service that transforms your stay into a seamless blend of relaxation and sophistication.",
+                    "Savor exquisite culinary journeys, from traditional Sri Lankan flavors to international delights, as our expert chefs curate a dining experience that complements the richness of your surroundings.",
+                    "Indulge in a lavish getaway, where every moment is a celebration of comfort and style. This trip caters to those who appreciate the finer things in life amidst historical surroundings.",
+                    "Immerse yourself in the colonial era’s allure, exploring the rich history of Ceylon through its prestigious golf clubs, each telling a story of a bygone era.",
+                    "Perfect for golf lovers seeking a unique blend of sport and history, this tour offers exclusive access to some of Ceylon’s finest and oldest golf clubs.",
+                    "Beyond golf, discover the vibrant culture of Sri Lanka, with optional excursions to nearby cultural sites, providing a holistic experience that goes beyond the greens."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/sri-lankas-big-five-game/",
+            "id": "sri-lankas-big-five-game",
+            "tour_overview": {
+                "package_name": "Sri Lanka’s Big Five Game",
+                "theme": "Following the Wild",
+                "duration": "9 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Colombo 1 hour"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Colombo Minneriya National Park Dambulla 4 hour and half hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Dambulla Nuwara Eliya 5 hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Nuwara Eliya Yala 4 and half hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Yala 3 hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Yala Udawalawe 2 hours"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Udawalawe Sinharaja 2 and half hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Sinharaja Galle 3 hours"
+                },
+                {
+                    "day": "Day 9",
+                    "description": "Galle Mirissa Galle 1 hour"
+                },
+                {
+                    "day": "Day 10",
+                    "description": "Galle Airport 2 and half hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "This journey suits those eager to explore beyond the obvious. Engage with local cultures, understand conservation efforts and participate in eco-friendly initiatives for a holistic travel experience.",
+                    "Despite the wild setting, enjoy the lap of luxury. Our accommodations prioritize comfort, ensuring a rejuvenating stay after exciting adventures. Pamper yourself with exquisite amenities amid nature’s grandeur.",
+                    "Beyond wildlife, delve into Sri Lanka’s rich culture. Visit ancient ruins, spice gardens and local communities, connecting with the island’s vibrant heritage. It’s a holistic journey, blending nature and tradition.",
+                    "Indulge in opulent accommodations seamlessly blended with untamed landscapes, offering an exclusive retreat after exhilarating safaris. Our lodges redefine wilderness luxury with unparalleled comfort and style.",
+                    "Capture breathtaking moments as wildlife roams freely against stunning backdrops. Our safari experiences provide ample opportunities for photography enthusiasts to hone their skills in the wild.",
+                    "Our passionate guides transform your journey into an educational adventure. Their in-depth knowledge and storytelling prowess enhance every wildlife sighting, making your trip not just a vacation but a learning experience."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "If you crave close encounters with diverse ecosystems, this trip is your gateway to thriving biodiversity. From lush jungles to azure oceans, nature unfolds at its best.",
+                    "Immerse yourself in Sri Lanka’s Big Five game experience, where diverse ecosystems host Elephants, Leopards, Sloth Bears, Blue Whales and myriad bird species, creating unforgettable encounters."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/meditation-yoga/",
+            "id": "meditation-yoga",
+            "tour_overview": {
+                "package_name": "Meditation & Yoga Holiday Tour in Sri Lanka",
+                "theme": "Island of Wellness",
+                "duration": "4 day"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Kandy Digana 4 hours"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Kandy Digana"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Kandy Digana"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Kandy Digana"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Kandy Airport 4 hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Enjoy the freedom to participate at your own pace. With a balanced mix of structured sessions and leisure time, you have the flexibility to explore the destination or simply unwind in peaceful surroundings.",
+                    "Immerse yourself in serene landscapes, ideal for meditation and yoga. Our expert-led sessions amidst nature promise tranquility, fostering a deep connection between mind, body and soul.",
+                    "Tailored to your needs, our itinerary ensures a personalized wellness experience. Whether you’re a seasoned yogi or a novice, discover a harmonious balance of relaxation and rejuvenation with us.",
+                    "Rest easy with our commitment to comfort. From cozy accommodations to seamless logistics, we prioritize your well-being. Travel stress-free, allowing yourself to fully immerse yourself in a transformative experience.",
+                    "Join a community of fellow travelers on a similar quest for self-discovery. Share stories, create memories and build connections in an inclusive environment that fosters support and camaraderie.",
+                    "Whether you’re a yoga enthusiast or a beginner, our program caters to all levels. Experienced instructors provide guidance, ensuring everyone can embrace the journey towards inner peace.",
+                    "Experience the perfect blend of traditional practices and modern comforts. This journey seamlessly integrates ancient meditation techniques with luxurious accommodations, offering a holistic and enriching escape."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "From misty mountain vistas to pristine beachfronts, each location is carefully chosen for its awe-inspiring beauty. Unwind in nature’s embrace, finding solace in picturesque surroundings that inspire mindfulness."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/love-songs-of-ceylon/",
+            "id": "love-songs-of-ceylon",
+            "tour_overview": {
+                "package_name": "Love Songs of Ceylon – Sri Lanka Honeymoon Tour",
+                "theme": "Romantic Serendipity",
+                "duration": "10 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Negombo 25 minutes"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Negombo Sigiriya 4 and half hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Sigiriya Polonnaruwa Sigiriya 3 and half hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Sigiriya Kandy 3 hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Kandy Half a day city tour"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Kandy Hatton 3 and half hour train journey"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Hatton"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Hatton Bentota 4 and half hours"
+                },
+                {
+                    "day": "Day 9",
+                    "description": "Bentota Galle Bentota 1 and half hour"
+                },
+                {
+                    "day": "Day 10",
+                    "description": "Bentota 45 minutes"
+                },
+                {
+                    "day": "Day 11",
+                    "description": "Bentota Airport 1 and half hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Tailored for travelers who appreciate the finer things in life, this journey combines cultural exploration with luxurious accommodations, ensuring a pampered experience throughout your Ceylonese adventure.",
+                    "Indulge in a gastronomic adventure with our curated dining experiences, savoring authentic Ceylonese flavors. From street food to elegant dining, your taste buds are in for a treat.",
+                    "Whether trekking through lush jungles, encountering wildlife, or engaging in water sports, thrill-seekers will find ample opportunities to satisfy their adventurous cravings.",
+                    "Unwind in handpicked accommodations, blending modern comfort with cultural charm. Each stay is a sanctuary, offering a tranquil retreat after a day of exploration.",
+                    "Experience the enchanting blend of Sri Lanka’s cultural tapestry as you explore ancient ruins, vibrant markets and engage with warm, welcoming locals.",
+                    "Ideal for those who appreciate stunning landscapes and diverse cultures, providing endless opportunities to capture breathtaking moments that will fill your photo album with unparalleled memories.",
+                    "If you relish discovering rich histories, ancient traditions and vibrant local customs, this cultural immersion will captivate your curiosity and leave you with lasting memories."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "From misty tea plantations to pristine beaches, this journey unveils diverse landscapes, ensuring every moment is a visual feast and a photographer’s dream come true."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/sri-lankan-rendezvous/",
+            "id": "sri-lankan-rendezvous",
+            "tour_overview": {
+                "package_name": "Sri Lankan Rendezvous",
+                "theme": "Romantic Serendipity",
+                "duration": "9 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Kandy 4 hours"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Kandy"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Kandy Nuwara Eliya 3 and half hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Nuwara Eliya 3 and half hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Nuwara Eliya Ella 2 hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Ella"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Ella Bentota 5 and half hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Bentota Galle Bentota"
+                },
+                {
+                    "day": "Day 9",
+                    "description": "Bentota 1 and half hours"
+                },
+                {
+                    "day": "Day 10",
+                    "description": "Bentota Airport 2 and half hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Savor the symphony of flavors as you indulge in Sri Lanka’s diverse cuisine. From aromatic spices to delectable street food, each bite unveils a gastronomic adventure.",
+                    "Encounter the heart of Sri Lanka through immersive experiences with locals, vibrant festivals and UNESCO World Heritage Sites, fostering a deep connection to the island’s rich heritage.",
+                    "Travel in an intimate group setting, fostering meaningful connections. Engage with fellow explorers, creating memories that extend beyond the journey, making this experience both personal and unforgettable.",
+                    "Perfect for travelers eager to delve into Sri Lanka’s cultural tapestry. Expect encounters with locals, vibrant markets and ancient traditions, offering a truly immersive experience.",
+                    "Whether you crave relaxation or non-stop exploration, our itinerary accommodates diverse preferences, ensuring you can soak in the magic of Sri Lanka at your preferred pace."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "Enjoy a blend of opulence and nature at our carefully selected accommodations. Whether nestled in the hills or by the beach, expect unparalleled comfort in breathtaking surroundings.",
+                    "Immerse yourself in Sri Lanka’s stunning beauty, from pristine beaches to lush tea plantations and ancient ruins, every day brings a new picturesque backdrop.",
+                    "Ideal for those seeking an active getaway: from hiking through lush jungles to surfing on pristine beaches, there’s a thrilling adventure awaiting every enthusiast."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/everlasting-summer-in-lanka/",
+            "id": "everlasting-summer-in-lanka",
+            "tour_overview": {
+                "package_name": "Everlasting Summer in Lanka",
+                "theme": "Barefoot Luxury",
+                "duration": "8 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Colombo 1 hour"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Colombo Anuradhapura 4 and half hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Anuradhapura Sigiriya Minneriya 2 hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Anuradhapura Trincomalee 2 and half hours"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Trincomalee"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Trincomalee"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Passikudah 2 and half hours"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Passikudah Colombo 7 hours"
+                },
+                {
+                    "day": "Day 9",
+                    "description": "Colombo Airport 45 mins"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "With meticulously planned logistics, including transfers and accommodations, this trip minimizes logistical concerns. Ideal for those seeking a seamless travel experience, where every detail is taken care of, allowing you to focus on enjoying the journey.",
+                    "This trip caters to individual preferences, allowing for personal downtime and spontaneous discoveries. Whether you prefer lounging by the pool or venturing off the beaten path, the itinerary provides flexibility to accommodate diverse interests.",
+                    "While the itinerary offers various activities, it is designed for a moderate level of physical activity. Whether strolling through markets or exploring historical sites, participants with a basic fitness level can enjoy the experience.",
+                    "If you have a passion for cultural exploration and a curiosity about local traditions, this trip is tailored to provide immersive experiences, ensuring you connect deeply with the heart of Sri Lanka.",
+                    "Immerse yourself in the rich tapestry of Sri Lankan culture. Engage with locals, explore ancient temples and witness traditional performances. Every encounter offers a deeper understanding of the island’s vibrant heritage.",
+                    "Experience the explosion of flavors in Sri Lankan cuisine. From aromatic spices to fresh seafood, each meal is a gastronomic journey, reflecting the island’s diverse culinary heritage."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "From pristine beaches to mist-covered mountains, this journey showcases the kaleidoscope of Sri Lanka’s landscapes. Whether you’re a nature enthusiast or a beach lover, each day unfolds a new picturesque setting.",
+                    "Indulge in unparalleled comfort with carefully selected accommodations. From boutique beach resorts to charming mountain retreats, our lodgings provide a perfect blend of luxury and local charm."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/experiential-east/",
+            "id": "experiential-east",
+            "tour_overview": {
+                "package_name": "Experiential East",
+                "theme": "Barefoot Luxury",
+                "duration": "7 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "description": "Airport Negombo 40 minutes"
+                },
+                {
+                    "day": "Day 2",
+                    "description": "Negombo Wellawaya 5 hours"
+                },
+                {
+                    "day": "Day 3",
+                    "description": "Wellawaya Pottuvil Point 2 and half hours"
+                },
+                {
+                    "day": "Day 4",
+                    "description": "Pottuvil Point"
+                },
+                {
+                    "day": "Day 5",
+                    "description": "Pottuvil Point Yala 2 and half hours"
+                },
+                {
+                    "day": "Day 6",
+                    "description": "Yala Tangalle 1 and half hours"
+                },
+                {
+                    "day": "Day 7",
+                    "description": "Tangalle Weligama 1 hour"
+                },
+                {
+                    "day": "Day 8",
+                    "description": "Weligama Airport 2 and half hours"
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "cultural_heritage": [
+                    "Perfect for those who appreciate history and local customs, as the itinerary is crafted to provide in-depth insights into the cultural and historical significance of East Sri Lanka.",
+                    "If you have a penchant for unspoiled landscapes and unique ecosystems, this trip showcases the diverse flora and fauna of the region, including the chance to witness wildlife in their natural habitat.",
+                    "Whether you’re a solo traveler, a couple, or a group, the flexible nature of the itinerary allows for personalized experiences, ensuring each participant can tailor their journey to match their preferences.",
+                    "Immerse yourself in the rich cultural tapestry of East Sri Lanka, exploring ancient ruins and uncovering the region’s fascinating history.",
+                    "Engage with the warmth of local communities, as our itinerary includes authentic interactions and cultural experiences, providing you with a genuine taste of Sri Lankan life.",
+                    "While there are adventurous elements, the trip is designed for a wide range of travelers. Expect a mix of leisurely exploration and optional activities catering to various fitness levels.",
+                    "For the thrill-seekers, this trip offers exciting opportunities for water sports in Arugam Bay and wildlife safaris in Gal Oya National Park, ensuring an adrenaline-pumping adventure."
+                ],
+                "ocean_and_wildlife_adjacencies": [
+                    "From the pristine beaches of Arugam Bay to the lush jungles of Gal Oya, experience the untouched beauty of Sri Lanka’s eastern coast, offering a serene escape for nature enthusiasts."
+                ]
+            }
+        }
+    ],
+    "destinations": [
+        {
+            "url": "https://jetwingtravels.com/destination/bentota/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "in Bentota",
+                    "Kosgoda Turtle Hatchery",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "The beach hotspot of the Southern coast",
+                    "Lunuganga Gardens",
+                    "Bentota Lagoon"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/colombo/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Independence Square",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Colombo National Museum",
+                    "Gangaramaya Temple",
+                    "Our Blog",
+                    "in Colombo",
+                    "The vibrant big city of the nation"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/dambulla/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Hot Air Balloon Ride",
+                    "Sri Lanka’s largest, best preserved cave monastery",
+                    "Rose Quartz Mountain",
+                    "in Dambulla",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "Dambulla Cave Temple"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/ella/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Ravana Ella Falls",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Demodara Bridge",
+                    "Best destination for views, and Instagram views",
+                    "Our Blog",
+                    "in Ella",
+                    "Mini Adam’s Peak"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/galle/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Kanneliya Forest",
+                    "in Galle",
+                    "Dutch Fort",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "Historic landmark and new hub of ‘cool’",
+                    "Fort Lighthouse"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/habarana/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Catamaran Ride",
+                    "Hiriwadunna Village Walk",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "At the crossroads of the cultural triangle",
+                    "Hurulu Eco Park",
+                    "in Habarana",
+                    "Our Blog"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/hatton/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Warleigh Church",
+                    "The heart of Sri Lanka’s tea country",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Kayaking on Castlereagh",
+                    "Adam’s Peak Sunrise",
+                    "Our Blog",
+                    "in Hatton"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/hikkaduwa/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "The chill pill of the South Coast",
+                    "Snorkelling and Coral Reefs",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Hikkaduwa Turtle Hatchery",
+                    "Our Blog",
+                    "in Hikkaduwa",
+                    "Glass Bottom Boat Ride"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/jaffna/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Nallur Temple",
+                    "Nagadeepa Temple",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "The culture rich capital of the North",
+                    "Our Blog",
+                    "Delft Island",
+                    "in Jaffna"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/kalpitiya/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "in Kalpitiya",
+                    "Kalpitiya Dutch Fort",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "Destination dolphins, whales and deep sea diving",
+                    "Kite / Windsurfing",
+                    "Whale and Dolphin Watching"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/kitulgala/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Makandawa Rain Forest",
+                    "in Kitulgala",
+                    "The adventure sports hub of Sri Lanka",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Belilena Cave",
+                    "Whitewater Rafting",
+                    "Our Blog"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/mirissa/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "in Mirissa",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Coconut Tree Hill",
+                    "Our Blog",
+                    "Secret Beach",
+                    "Whale and Dolphin Watching",
+                    "The world renowned realm of blue whales"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/negombo/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Dutch Fort",
+                    "Hamilton Canal",
+                    "in Negombo",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "The western coast’s most renowned resort town",
+                    "Negombo Fish Market"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/nuwara-eliya/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Strawberry Fields",
+                    "in Nuwara Eliya",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "The mountain resort town from colonial days",
+                    "Our Blog",
+                    "Horton Plains",
+                    "Hakgala Gardens"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/passikudah/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Batticaloa Lighthouse",
+                    "Water Sports",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "The ultimate dreamscape on the East coast",
+                    "Our Blog",
+                    "Singing Fish and Kallady Bridge",
+                    "in Passikudah"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/polonnaruwa/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Ruins and Temples",
+                    "The second ancient kingdom of Sri Lanka",
+                    "Monkey Kingdom",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "in Polonnaruwa",
+                    "Our Blog",
+                    "Minneriya National Park"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/sigiriya/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "Sigiriya Rock",
+                    "in Sigiriya",
+                    "The incredible 8th wonder of the world",
+                    "Sigiriya Archaeological Museum",
+                    "Pidurangala Rock"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/sinharaja/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "in Sinharaja",
+                    "Forest Trek",
+                    "Sri Lanka’s last remaining primary tropical rainforest",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "Birdwatching Trek",
+                    "Waterfalls Trek"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/tangalle/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "in Tangalle",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Rekawa Turtle Conservation Project",
+                    "Sri Lanka’s Southernmost town - next stop Antarctica!",
+                    "Our Blog",
+                    "Mulkirigala Temple",
+                    "Hummanaya Blowhole"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/trincomalee/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Koneswaram Temple",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Snorkelling at Pigeon Island",
+                    "in Trincomalee",
+                    "Our Blog",
+                    "The world’s deepest and largest natural harbour",
+                    "Whale and Dolphin Watching"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/udawalawe/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Elephant Transit Centre",
+                    "A sanctuary that wild elephants call ‘home’",
+                    "Mahapelessa Hot Springs",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "in Udawalawe",
+                    "Game Drives"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/weligama/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Stilt Fisherman",
+                    "Snorkelling and Diving",
+                    "Home of Sri Lanka’s iconic stilt fishermen",
+                    "Our Blog",
+                    "in Weligama",
+                    "Surfing Time"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/wellawaya/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Waterfall Trek",
+                    "The very heart of simple, rural life",
+                    "Our Blog",
+                    "Ellawala Waterfall",
+                    "in Wellawaya"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/wilpattu/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "One of Sri Lanka’s oldest national parks",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "in Wilpattu",
+                    "Safari Camping",
+                    "Game Drives"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/yala/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Sithulpawwa Buddhist Monastery",
+                    "in Yala",
+                    "Bundala Game Drive",
+                    "Our Blog",
+                    "Yala Game Drive",
+                    "Sri Lanka’s ‘Big Five’ game, thrives here"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/kandy/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "in Kandy",
+                    "Peradeniya Botanical Garden",
+                    "Our Blog",
+                    "The sacred capital of the hill country",
+                    "Cultural Dance Show",
+                    "Temple of the Tooth Relic"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/unawatuna/",
+            "destination_profile": {
+                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "relevance": [
+                    "in Unawatuna",
+                    "Japanese Peace Pagoda Rumassala",
+                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Our Blog",
+                    "Relax at Jungle Beach",
+                    "The party beach destination of Sri Lanka",
+                    "Rope Swings at Dalawella and Wijeya Beach"
+                ]
+            }
+        }
+    ],
+    "experiences": [
+        {
+            "url": "https://jetwingtravels.com/experiences/",
+            "experience_profile": {
+                "experience": "Gangaramaya Temple",
+                "description": "A mix of modern architecture and cultural significance, the complex comprises the main temple, a museum, a library and a vocational training centre."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/2/",
+            "experience_profile": {
+                "experience": "Temple of the Tooth Relic",
+                "description": "Revered by pilgrims from around the world, the ‘Sri Dalada Maligawa’ is a sacred Buddhist shrine housing a tooth relic of Lord Buddha."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/3/",
+            "experience_profile": {
+                "experience": "Stilt Fisherman",
+                "description": "Watch how these expert fishermen set up their stilts and cast their rods, and perhaps try your fishing skills on the crossbar too."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/4/",
+            "experience_profile": {
+                "experience": "Rekawa Turtle Conservation Project",
+                "description": "Endangered giant turtles nest on the Rekawa shoreline; here, you can learn more about their habits, habitats and help release hatchlings to sea."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/5/",
+            "experience_profile": {
+                "experience": "Singing Fish and Kallady Bridge",
+                "description": "Kallady is Sri Lanka’s oldest and longest iron bridge. Popular legend claims that sounds of singing fish can be heard from beneath it."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/6/",
+            "experience_profile": {
+                "experience": "Coconut Tree Hill",
+                "description": "Walk to this much sought after location, made famous by instagram, to understand why this protruding grove of coconut is so very special."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/7/",
+            "experience_profile": {
+                "experience": "Nallur Temple",
+                "description": "The 15th century Nallur Kandaswamy Kovil - one of the most significant Hindu temples in Sri Lanka - showcases the colourful grandeur of Dravidian architecture."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/8/",
+            "experience_profile": {
+                "experience": "Hiriwadunna Village Walk",
+                "description": "Take a walk through paddy fields and ‘chena’ cultivations to a rural village home for a typical Sri Lankan lunch - rice and curry."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/9/",
+            "experience_profile": {
+                "experience": "Dambulla Cave Temple",
+                "description": "The largest and the best preserved cave monastery in the island, its five sanctuaries comprise 157 statues and intricate frescoes covering the walls."
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/experiences/page/10/",
+            "experience_profile": {
+                "experience": "Learn Surfing",
+                "description": "If you fancy your turn on the board, there are many surf schools and qualified instructors to help you hit the waves safely."
+            }
+        }
+    ]
+}

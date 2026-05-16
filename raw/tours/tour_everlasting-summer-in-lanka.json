@@ -1,0 +1,66 @@
+{
+    "url": "https://jetwingtravels.com/tour/everlasting-summer-in-lanka/",
+    "id": "everlasting-summer-in-lanka",
+    "tour_overview": {
+        "package_name": "Everlasting Summer in Lanka",
+        "theme": "Barefoot Luxury",
+        "duration": "8 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Colombo 1 hour"
+        },
+        {
+            "day": "Day 2",
+            "description": "Colombo Anuradhapura 4 and half hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Anuradhapura Sigiriya Minneriya 2 hours"
+        },
+        {
+            "day": "Day 4",
+            "description": "Anuradhapura Trincomalee 2 and half hours"
+        },
+        {
+            "day": "Day 5",
+            "description": "Trincomalee"
+        },
+        {
+            "day": "Day 6",
+            "description": "Trincomalee"
+        },
+        {
+            "day": "Day 7",
+            "description": "Passikudah 2 and half hours"
+        },
+        {
+            "day": "Day 8",
+            "description": "Passikudah Colombo 7 hours"
+        },
+        {
+            "day": "Day 9",
+            "description": "Colombo Airport 45 mins"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "With meticulously planned logistics, including transfers and accommodations, this trip minimizes logistical concerns. Ideal for those seeking a seamless travel experience, where every detail is taken care of, allowing you to focus on enjoying the journey.",
+            "This trip caters to individual preferences, allowing for personal downtime and spontaneous discoveries. Whether you prefer lounging by the pool or venturing off the beaten path, the itinerary provides flexibility to accommodate diverse interests.",
+            "While the itinerary offers various activities, it is designed for a moderate level of physical activity. Whether strolling through markets or exploring historical sites, participants with a basic fitness level can enjoy the experience.",
+            "If you have a passion for cultural exploration and a curiosity about local traditions, this trip is tailored to provide immersive experiences, ensuring you connect deeply with the heart of Sri Lanka.",
+            "Immerse yourself in the rich tapestry of Sri Lankan culture. Engage with locals, explore ancient temples and witness traditional performances. Every encounter offers a deeper understanding of the island’s vibrant heritage.",
+            "Experience the explosion of flavors in Sri Lankan cuisine. From aromatic spices to fresh seafood, each meal is a gastronomic journey, reflecting the island’s diverse culinary heritage."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "From pristine beaches to mist-covered mountains, this journey showcases the kaleidoscope of Sri Lanka’s landscapes. Whether you’re a nature enthusiast or a beach lover, each day unfolds a new picturesque setting.",
+            "Indulge in unparalleled comfort with carefully selected accommodations. From boutique beach resorts to charming mountain retreats, our lodgings provide a perfect blend of luxury and local charm."
+        ]
+    }
+}

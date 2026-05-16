@@ -1,0 +1,70 @@
+{
+    "url": "https://jetwingtravels.com/tour/trails-treks-tour/",
+    "id": "trails-treks-tour",
+    "tour_overview": {
+        "package_name": "Trails & Treks Tour Sri Lanka",
+        "theme": "Adventurous Spirit",
+        "duration": "9 nights"
+    },
+    "core_inclusions": {
+        "accommodation": "Hotel Stay",
+        "meals": "Tailored to customer preferences",
+        "transport": "Private Air-Conditioned Vehicle"
+    },
+    "itinerary_breakdown": [
+        {
+            "day": "Day 1",
+            "description": "Airport Elkaduwa Kandy 5 hours"
+        },
+        {
+            "day": "Day 2",
+            "description": "Elkaduwa Kandy Elkaduwa 2 hours"
+        },
+        {
+            "day": "Day 3",
+            "description": "Elkaduwa Kandy Elkaduwa"
+        },
+        {
+            "day": "Day 4",
+            "description": "Elkaduwa Kandy Ella 5 hours Train Journey"
+        },
+        {
+            "day": "Day 5",
+            "description": "Ella"
+        },
+        {
+            "day": "Day 6",
+            "description": "Ella Wellawaya 1 and half hours"
+        },
+        {
+            "day": "Day 7",
+            "description": "Wellawaya"
+        },
+        {
+            "day": "Day 8",
+            "description": "Wellawaya 2 hours"
+        },
+        {
+            "day": "Day 9",
+            "description": "Wellawaya Galle 5 and half hours"
+        },
+        {
+            "day": "Day 10",
+            "description": "Galle Airport 3 hours"
+        }
+    ],
+    "featured_experiences_and_highlights": {
+        "cultural_heritage": [
+            "Embark on a journey that seamlessly blends coastal bliss, misty mountains and vibrant cities, offering a kaleidoscope of experiences that will leave you enchanted at every turn.",
+            "Traverse through nature’s wonders as you witness breathtaking wildlife spectacles. Whether it’s a safari adventure or a marine escapade, each moment is a chance to connect with the untamed beauty of the world.",
+            "Indulge your taste buds in a culinary odyssey, savoring diverse flavors that tell the story of the region. From street food delights to fine dining, every meal is a celebration of local gastronomy.",
+            "Immerse yourself in the rich tapestry of local cultures. From ancient traditions to modern influences, each encounter reveals a unique facet, creating memories that resonate long after your return.",
+            "For those captivated by history and culture, this journey offers immersive encounters. Get ready to explore ancient ruins, interact with local communities and witness living traditions in action.",
+            "Whether you seek relaxation or a fast-paced adventure, this itinerary accommodates various preferences. Customize your journey to match your energy levels, ensuring a vacation that suits your style."
+        ],
+        "ocean_and_wildlife_adjacencies": [
+            "Nature enthusiasts will find solace in the diverse landscapes traversed. From pristine beaches to lush mountains, this trip is a sanctuary for those seeking to reconnect with the natural world and its wonders.",
+            "If you crave excitement and love pushing boundaries, this trip caters to thrill-seekers. Whether trekking through dense jungles or diving into the ocean depths, adventure awaits."
+        ]
+    }
+}
