@@ -14,37 +14,35 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Kandy Digana 4 hours"
+            "route": "Kandy to Digana",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to your stay in the hills of Digana, in Kandy. Enjoy a scenic drive from the coast into the mountains through ever changing landscape. Arriving at your beautiful retreat, check in and relax for the rest of the day. Practice Yoga in the afternoon. Admire the view of paddy fields from your veranda, or perhaps enjoy a stroll around the property with its lush forest paths."
         },
         {
             "day": "Day 2",
-            "description": "Kandy Digana"
+            "route": "Kandy to Digana",
+            "description": "After morning meditation and breakfast, take a drive down to explore the attractions of Kandy, Sri Lanka’s hill capital. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or the bustling streets and market places. Take in the views from upper Lake drive. Or visit the Peradeniya Botanical Gardens. After lunch, head back to your serene sanctuary in the forest to practise Yoga or some evening meditation."
         },
         {
             "day": "Day 3",
-            "description": "Kandy Digana"
+            "route": "Kandy to Digana",
+            "description": "After breakfast, morning meditation or Yoga, set off to explore the forested expanse of the property for some birdwatching. Take a trek to the Huluganga waterfall through the jungle paths, and cool off with a bath in the river. You could also go on longer, more strenuous treks into the Knuckles mountains - a unique cloud forest full of endemic plants and animals. There are a variety of options to pick from depending on your level of fitness. Return to practise Yoga or some evening meditation."
         },
         {
             "day": "Day 4",
-            "description": "Kandy Digana"
+            "route": "Kandy to Digana",
+            "description": "Rise with the birds for meditation, Yoga and breakfast. Then you can choose to go for another nature tour with a guide, or spend the day relaxing. You could also watch a traditional cooking demonstration, and learn how wholesome Sri Lankan cuisine is made with natural, homegrown ingredients. Discover more about Sri Lankan spices and how they are blended and used. After lunch, spend the day relaxing or exploring. You will find plenty of peaceful spots to practise yoga or simply reflect in quiet meditation."
         },
         {
             "day": "Day 5",
-            "description": "Kandy Airport 4 hours"
+            "route": "Kandy to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "Enjoy the freedom to participate at your own pace. With a balanced mix of structured sessions and leisure time, you have the flexibility to explore the destination or simply unwind in peaceful surroundings.",
-            "Immerse yourself in serene landscapes, ideal for meditation and yoga. Our expert-led sessions amidst nature promise tranquility, fostering a deep connection between mind, body and soul.",
-            "Tailored to your needs, our itinerary ensures a personalized wellness experience. Whether you’re a seasoned yogi or a novice, discover a harmonious balance of relaxation and rejuvenation with us.",
-            "Rest easy with our commitment to comfort. From cozy accommodations to seamless logistics, we prioritize your well-being. Travel stress-free, allowing yourself to fully immerse yourself in a transformative experience.",
-            "Join a community of fellow travelers on a similar quest for self-discovery. Share stories, create memories and build connections in an inclusive environment that fosters support and camaraderie.",
-            "Whether you’re a yoga enthusiast or a beginner, our program caters to all levels. Experienced instructors provide guidance, ensuring everyone can embrace the journey towards inner peace.",
-            "Experience the perfect blend of traditional practices and modern comforts. This journey seamlessly integrates ancient meditation techniques with luxurious accommodations, offering a holistic and enriching escape."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "From misty mountain vistas to pristine beachfronts, each location is carefully chosen for its awe-inspiring beauty. Unwind in nature’s embrace, finding solace in picturesque surroundings that inspire mindfulness."
+            "Whale and dolphin watching",
+            "Coral reef snorkeling",
+            "Swimming with turtles"
         ]
     }
 }

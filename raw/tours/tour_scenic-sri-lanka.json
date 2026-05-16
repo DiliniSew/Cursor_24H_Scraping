@@ -14,49 +14,50 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Colombo City 1 hour"
+            "route": "Colombo City",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the capital city of Colombo. Once at the comforts of your hotel, relax and recover from jet lag. If you have spare time, your chauffeur guide will introduce you to some of Colombo’s curious sites such as the vibrant markets of Pettah, old city of Fort, the Hindu Temple at Sea Street and the Dutch Church at Wolfendal or alternatively to indulge in some shopping."
         },
         {
             "day": "Day 2",
-            "description": "Colombo Sigiriya Dambulla 4 and half hours"
+            "route": "Colombo to Sigiriya to Dambulla",
+            "description": "Leave Colombo’s coastline and head inland. Drop by the Elephant Care Relief Foundation - a charity that looks after domesticated elephants. Meet an elephant expert and enjoy the unique opportunity to walk with, and bathe elephants. After lunch, our sightseeing tour of Sri Lanka continues to the town of Sigiriya - a key cornerstone in the cultural triangle. In the evening, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel in the sky is an architectural masterpiece carved from a massive rock."
         },
         {
             "day": "Day 3",
-            "description": "Dambulla Polonnaruwa Dambulla 3 hours"
+            "route": "Dambulla to Polonnaruwa to Dambulla",
+            "description": "Learn about the better kept ruins of ancient Ceylon at the UNESCO World Heritage City of Polonnaruwa - the medieval capital of ancient Lanka from the 11th to 13th century A.D. Take a walking tour to the ruins of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya. On your return, take an exhilarating jeep ride with an expert naturalist guide to the Minneriya or Kaudulla National Park - a sanctuary is a home to wild elephants, wild buffaloes, sambar deer, crocodiles, sloth bear and more."
         },
         {
             "day": "Day 4",
-            "description": "Dambulla Kandy 3 hours"
+            "route": "Dambulla to Kandy",
+            "description": "Arrive in the hill capital of Kandy, eminent as the centre of Buddhism and the stronghold of the last Sinhalese kingdom. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or the bustling streets and market places. Take in the views from upper Lake drive. In the evening, attend a performance featuring traditional dances from the different regions of Sri Lanka."
         },
         {
             "day": "Day 5",
-            "description": "Kandy Nuwara Eliya 3 hours"
+            "route": "Kandy to Nuwara Eliya",
+            "description": "Take the upcountry train into the mountains and enjoy the breathtaking views along the way. From Nanu Oya train station ride to Nuwara Eliya - the land of Ceylon tea. After a rest, drive around the old colonial town of Nuwara Eliya - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Take a guided stroll past the renowned golf course, the colonial members only Hill Club and English styled cottages and Victoria Park."
         },
         {
             "day": "Day 6",
-            "description": "Nuwara Eliya Yala 4 and half hours"
+            "route": "Nuwara Eliya to Yala",
+            "description": "From the hills of Nuwara Eliya descend to the jungles of Yala. The Yala National Park is famous for the Sri Lankan Leopard (a unique sub species). Yala is also considered to have the highest densities of leopards in the world. Sri Lanka’s ‘Big Five’ can be spotted here too - elephants, sloth bears, sambur and crocodiles, as well as leopards. Take an evening jeep ride with our naturalist guide and keep your fingers crossed - you may well spot them all and other wild life too."
         },
         {
             "day": "Day 7",
-            "description": "Yala Galle 4 hours"
+            "route": "Yala to Galle",
+            "description": "A scenic drive to the south coast and Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
         },
         {
             "day": "Day 8",
-            "description": "Galle Airport 2 and half hours"
+            "route": "Galle to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "A treat for food enthusiasts, this journey showcases authentic Sri Lankan cuisine. Designed for those appreciating the artistry and cultural significance behind every dish.",
-            "Unveil Sri Lanka’s past with UNESCO sites, ancient ruins and vibrant traditions. Ideal for those passionate about culture and history, delving into a rich and diverse tapestry.",
-            "Indulge in a gastronomic adventure, sampling spice-infused curries, exotic fruits and authentic cooking classes. A journey that not only feeds the body but also the soul.",
-            "Travel in style with Jetwing Travels. Tailored for discerning travelers, this trip ensures comfort with well-appointed accommodations, personalized service and uncompromising indulgence in Sri Lanka’s beauty.",
-            "Connect deeply with Sri Lanka’s heart through traditional dance, local village visits and ancient temple exploration. Immerse in rich heritage, fostering a profound appreciation for vibrant traditions.",
-            "Elevate your experience with Jetwing Travels’ commitment to luxury. Handpicked accommodations, seamless transportation and personalized service ensure indulgence, creating lasting memories in comfort and style.",
-            "Tailored for thrill-seekers, this trip offers climbing ancient fortresses, scenic train rides and water sports along the coast. Perfect for those with an adventurous spirit."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "Explore Sri Lanka’s diverse landscapes: from Sigiriya’s ancient marvel to Bentota’s golden beaches. A visual feast awaits nature enthusiasts, offering a unique panorama every day."
+            "Whale and dolphin watching",
+            "Coral reef snorkeling",
+            "Swimming with turtles"
         ]
     }
 }

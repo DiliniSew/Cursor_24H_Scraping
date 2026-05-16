@@ -14,56 +14,58 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Colombo 1 hour"
+            "route": "Airport to Colombo",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the capital city of Colombo. Once at the comforts of your hotel, relax and recover from jet lag. If you have spare time, your chauffeur guide will introduce you to some of Colombo’s curious sites such as the vibrant markets of Pettah, old city of Fort, the Hindu Temple at Sea Street and the Dutch Church at Wolfendal or alternatively to indulge in some shopping."
         },
         {
             "day": "Day 2",
-            "description": "Colombo Minneriya National Park Dambulla 4 hour and half hours"
+            "route": "Colombo to Minneriya National Park to Dambulla",
+            "description": "After breakfast, set off to explore Minneriya National Park. Around 8,889 hectares in size, the park forms a part of an ‘elephant corridor’ where hundreds of these giants come to the reservoir to drink, feed and play. While you can see smaller herds throughout the year, May to October is the best time to witness the famous Elephant Gathering. Apart from elephants, 23 species of mammals including Leopards, Sloth Bear, Sambar and Buffalo call this home, as well as over 170 species of birds."
         },
         {
             "day": "Day 3",
-            "description": "Dambulla Nuwara Eliya 5 hours"
+            "route": "Dambulla to Nuwara Eliya",
+            "description": "After breakfast, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel is an architectural masterpiece carved from a massive rock. Then, drive into the mountains with contrasting landscapes. Stop at a tea plantation and factory en route. After a rest, explore Nuwara Eliya town - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Stroll past the renowned golf course and Victoria Park. Spend your evening at leisure."
         },
         {
             "day": "Day 4",
-            "description": "Nuwara Eliya Yala 4 and half hours"
+            "route": "Nuwara Eliya to Yala",
+            "description": "From the hills of Nuwara Eliya descend to the jungles of Yala. The Yala National Park is famous for the Sri Lankan Leopard (a unique sub species). Yala is also considered to have the highest density of leopards in the world. Sri Lanka’s ‘Big Five’ can be spotted here too - elephants, sloth bears, sambur and crocodiles, as well as leopards. Take an evening jeep ride with our naturalist guide and keep your fingers crossed - you may well spot them all, and other wild life too."
         },
         {
             "day": "Day 5",
-            "description": "Yala 3 hours"
+            "route": "Yala",
+            "description": "After breakfast, begin your wildlife adventure with bird watching at Bundala National Park. This thorny scrub jungle with its beaches, sand dunes and lagoons has a varied biodiversity of 197 species of birds and 32 mammal species. In the evening, explore the vast expanse of Yala National Park by jeep. Our naturalist guide will lead you to all the best places to spot the stars of Yala - elephants, leopards and sloth bears. Wild buffalos, crocodiles, sambur, spotted deer, mongoose, languars and peacocks are commoner sights."
         },
         {
             "day": "Day 6",
-            "description": "Yala Udawalawe 2 hours"
+            "route": "Yala to Udawalawe",
+            "description": "A quick breakfast and set off to Udawalawe National Park. One of the best places to spot elephants, with 600 to 700 inhabiting the park. With a great diversity of flora and fauna, many other creatures call this home too, but leopards and bears are rather more difficult to spot due to the terrain. The reserve also provides a catchment area for the Udawalawe Reservoir - an important source of water for the surrounding areas. Break for lunch: then enjoy an evening drive around the park."
         },
         {
             "day": "Day 7",
-            "description": "Udawalawe Sinharaja 2 and half hours"
+            "route": "Udawalawe to Sinharaja",
+            "description": "Begin your day at the Elephant Transit Centre, where orphaned and injured elephants are cared for until they can return to the wild. Continue your journey to Sinharaja - Sri Lanka’s last surviving rainforest and a World Heritage Site. Over 60% of the flora is endemic and considered rare and more than 50% of Sri Lanka’s endemic species of mammals and butterflies as well as insects, reptiles and rare amphibians are also found here. Enjoy two treks, morning and evening to truly experience this natural wonder."
         },
         {
             "day": "Day 8",
-            "description": "Sinharaja Galle 3 hours"
+            "route": "Sinharaja to Galle",
+            "description": "After breakfast, leave the rainforest for the coast and the buzzing capital of the South, Galle. Sri Lanka’s oldest living city dotted with historic sites, Galle is one of the few World Heritage sites where a bustling population continues to thrive. Dutch-colonial buildings, ancient mosques and churches, grand mansions and museums vie on cobbled streets with stylish cafes, quirky boutiques and impeccably restored villas and hotels. In the afternoon, explore the Galle Fort and its historical attractions at leisure, perhaps pick up some souvenirs too."
         },
         {
             "day": "Day 9",
-            "description": "Galle Mirissa Galle 1 hour"
+            "route": "Galle to Mirissa to Galle",
+            "description": "After breakfast, set off to Mirissa on your early morning expedition to encounter the gentle giants and the playful clowns of the ocean - the whales and dolphins. Pods of dolphins may even follow your boat, leaping and dancing as you head towards deeper waters - the realm of the blue whales and sperm whales. Sri Lanka is regarded as one of the best places in the world to witness both blue and sperm whales together, so you may be lucky. Return to shore, rest and relax."
         },
         {
             "day": "Day 10",
-            "description": "Galle Airport 2 and half hours"
+            "route": "Galle to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "This journey suits those eager to explore beyond the obvious. Engage with local cultures, understand conservation efforts and participate in eco-friendly initiatives for a holistic travel experience.",
-            "Despite the wild setting, enjoy the lap of luxury. Our accommodations prioritize comfort, ensuring a rejuvenating stay after exciting adventures. Pamper yourself with exquisite amenities amid nature’s grandeur.",
-            "Beyond wildlife, delve into Sri Lanka’s rich culture. Visit ancient ruins, spice gardens and local communities, connecting with the island’s vibrant heritage. It’s a holistic journey, blending nature and tradition.",
-            "Indulge in opulent accommodations seamlessly blended with untamed landscapes, offering an exclusive retreat after exhilarating safaris. Our lodges redefine wilderness luxury with unparalleled comfort and style.",
-            "Capture breathtaking moments as wildlife roams freely against stunning backdrops. Our safari experiences provide ample opportunities for photography enthusiasts to hone their skills in the wild.",
-            "Our passionate guides transform your journey into an educational adventure. Their in-depth knowledge and storytelling prowess enhance every wildlife sighting, making your trip not just a vacation but a learning experience."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "If you crave close encounters with diverse ecosystems, this trip is your gateway to thriving biodiversity. From lush jungles to azure oceans, nature unfolds at its best.",
+            "Indulge in opulent accommodations seamlessly blended with untamed landscapes, offering an exclusive retreat after exhilarating safaris. Our lodges redefine wilderness luxury with unparalleled comfort and style.",
             "Immerse yourself in Sri Lanka’s Big Five game experience, where diverse ecosystems host Elephants, Leopards, Sloth Bears, Blue Whales and myriad bird species, creating unforgettable encounters."
         ]
     }

@@ -14,51 +14,50 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Colombo Colombo City 1 hour"
+            "route": "Colombo to Colombo City",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the capital city of Colombo. Once at the comforts of your hotel, relax and recover from jet lag. If you have spare time, take a walk on Galle Face Green promenade - sandwiched between the ocean and the city skyscrapers. It’s a little hive of activity buzzing with food stalls, kite flying and just people enjoying a stroll or watching the sunsets, which are often spectacular."
         },
         {
             "day": "Day 2",
-            "description": "Colombo Half day city tour"
+            "route": "Colombo",
+            "description": "After a relaxed breakfast, your chauffeur guide will take you to some of Colombo’s more interesting sites such as the vibrant markets of Pettah, old city of Fort, the Hindu Temple at Sea Street and the Dutch Church at Wolfendal or alternatively to indulge in some shopping. In the afternoon, begin your golfing tour by teeing off on Colombo’s 18-hole golf course. The iconic Royal Colombo Golf Club is over 130 years old, making it the second oldest Royal golf club outside the United Kingdom."
         },
         {
             "day": "Day 3",
-            "description": "Colombo Kandy Victoria Golf Course & Resort 4 and half hours"
+            "route": "Colombo to Kandy to Victoria Golf Course & Resort",
+            "description": "Arrive in the hill capital of Kandy and explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or the bustling streets and market places. Take in the views from upper Lake drive. Or attend a performance featuring traditional dances from the different regions of Sri Lanka. Travel to your boutique hotel at Victoria Golf Club & Resort, via a very scenic route."
         },
         {
             "day": "Day 4",
-            "description": "Victoria Golf Course & Resort"
+            "route": "Victoria Golf Course & Resort",
+            "description": "After breakfast, head to the green. Hidden amidst mountains and bordering the reservoir, Victoria Golf Resort is a 73 Par; a 6933-yard championship 18-hole course ranked among the “100 Most Beautiful Golf Courses in the World '' by Golf Digest. It is beautifully moulded over every undulation, peak and slope. The continual changing in elevation is a feature to this course, testing all your golfing skills from long hitting on the three 500-yard par 5s to the short, testing par 3s and their icy fast greens."
         },
         {
             "day": "Day 5",
-            "description": "Kandy Nuwara Eliya 3 and half hour train journey"
+            "route": "Kandy to Nuwara Eliya",
+            "description": "Take the upcountry train into the mountains and enjoy the breathtaking views along the way. From Nanu Oya train station ride to Nuwara Eliya - the land of Ceylon tea. After a rest, drive around the old colonial town of Nuwara Eliya - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Take a guided stroll past the renowned golf course, the colonial members only Hill Club and English styled cottages, and Victoria Park."
         },
         {
             "day": "Day 6",
-            "description": "Nuwara Eliya"
+            "route": "Nuwara Eliya",
+            "description": "Enjoy a day on the green at The Nuwara Eliya Golf Club - one of the oldest in Asia. This 18-hole course, 6,399 yards long, is a testing par 71 and is made up of long , narrow fairways bordered by rows of towering trees and shrubbery. The course terrain, with its succession of undulating dales and hills, and the many water hazards, will pose some stimulating challenges. Break for lunch at the prestigious members-only Hill Club before returning to the course for an afternoon game."
         },
         {
             "day": "Day 7",
-            "description": "Nuwara Eliya Negombo 6 hours"
+            "route": "Nuwara Eliya to Negombo",
+            "description": "After a leisurely breakfast, enjoy the picturesque drive down from the mountains to the coastal town of Negombo. The landscape changes from rolling tea to lush paddy fields and into the urban sprawl. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
         },
         {
             "day": "Day 8",
-            "description": "Galle Airport 30 minutes"
+            "route": "Galle to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "Tee off in style at iconic courses, combining the thrill of the sport with unmatched elegance, surrounded by breathtaking vistas that enhance your golfing pleasure.",
-            "Immerse yourself in the colonial grandeur of Ceylon’s golf clubs, where each swing is a step back in time amid lush landscapes and rich heritage.",
-            "Unwind in opulent colonial-era hotels, blending modern comfort with old-world charm. Indulge in luxury and personalized service that transforms your stay into a seamless blend of relaxation and sophistication.",
-            "Savor exquisite culinary journeys, from traditional Sri Lankan flavors to international delights, as our expert chefs curate a dining experience that complements the richness of your surroundings.",
-            "Indulge in a lavish getaway, where every moment is a celebration of comfort and style. This trip caters to those who appreciate the finer things in life amidst historical surroundings.",
-            "Immerse yourself in the colonial era’s allure, exploring the rich history of Ceylon through its prestigious golf clubs, each telling a story of a bygone era.",
-            "Perfect for golf lovers seeking a unique blend of sport and history, this tour offers exclusive access to some of Ceylon’s finest and oldest golf clubs.",
-            "Beyond golf, discover the vibrant culture of Sri Lanka, with optional excursions to nearby cultural sites, providing a holistic experience that goes beyond the greens."
-        ],
         "ocean_and_wildlife_adjacencies": [
             "Whale and dolphin watching",
-            "Coral reef snorkeling"
+            "Coral reef snorkeling",
+            "Swimming with turtles"
         ]
     }
 }

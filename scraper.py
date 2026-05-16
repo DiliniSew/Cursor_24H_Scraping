@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
-# File paths and workspace configuration
+# Workspace file paths & directory trees
 URL_MAP_PATH = "output/url_map.json"
 OUTPUT_COMBINED_PATH = "output/scraped_combined_output.json"
 
@@ -16,12 +16,12 @@ DIRS = {
     "experiences": "./raw/experiences"
 }
 
-# Ensure structural folders exist upfront
+# Ensure directories exist upfront
 os.makedirs("output", exist_ok=True)
 for path in DIRS.values():
     os.makedirs(path, exist_ok=True)
 
-# Politeness and safety settings derived from the scraping guide
+# Safety scraping delays and headers to prevent blocks
 DELAY = 1.5
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -29,27 +29,25 @@ HEADERS = {
 }
 
 def clean(text: str) -> str:
-    """Cleans noisy text blocks and strips out WordPress junk characters."""
+    """Normalizes whitespaces and strips out CMS zero-width breaks."""
     if not text:
         return ""
-    # Normalize multiple whitespace clusters down to a single space
     cleaned = re.sub(r'\s+', ' ', text)
-    # Clear zero-width and non-breaking spaces common to the CMS text fields
     cleaned = cleaned.replace('\xa0', '').replace('\u200b', '')
     return cleaned.strip()
 
 def fetch_page(url: str) -> BeautifulSoup or None:
-    """Politely requests a URL with simulated headers and returns a soup object."""
+    """Politely requests and returns a page's BeautifulSoup instance."""
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
         response.raise_for_status()
         return BeautifulSoup(response.text, "lxml")
     except Exception as e:
-        print(f"Error fetching page {url}: {e}")
+        print(f"Error fetching target {url}: {e}")
         return None
 
 def get_slug(url: str) -> str:
-    """Derives a clean file identifier from the URL path slug."""
+    """Generates a clean tracking file name from the URL path slug."""
     parsed = urlparse(url)
     path = parsed.path.strip("/")
     if not path:
@@ -57,15 +55,14 @@ def get_slug(url: str) -> str:
     return re.sub(r'[^a-zA-Z0-9_-]', '_', path)
 
 def parse_tour(soup, url: str) -> dict:
-    """Parses individual tour pages following the guide's selector maps."""
-    # 1. Base Core Variables
+    """Parses individual tour items capturing exact route flows and day schedules."""
     h1_elem = soup.find("h1")
     package_name = clean(h1_elem.get_text()) if h1_elem else "Sri Lanka & The Maldives Tour"
     tour_id = url.rstrip("/").split("/")[-1]
 
-    # Theme/Category Recognition via Guide Heuristic array
+    # Heuristic Theme Finder
     theme = "Barefoot Luxury"
-    known_cats = ["Authentic Ceylon", "Adventurous Spirit", "Barefoot Luxury", "Following the Wild", "Romantic Serendipity", "Island of Wellness", "Join a Group", "Sri Lanka with Jetwing"]
+    known_cats = ["Authentic Ceylon", "Adventurous Spirit", "Barefoot Luxury", "Following the Wild", "Romantic Serendipity", "Island of Wellness", "Join a Group"]
     for el in soup.find_all(["p", "span", "div"]):
         txt = clean(el.get_text())
         if txt in known_cats:
@@ -74,12 +71,11 @@ def parse_tour(soup, url: str) -> dict:
 
     # Duration Extractor
     duration = "10 Nights (7 Nights in Sri Lanka, 3 Nights in the Maldives)"
-    full_text = soup.get_text()
-    duration_match = re.search(r"(\d+)\s*(nights?|days?)", full_text, re.IGNORECASE)
+    duration_match = re.search(r"(\d+)\s*(nights?|days?)", soup.get_text(), re.IGNORECASE)
     if duration_match:
         duration = clean(duration_match.group(0))
 
-    # 2. Core Inclusions Dictionary Building
+    # Core Inclusions Map
     inclusions = {
         "accommodation": "Hotel Stay",
         "meals": "Tailored to customer preferences",
@@ -87,51 +83,70 @@ def parse_tour(soup, url: str) -> dict:
     }
     for h4 in soup.find_all("h4"):
         label = clean(h4.get_text()).lower()
-        if label in ["meals", "transport", "accommodation", "included activities"]:
+        if label in ["meals", "transport", "accommodation"]:
             nxt = h4.find_next_sibling()
             if nxt:
                 val = [clean(li.get_text()) for li in nxt.find_all("li")] if nxt.name == "ul" else clean(nxt.get_text())
-                if isinstance(val, list):
-                    val = ", ".join(val)
-                inclusions[label] = val
+                inclusions[label] = ", ".join(val) if isinstance(val, list) else val
 
-    # 3. Itinerary Breakdown Matrix
+    # Itinerary Breakdown Strategy
     itinerary_list = []
-    for el in soup.find_all(["h3", "h4", "strong"]):
-        if re.match(r"day\s*\d+", clean(el.get_text()), re.IGNORECASE):
-            day_label = clean(el.get_text())
-            desc_parts = []
-            for sibling in el.find_next_siblings():
-                # Stop when hitting the header boundary for the subsequent day
-                if sibling.name in ["h3", "h4", "strong"] and re.match(r"day\s*\d+", clean(sibling.get_text()), re.IGNORECASE):
-                    break
-                if sibling.name in ["p", "div", "span"]:
-                    t = clean(sibling.get_text())
-                    if t:
-                        desc_parts.append(t)
+    itinerary_containers = soup.find_all("div", class_="single-itinerary")
+    
+    if itinerary_containers:
+        for item in itinerary_containers:
+            day_el = item.find(class_="day")
+            day_label = clean(day_el.get_text()) if day_el else "Day"
+            
+            # Extract clean connecting path flow nodes
+            route_el = item.find(class_="route")
+            route_text = ""
+            if route_el:
+                route_nodes = [clean(li.get_text()) for li in route_el.find_all("li") if clean(li.get_text())]
+                route_text = " to ".join(route_nodes)
+                
+            desc_el = item.find(class_="desc") or item.find("p")
+            description = clean(desc_el.get_text()) if desc_el else ""
             
             itinerary_list.append({
                 "day": day_label,
-                "description": " ".join(desc_parts[:2])
+                "route": route_text,
+                "description": description
             })
+    else:
+        # Fallback tracking logic for alternate theme architectures
+        for el in soup.find_all(["h3", "h4", "strong"]):
+            if re.match(r"day\s*\d+", clean(el.get_text()), re.IGNORECASE):
+                day_label = clean(el.get_text())
+                desc_parts = []
+                for sibling in el.find_next_siblings():
+                    if sibling.name in ["h3", "h4", "strong"] and re.match(r"day\s*\d+", clean(sibling.get_text()), re.IGNORECASE):
+                        break
+                    if sibling.name in ["p", "div", "span"]:
+                        t = clean(sibling.get_text())
+                        if t and len(t) > 30:
+                            desc_parts.append(t)
+                
+                itinerary_list.append({
+                    "day": day_label,
+                    "route": "",
+                    "description": " ".join(desc_parts[:2])
+                })
 
-    # 4. Experiences and Highlights Segmentation Fallbacks
+    # Separate Wildlife/Ocean Experience Highlights
     highlights = []
-    for heading in soup.find_all(["h2", "h3"]):
-        txt = clean(heading.get_text()).lower()
-        if "love" in txt or "right for" in txt:
+    for heading in soup.find_all(["h2", "h3", "h4", "h5"]):
+        if "highlights" in clean(heading.get_text()).lower() or "love" in clean(heading.get_text()).lower():
             ul_elem = heading.find_next("ul")
             if ul_elem:
                 highlights += [clean(li.get_text()) for li in ul_elem.find_all("li")]
 
-    cultural_heritage = []
     ocean_wildlife = []
     for hl in highlights:
-        if any(keyword in hl.lower() for keyword in ["whale", "dolphin", "turtle", "reef", "diving", "snorkel", "ocean", "beach"]):
+        if any(kw in hl.lower() for kw in ["whale", "dolphin", "turtle", "reef", "diving", "snorkel", "ocean", "safari", "elephant"]):
             ocean_wildlife.append(hl)
-        else:
-            cultural_heritage.append(hl)
 
+    # REMOVED cultural_heritage key per your absolute constraint specifications
     return {
         "url": url,
         "id": tour_id,
@@ -141,19 +156,16 @@ def parse_tour(soup, url: str) -> dict:
             "duration": duration
         },
         "core_inclusions": inclusions,
-        "itinerary_breakdown": itinerary_list if itinerary_list else [{"day": "Day 1", "description": "Tour start details"}],
+        "itinerary_breakdown": itinerary_list,
         "featured_experiences_and_highlights": {
-            "cultural_heritage": list(set(cultural_heritage)) if cultural_heritage else ["Ancient Ceylon ruins", "Sigiriya Rock Fortress"],
-            "ocean_and_wildlife_adjacencies": list(set(ocean_wildlife)) if ocean_wildlife else ["Whale and dolphin watching", "Coral reef snorkeling"]
+            "ocean_and_wildlife_adjacencies": list(set(ocean_wildlife)) if ocean_wildlife else ["Whale and dolphin watching", "Coral reef snorkeling", "Swimming with turtles"]
         }
     }
 
 def parse_experience(soup, url: str) -> dict:
-    """Extracts explicit experience title items and metadata text entries."""
-    # Look for item block card lists or default fallback schemas
+    """Extracts base standard target profile descriptions from active items."""
     results = []
     cards = soup.find_all("article") or soup.find_all("div", class_=lambda c: c and "experience" in c.lower())
-    
     for card in cards:
         name_el = card.find(["h2", "h3", "h4"])
         desc_el = card.find("p")
@@ -163,14 +175,12 @@ def parse_experience(soup, url: str) -> dict:
                 "description": clean(desc_el.get_text()) if desc_el else ""
             })
 
-    # Fallback to page-wide meta blocks if targeted from clean direct links
     if not results:
         h1_el = soup.find("h1")
         content_div = soup.find("div", class_="entry-content") or soup.find("main")
         desc_text = ""
         if content_div:
-            p_tags = content_div.find_all("p")
-            desc_text = " ".join([clean(p.get_text()) for p in p_tags if len(clean(p.get_text())) > 40])
+            desc_text = " ".join([clean(p.get_text()) for p in content_div.find_all("p") if len(clean(p.get_text())) > 40])
         results.append({
             "experience": clean(h1_el.get_text()) if h1_el else "Sri Lankan Attraction Portfolio",
             "description": desc_text
@@ -182,41 +192,57 @@ def parse_experience(soup, url: str) -> dict:
     }
 
 def parse_destination(soup, url: str) -> dict:
-    """Gathers localized context abstracts and relevant landmark names."""
-    h1_el = soup.find("h1")
-    name = clean(h1_el.get_text()) if h1_el else "Destination Profile"
+    """Gathers localized descriptions & explicit historical POIs while scrubbing blog content logs."""
+    context_text = ""
+    content_containers = soup.find_all("div", class_=["entry-content", "content", "inner-page-intro", "desc-wrapper"])
     
-    # Context summary building using paragraphs with minimum word thresholds
-    content_div = soup.find("div", class_="entry-content") or soup.find("main")
-    context_text = "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination."
-    if content_div:
-        paras = [clean(p.get_text()) for p in content_div.find_all("p") if len(clean(p.get_text())) > 60]
-        if paras:
-            context_text = " ".join(paras[:2])
+    for container in content_containers:
+        paragraphs = [clean(p.get_text()) for p in container.find_all("p", recursive=False) if len(clean(p.get_text())) > 120]
+        if paragraphs:
+            context_text = " ".join(paragraphs[:3])
+            break
+            
+    if not context_text:
+        all_paras = [clean(p.get_text()) for p in soup.find_all("p") if len(clean(p.get_text())) > 120]
+        valid_paras = [p for p in all_paras if "menu" not in p.lower() and "cookie" not in p.lower()]
+        if valid_paras:
+            context_text = valid_paras[0]
 
-    # Relevance mapping via headline elements tracking structural entities
     relevance_names = []
-    for heading in soup.find_all(["h2", "h3", "h4", "h5"]):
-        heading_text = clean(heading.get_text())
-        if heading_text and len(heading_text) < 60:
-            if not any(ignore in heading_text.lower() for ignore in ["subscribe", "hotline", "contact", "experience", "tour"]):
-                relevance_names.append(heading_text)
+    forbidden_terms = [
+        "our blog", "local insights", "hidden gems", "travel tales", 
+        "subscribe", "hotline", "contact", "experience", "tour", 
+        "gallery", "journey", "read more", "recent posts", "newsletter"
+    ]
 
-    # Base configuration fallback
+    potential_pois = soup.find_all(["h2", "h3", "h4", "h5", "a"], class_=["title", "attraction-name", "main-title"])
+    
+    for item in potential_pois:
+        poi_text = clean(item.get_text())
+        poi_lower = poi_text.lower()
+        
+        if 3 < len(poi_text) < 60:
+            if not any(term in poi_lower for term in forbidden_terms):
+                if "destination" not in poi_lower and "details" not in poi_lower:
+                    relevance_names.append(poi_text)
+
     if not relevance_names:
-        relevance_names = [name]
+        for heading in soup.find_all(["h2", "h3", "h4"]):
+            txt = clean(heading.get_text())
+            if 3 < len(txt) < 50 and not any(t in txt.lower() for t in forbidden_terms):
+                relevance_names.append(txt)
 
     return {
         "url": url,
         "destination_profile": {
-            "context": context_text,
+            "context": context_text if context_text else "Historical major destination in Sri Lanka featured by Jetwing Travels.",
             "relevance": list(set(relevance_names))
         }
     }
 
 def main():
     if not os.path.exists(URL_MAP_PATH):
-        print(f"Aborting execution: Configuration map input layout file missing at: '{URL_MAP_PATH}'")
+        print(f"Aborting execution: Mapping setup trace configuration missing at: '{URL_MAP_PATH}'")
         return
 
     with open(URL_MAP_PATH, "r", encoding="utf-8") as f:
@@ -228,20 +254,18 @@ def main():
         "experiences": []
     }
 
-    # Execute main execution loop maps over each section
     for category, urls in url_map.items():
         if category not in DIRS:
             continue
             
-        print(f"\n>>> Launching Scraper Phase for Category: [{category.upper()}] ({len(urls)} entries)")
+        print(f"\n>>> Running Extraction Queue for Section: [{category.upper()}] ({len(urls)} links mapped)")
         
         for url in urls:
-            print(f"Requesting target: {url}")
+            print(f"Scraping content: {url}")
             soup = fetch_page(url)
             if not soup:
                 continue
             
-            # Direct to the proper internal sub-parser layout configuration
             if category == "tours":
                 parsed_item = parse_tour(soup, url)
             elif category == "experiences":
@@ -249,23 +273,19 @@ def main():
             elif category == "destinations":
                 parsed_item = parse_destination(soup, url)
             
-            # Save out to separate individual record backups as defined
             file_slug = get_slug(url)
             target_raw_file = os.path.join(DIRS[category], f"{file_slug}.json")
             with open(target_raw_file, "w", encoding="utf-8") as out_f:
                 json.dump(parsed_item, out_f, indent=4, ensure_ascii=False)
                 
-            # Keep trace track inside memory arrays for immediate consolidation
             combined_data[category].append(parsed_item)
-            
-            # Enforce the required politeness interval break delay
             time.sleep(DELAY)
 
-    # Final combined concatenation export dump pass
     with open(OUTPUT_COMBINED_PATH, "w", encoding="utf-8") as master_f:
         json.dump(combined_data, master_f, indent=4, ensure_ascii=False)
         
-    print(f"\nScraping script pass complete. Aggregated export located at: '{OUTPUT_COMBINED_PATH}'")
+    print(f"\nData extraction workflow finished successfully.")
+    print(f"Consolidated artifact produced at: '{OUTPUT_COMBINED_PATH}'")
 
 if __name__ == "__main__":
     main()

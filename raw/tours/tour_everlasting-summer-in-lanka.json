@@ -14,53 +14,55 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Colombo 1 hour"
+            "route": "Airport to Colombo",
+            "description": "Arrive in Sri Lanka in the style you deserve, greeted by your chauffeur guide and transfer directly to Galle Face Hotel; an iconic landmark situated in the heart of Colombo along the seafront and facing the infamous Galle Face Green! Although it’s unlikely it will reclaim its 19th-century moniker‘ the garden city of the East’, Colombo has nevertheless emerged as a must-see stop in Sri Lanka. No longer just the sprawling city you have to endure on your way to the beaches, it has become a worthy destination in its own right and makes an excellent start – or finish – to your Sri Lankan adventures."
         },
         {
             "day": "Day 2",
-            "description": "Colombo Anuradhapura 4 and half hours"
+            "route": "Colombo to Anuradhapura",
+            "description": "Set off from coastal Negombo to experience the inland delights of Sri Lanka. Your journey will take you along a picturesque route passing rice paddy fields. En route pass the salt pans of Puttalam lagoon and the Anawilundawa bird sanctuary. Upon checking into your exclusive resort, have some lunch and then go ahead to explore the ruins of Anuradhapura which are one of South Asia’s most evocative sights. The expansive complex contains an opulent collection of archaeological and architectural wonders: gigantic dagobas (brick stupas), ancient pools and crumbling temples, built during Anuradhapura’s thousand years of rule over the island. Today, many of the sites are preserved in use as sacred places and temples; frequent ceremonies bestow Anuradhapura as a city of vibrancy. Also you can climb the nearby Mihintale rock and absorb the history of the destination."
         },
         {
             "day": "Day 3",
-            "description": "Anuradhapura Sigiriya Minneriya 2 hours"
+            "route": "Anuradhapura to Sigiriya to Minneriya",
+            "description": "A hike to Pidurangala in the early morning can be a more memorable experience. A climb of 20 minutes will be well rewarded with the majestic view of Sigiriya Lion’s rock, picturesque lakes, greenery and land vistas. You also have the option to climb Sigiriya rock fortress instead. En-route, stop at a village home for “Plain Tea” with Treacle and “Helapa”, a traditional Sri Lankan snack that can refresh you. Afterwards take an exhilarating jeep safari with the company of an expert naturalist guide to the Minneriya or neighboring Kaudulla National Park. In the dry season, more than 300 elephants converge on the retreating waters of the Minneriya Tank. This massive meeting of elephants – popularly known as ‘The Gathering’ takes place from July to October; where these gentle giants travel to drink, eat, socialize and search for mates. While you are waiting, ask your driver if he/she can roll back the canvas top so that you can stand up for a better view of the 40 to 50 beautiful, happy, wild and free herds of elephants hanging out in the plains."
         },
         {
             "day": "Day 4",
-            "description": "Anuradhapura Trincomalee 2 and half hours"
+            "route": "Anuradhapura to Trincomalee",
+            "description": "Before breakfast, we suggest that you take a quiet morning cycle ride around the resort area and visit the small village nearby. Then commence your beach escapade by heading to the historic town of Trincomalee (Trinco). Renowned for having one of the most picturesque natural harbors in the world, Trinco has some charm, plenty of history and an interesting blend of people. It’s easy to spend a day or more exploring the ins and outs of the numerous waterfronts, the Fort, multitude of ancient Buddhist and Hindu temples and the off-shore Pigeon Island. Simply strolling along the beaches of Uppuveli and Nilaveli, bathing in the ocean, watching the handful of fishermen going about their daily business and soaking up the scene is a brilliant way to relish your beach escape. So put on your travelling boots, sprinkle some wanderlust and join us to explore the best places to visit in Trinco in the next few days!"
         },
         {
             "day": "Day 5",
-            "description": "Trincomalee"
+            "route": "Trincomalee",
+            "description": "Want to float on blue waters and lose yourself in a dream world of fairy colored corals, hundreds of reef fish, turtles and fish? Take a 20 – 30 minute boat ride out of Nilaveli Beach to the Pigeon Island; a small island with super clear water, a small white sand beach, glittering rocks, pools and shallow turquoise waters ideal for a snorkeling adventure! If you wish you may also explore the sea world in the open waters off of the pristine coast of Trinco. Alternatively, if you haven’t gotten your fill of wildlife, set off on an early morning expedition to encounter the activity of Whales and Dolphin watching where one can easily spot whales playing, swishing and if you’re lucky their acrobatic skills. If you can tear yourself away from the pristine shoreline, explore the Trinco town in the afternoon. Start your quest by exploring the 17th Century Dutch Fort; Fort Frederik. From Fort Frederik, you can follow the road until the viewpoint area and meet the Hindu temple Koneswaram; perched on atop of the famous Swami Rock. Complete your day by the small cross dug into the rock that runs along the side of the cliff over 100 meters high whilst enjoying a sip of a coconut drink and street vade."
         },
         {
             "day": "Day 6",
-            "description": "Trincomalee"
+            "route": "Trincomalee",
+            "description": "Continue your beach escapade to Pasikudah; a small undiscovered fishing village, offering its natural and cultural treasures, including the country’s most wonderful beaches and its rich Tamil culture. Home to fragile coral reefs, the beaches are made up of soft translucent sand, lapped by crystal-clear shallow waters that are ideal for swimming and snorkeling! Enroute to your beach sojourn, we suggest you drop by the vibrant city of Batticaloa on a half-day tour and visit some Hindu temples, the Old Dutch fort, Kallady Bridge, the Lighthouse, and perhaps a local market. Why not end the afternoon with a paddle boat or kayak ride in the Batticaloa Lagoon to take in the views and observe the local birdlife. Alternatively you could explore the southern part of Batticaloa, biking along the beach to visit a fish market, a local organic garden or perhaps meet some handloom weavers! Late afternoon retreat to your luxurious abode to unwind in your spacious tented suites with their intimate gardens and panoramic ocean views or pamper your way to enjoying a soothing massage or Ayurvedic treatment!"
         },
         {
             "day": "Day 7",
-            "description": "Passikudah 2 and half hours"
+            "route": "Passikudah",
+            "description": "Enjoy long walks along the bay or simply laze on the beach and soak in the stupendous views! Alternatively channel your inner adventures by partaking in some water sports from jet skis, kayaking/windsurfing, snorkeling in the beautiful corals or enjoy a hike to the top of the steep rocky outcrop of Kudumbimalai also referred to as ‘Baron’s Cap’. There are plenty of options for for scuba diving and sailing further away from shore! You could also explore the local area on a fun tuk-tuk excursion into neighboring villages and nearby Passikudha. Take a peek at some colorful temples, hidden ruins in the jungle, followed by a visit to the old British harbor, the “spiritual art gallery” and end your visit to the atop of the Elephant Rock for a breath-taking view of the Bay!"
         },
         {
             "day": "Day 8",
-            "description": "Passikudah Colombo 7 hours"
+            "route": "Passikudah to Colombo",
+            "description": "Get back to the main city to be near the airport for the next day, perhaps part of it by the scenic train. Wind down your stay back at the lavish confines of the iconic Galle Face Hotel! Alternatively if time permits you could engage in an enthralling city tour which entails a short visit to interesting features such as the old city of Fort, the main markets of Pettah, the Hindu Temple at Sea Street, the Dutch Church at Wolfendal, the historic Davatagaha Mosque and the Seema Malaka Temple."
         },
         {
             "day": "Day 9",
-            "description": "Colombo Airport 45 mins"
+            "route": "Colombo to Airport",
+            "description": "Enriched in a beach sojourn escapade, we bid you farewell as your Chauffeur Guide transfers you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "With meticulously planned logistics, including transfers and accommodations, this trip minimizes logistical concerns. Ideal for those seeking a seamless travel experience, where every detail is taken care of, allowing you to focus on enjoying the journey.",
-            "This trip caters to individual preferences, allowing for personal downtime and spontaneous discoveries. Whether you prefer lounging by the pool or venturing off the beaten path, the itinerary provides flexibility to accommodate diverse interests.",
-            "While the itinerary offers various activities, it is designed for a moderate level of physical activity. Whether strolling through markets or exploring historical sites, participants with a basic fitness level can enjoy the experience.",
-            "If you have a passion for cultural exploration and a curiosity about local traditions, this trip is tailored to provide immersive experiences, ensuring you connect deeply with the heart of Sri Lanka.",
-            "Immerse yourself in the rich tapestry of Sri Lankan culture. Engage with locals, explore ancient temples and witness traditional performances. Every encounter offers a deeper understanding of the island’s vibrant heritage.",
-            "Experience the explosion of flavors in Sri Lankan cuisine. From aromatic spices to fresh seafood, each meal is a gastronomic journey, reflecting the island’s diverse culinary heritage."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "From pristine beaches to mist-covered mountains, this journey showcases the kaleidoscope of Sri Lanka’s landscapes. Whether you’re a nature enthusiast or a beach lover, each day unfolds a new picturesque setting.",
-            "Indulge in unparalleled comfort with carefully selected accommodations. From boutique beach resorts to charming mountain retreats, our lodgings provide a perfect blend of luxury and local charm."
+            "Whale and dolphin watching",
+            "Coral reef snorkeling",
+            "Swimming with turtles"
         ]
     }
 }

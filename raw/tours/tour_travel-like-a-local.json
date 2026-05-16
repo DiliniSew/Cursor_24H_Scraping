@@ -14,71 +14,75 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Negombo 30 minutes"
+            "route": "Airport to Negombo",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
         },
         {
             "day": "Day 2",
-            "description": "Negombo Galle 2 and half hours"
+            "route": "Negombo to Galle",
+            "description": "Pay an early morning visit to a ‘lellama’ - Negombo’s bustling fish market. Watch the fishermen bring in their night’s catch for sale. Then head south along the coast to the World Heritage city of Galle. Sri Lanka’s oldest living city dotted with historic sites, Galle is one of the few World Heritage sites where a bustling population continues to thrive. Dutch-colonial buildings, ancient mosques and churches, grand mansions and museums vie on cobbled streets with stylish cafes, quirky boutiques and impeccably restored villas and hotels."
         },
         {
             "day": "Day 3",
-            "description": "Galle Yala 3 and half hours"
+            "route": "Galle to Yala",
+            "description": "Journeying along the southern coastline to Yala, look out for the iconic sight of stilt fishermen. Stop en route at a tea estate specialising in highly prized white tea and see the manufacturing process. Driving on, visit a turtle hatchery where baby turtles are cared for and also stop to see the Hummanaya blowhole - a rare natural phenomenon. On the drive to Yala alongside the jungle, you may see the occasional wild elephant. At Yala, check into your campsite and enjoy dinner around the bonfire."
         },
         {
             "day": "Day 4",
-            "description": "Yala 3 and half hours"
+            "route": "Yala",
+            "description": "After breakfast, explore Yala or Bundala National parks. Comprising scrubland, sparse forest, grassy plains and brackish lagoons, Yala is famous for the Sri Lankan Leopard (a unique subspecies) and is considered to have the highest density of leopards in the world. Sri Lanka’s ‘Big Five’ can be spotted here too - elephants, sloth bears, sambur and crocodiles, so you might see them all and other animals and birds too. Bundala National Park is a fantastic maze of waterways, lagoons and dunes home to thousands of birds."
         },
         {
             "day": "Day 5",
-            "description": "Yala Ella 3 and half hours"
+            "route": "Yala to Ella",
+            "description": "After breakfast, set off to Ella, visiting the ancient Buduruwagala temple along the way. The region’s biggest cultural attraction, this gigantic 1000 year old figure is carved into the solid rock face and still bears traces of its original stone robe. Continue the scenic drive uphill into the mountains, and stop by at the spectacular Diyaluma Falls. At 171 metres in height it is Sri Lanka’s third highest waterfall and a magnificent sight. Check into your homestay with views of the famous Ravana Ella waterfall."
         },
         {
             "day": "Day 6",
-            "description": "Ella"
+            "route": "Ella",
+            "description": "Take it easy and spend the day exploring Ella. This small but popular town nestled high in the mountains is famed for its breathtaking views. Visit the mighty Ravana falls and the iconic Nine Arch Bridge at Demodara - now made famous by myriad videos. Follow the trails to Ella Gap and the panoramic views across the valleys are well worth the climb. Take a trek to Little Adam’s Peak - the best place to catch a bird’s eye view of the bridge and beautiful sunsets too."
         },
         {
             "day": "Day 7",
-            "description": "Ella Kandy 5 hours train journey"
+            "route": "Ella to Kandy",
+            "description": "Take a ride that is considered to be one of the most epic train journeys in the world. The pace is leisurely, but the wonderful scenery you encounter along the way will make you forget the time and everything else. The line winds through villages, forests and tea estates. It curves round high mountain passes giving you magnificent views of waterfalls valleys beyond. This is an unforgettable way to catch a glimpse of real Sri Lanka. Later, check into your homestay in Kandy to rest."
         },
         {
             "day": "Day 8",
-            "description": "Kandy"
+            "route": "Kandy",
+            "description": "Start the day with a traditional cooking demo, making your lunch on earthenware pots and a woodfire stove. Then set off to explore Kandy. Kandy was the stronghold of the last Sinhalese kingdom. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or take in the views from upper Lake drive. In the evening, attend a performance featuring traditional dances from the different regions of Sri Lanka."
         },
         {
             "day": "Day 9",
-            "description": "Kandy Pasikuda 4 and half hours"
+            "route": "Kandy to Pasikuda",
+            "description": "After breakfast, leave the hills for the beaches of Pasikuda. En route visit Batticaloa. The once mighty Batticaloa fort now houses administrative offices, and though large sections of the structure are sadly crumbling, it’s still an evocative sight. The Batticaloa Lighthouse stands at the end of a sandbar, surrounded by lagoons and mangroves. The 28m tall lighthouse dates from 1913 and the sheltered coastline around is also popular. Continue to Pasikuda, and spend the rest of the day at leisure, enjoying the blissful beach."
         },
         {
             "day": "Day 10",
-            "description": "Pasikuda"
+            "route": "Pasikuda",
+            "description": "Take a well-earned rest from travelling and sightseeing to enjoy a day completely at leisure. The pristine white sands of Pasikuda beach will make that an easy task. A classic tropical paradise picture postcard location, Pasikuda is pure bliss. A long stretch of curving white sands that seem endless, cloudless blue skies and warm gentle ocean where the water is so clean and clear. It’s perfect for snorkelling, diving, sailing and a host of other water sports, if lazing in the sun gets too tedious."
         },
         {
             "day": "Day 11",
-            "description": "Pasikuda Sigiriya 2 and half hours"
+            "route": "Pasikuda to Sigiriya",
+            "description": "Travel to Sigiriya after a leisurely breakfast. In the afternoon climb Sigiriya or Pidurangala. One of Sri Lanka’s most significant cultural landmarks, the World Heritage Site of Sigiriya rock fortress is an architectural masterpiece carved from a massive rock. The frescos halfway up the rock face are still remarkable and the climb to the top is well worth it - for the views are truly incredible. Pidurangala is another massive rock formation almost directly opposite Sigiriya, with equally majestic views, especially of its more famous landmark."
         },
         {
             "day": "Day 12",
-            "description": "Sigiriya Polonnaruwa Negombo 4 hours"
+            "route": "Sigiriya to Polonnaruwa to Negombo",
+            "description": "After breakfast, travel to the heritage city of Polonnaruwa. A World Heritage site, Polonnaruwa was the medieval capital of ancient Lanka from the 11th to 13th century A.D and the glories of that era still remain well preserved in the archeological ruins of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya and many other sites. Afterwards, journey back to Negombo - closer to the airport, to rest and recoup overnight after your long days on the road and be ready for your flight home."
         },
         {
             "day": "Day 13",
-            "description": "Negombo Airport 20 minutes"
+            "route": "Negombo to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "Our seasoned travel curators have meticulously designed every detail. From accommodations to activities, expect a seamless blend of comfort and discovery, maximizing your enjoyment at every turn.",
-            "Immerse yourself in the heart of local traditions, savoring authentic flavors and experiencing daily life. Our itinerary promises a genuine connection with the destination.",
-            "Ideal for those who seek more than a surface-level encounter. Delve deep into local cultures, interact with communities and foster a profound appreciation for the richness of diversity.",
-            "If you crave more than the ordinary, this trip is tailor-made for you. Expect exciting challenges and unparalleled experiences that cater to your adventurous side.",
-            "Explore hidden gems and lesser-known wonders, ensuring a truly unique adventure. Discover the charm that lies beyond tourist hotspots for an unforgettable travel experience.",
-            "Enjoy the best of both worlds as we combine local expertise with international standards. Feel at home while exploring new horizons, creating memories that transcend cultural boundaries.",
-            "Embrace the unexpected. This trip is perfect for those who are open to spontaneity, allowing the journey to unfold organically and reveal the hidden treasures that lie off the traditional path.",
-            "For travelers who thrive in intimate settings, our small-group tours foster camaraderie and meaningful connections. Engage with fellow adventurers, creating bonds that last a lifetime on this shared exploration."
-        ],
         "ocean_and_wildlife_adjacencies": [
             "Whale and dolphin watching",
-            "Coral reef snorkeling"
+            "Coral reef snorkeling",
+            "Swimming with turtles"
         ]
     }
 }

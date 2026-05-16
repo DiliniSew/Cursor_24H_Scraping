@@ -14,60 +14,62 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Negombo 25 minutes"
+            "route": "Airport to Negombo",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
         },
         {
             "day": "Day 2",
-            "description": "Negombo Sigiriya 4 and half hours"
+            "route": "Negombo to Sigiriya",
+            "description": "Leave Negombo’s coastline and head inland. Drop by the Elephant Care Relief Foundation - a charity that looks after domesticated elephants. Meet an elephant expert and enjoy the unique opportunity to walk with and bathe elephants. After lunch, our sightseeing tour of Sri Lanka continues to the town of Sigiriya - a key cornerstone in the cultural triangle. In the evening, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel in the sky is an architectural masterpiece carved from a massive rock."
         },
         {
             "day": "Day 3",
-            "description": "Sigiriya Polonnaruwa Sigiriya 3 hours drive"
+            "route": "Sigiriya to Polonnaruwa to Sigiriya",
+            "description": "Learn about the better kept ruins of ancient Ceylon at the UNESCO World Heritage City of Polonnaruwa - the medieval capital of ancient Lanka from the 11th to 13th century A.D. Take a walking tour to the ruins of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya. On your return, take an exhilarating jeep ride with an expert naturalist guide to the Minneriya or Kaudulla National Park - a sanctuary is a home to wild elephants, wild buffaloes, sambar deer, crocodiles, sloth bear and more."
         },
         {
             "day": "Day 4",
-            "description": "Sigiriya Kandy 3 hours drive"
+            "route": "Sigiriya to Kandy",
+            "description": "After breakfast, set off to the historic hill capital of Kandy. En route, visit a spice garden at Matale to see how Sri Lankan spices are grown and processed. Arrive in Kandy - the eminent centre of Buddhism and the last stronghold of the Sinhalese kingdom. After lunch, take a drive away from town to see an ancient temple complex which comprises three shrines: Embekke, Lankathilaka and Gadaladeniya featuring intricate carvings thousands of years old. Enjoy a scenic drive back and spend your evening at leisure."
         },
         {
             "day": "Day 5",
-            "description": "Kandy Half day city tour"
+            "route": "Kandy",
+            "description": "A day of discovering Kandy awaits you. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Drive to the Peradeniya Botanical Gardens, visit the Udawattekele forest reserve - situated right in the heart of the town, or the bustling streets and market places. Take in the views from upper Lake drive. In the evening, attend a performance featuring traditional dances from the different regions of Sri Lanka."
         },
         {
             "day": "Day 6",
-            "description": "Kandy Nuwara Eliya 3 and half hours train Journey"
+            "route": "Kandy to Nuwara Eliya",
+            "description": "Take the upcountry train into the mountains and enjoy the breathtaking views along the way. From Nanu Oya train station ride to Nuwara Eliya - the land of Ceylon tea. After a rest, drive around the old colonial town of Nuwara Eliya - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Take a guided stroll past the renowned golf course, the colonial members only Hill Club and English styled cottages and Victoria Park."
         },
         {
             "day": "Day 7",
-            "description": "Nuwara Eliya Colombo 6 hours"
+            "route": "Nuwara Eliya to Colombo",
+            "description": "After breakfast, take a very scenic drive down the mountains to Colombo, through rolling tea plantations, lush paddy fields and into the urban sprawl. After a rest from your journey, explore Colombo with your chauffeur guide: visit the Pettah market, the colonial side of Fort, the Hindu Temple at Sea Street, the Dutch Church at Wolfendal or head for the shopping malls for some bargains. In the evening, enjoy the vibrant nightlife of Colombo, or relax and get ready to explore another island paradise tomorrow."
         },
         {
             "day": "Day 8",
-            "description": "Colombo Airport Male 1 hour"
+            "route": "Colombo to Airport to Male",
+            "description": "After breakfast, say goodbye to Sri Lanka and drive to catch your flight to Male. From the Male airport you will be paged by us and transferred to your resort via speed boat or by sea plane. Check in and spend the afternoon at leisure. Relax and enjoy spectacular sunsets - Maldivian style, and if you wish you may opt for a night-fishing experience by boat. Catch your fish or learn how to do so and it will be prepared for your dinner if you wish."
         },
         {
             "day": "Day 9",
-            "description": "Male 2 hours boat ride"
+            "route": "Male",
+            "description": "After an early breakfast at your resort, take a boat ride to watch pods of dolphins up close as they play in the ocean. The Indian Ocean is home to a treasure trove of colourful tropical fish and sea creatures. The Maldives is also one of the best locations for scuba diving and snorkelling, so take the opportunity to enjoy some Manta Ray watching. Return at sunset to the cosy comforts of your luxurious beach resort for a scrumptious dinner and a restful night’s sleep."
         },
         {
             "day": "Day 10",
-            "description": "Male 90 minutes"
+            "route": "Male",
+            "description": "After breakfast, get ready for another day of adventure in an undersea paradise. Go scuba diving or snorkelling in the pristine waters regarded as one of the best places in the world to do so. There are over 700 species of multi-coloured tropical fish and other marine life for you to witness in their natural habitat. If the turtles are willing, you may get the amazing opportunity to swim with them, or above them - a truly incredible experience. Back ashore, sunsets, dinner and rest awaits."
         },
         {
             "day": "Day 11",
-            "description": "Male Airport Depends on the resort chosen"
+            "route": "Male to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "History buffs and culture enthusiasts will revel in the rich heritage of Sri Lanka’s ancient cities and the Maldives’ unique island culture. Every site visited is a journey through time.",
-            "Embark on a gastronomic adventure, savoring the tantalizing flavors of authentic Sri Lankan and Maldivian cuisine. From spicy curries to fresh seafood, every meal is a celebration of local tastes.",
-            "For those who appreciate the finer things in life, our meticulously curated itinerary offers a perfect balance of indulgence and cultural immersion. Pamper yourself in style and elegance.",
-            "Indulge in opulent accommodations and personalized service, ensuring a seamless blend of comfort and sophistication throughout your journey. Experience travel as it’s meant to be lavish and memorable."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "If you crave exploration and discovery, this trip is tailored for you. Trek through lush jungles, encounter wildlife and snorkel in azure waters for an unforgettable escapade.",
-            "If your idea of paradise involves powdery beaches, crystal-clear waters and tropical serenity, this trip is your ticket to bliss. Unwind on pristine shores and let the waves lull you into tranquility.",
-            "Immerse yourself in the rich tapestry of Sri Lanka and the Maldives, from ancient temples to pristine beaches. Each day brings new landscapes and cultural treasures.",
             "Dive into unique activities, like a sunrise hot air balloon ride over the Sigiriya rock fortress or snorkeling in the crystal-clear waters of the Maldives. Create memories that linger long after the journey ends."
         ]
     }

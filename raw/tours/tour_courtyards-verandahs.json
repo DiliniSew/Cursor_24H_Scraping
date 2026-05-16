@@ -14,51 +14,50 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Negombo 25 minutes"
+            "route": "Airport to Negombo",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
         },
         {
             "day": "Day 2",
-            "description": "Negombo Anuradhapura Kandalama 4 and half hours"
+            "route": "Negombo to Anuradhapura to Kandalama",
+            "description": "Pay an early morning visit to a ‘lellama’ - Negombo’s bustling fish market. Watch the fishermen bring in their night’s catch for sale. Leave the coast and head inland. Break your journey at Anuradhapura - the first capital of ancient Ceylon, reigning for over a thousand years. Take a walking tour with your chauffeur guide visiting the Sacred Sri Maha Bodhi, Ruwanweli seya and Mihintale. Later, arrive at Bawa’s iconic landmark, Heritance Kandalama. A tranquil haven built into the rockface and surrounded by jungle, blending in perfectly."
         },
         {
             "day": "Day 3",
-            "description": "Kandalama Sigiriya Polonnaruwa Kandalama 3 and half hours"
+            "route": "Kandalama to Sigiriya to Polonnaruwa to Kandalama",
+            "description": "Early morning, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel is an architectural masterpiece carved from a massive rock. In the afternoon, learn about the better kept ruins of ancient Ceylon at the UNESCO World Heritage City of Polonnaruwa - the medieval capital of ancient Lanka from the 11th to 13th century A.D. Take a walking tour of the ruins at Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya and Vatadage and be awed by their lasting grandeur."
         },
         {
             "day": "Day 4",
-            "description": "Dambulla Matale Kandy 3 hours"
+            "route": "Dambulla to Matale to Kandy",
+            "description": "En route to Kandy, visit the Matale Heritage Centre to see the designs of Mrs. Ena de Silva - a close friend and collaborator of Geoffrey Bawa who contributed many pieces to his projects. Arrive in Kandy - eminent centre of Buddhism and the last stronghold of the Sinhalese kingdom. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the bustling streets and market places. Take in the views from upper Lake drive."
         },
         {
             "day": "Day 5",
-            "description": "Kandy Bandarawela Ella 4 and half hours"
+            "route": "Kandy to Bandarawela to Ella",
+            "description": "Enjoy a scenic drive to the hills of Bandarawela through lush tea plantations. Drop by the Chapel of the Good Shepherd’s Convent - designed by Geoffrey Bawa and Ulrik Plesner. Continue to Ella - a small but popular town nestled high in the mountains and famed for its breathtaking views. Stop to admire the cascading Ravana Ella waterfall and the iconic Demodara Nine Arch Bridge. Continue to your stay for the night - the 98 Acres Resort & Spa; an elegant, chic hotel set amidst a sprawling tea estate."
         },
         {
             "day": "Day 6",
-            "description": "Ella Galle 5 and half hours"
+            "route": "Ella to Galle",
+            "description": "On the way to Galle, visit two lesser known Bawa creations: the Ruhunu University Campus and the Matara Post Office. Stop for lunch at Heritance Ahungalla - another Bawa inspired design. Continue to Galle - Sri Lanka’s oldest living city dotted with historic sites. A hive of activity, arts and culture it’s one of the few World Heritage sites where a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques. Overnight stay at Jetwing Lighthouse - Bawa’s architectural masterpiece."
         },
         {
             "day": "Day 7",
-            "description": "Galle Colombo 2 and half hours"
+            "route": "Galle to Colombo",
+            "description": "On your way to Colombo, take a break for an alfresco lunch at the Lunuganga Estate - Bawa’s country home. Explore Colombo with your chauffeur guide: visit the Pettah market, the colonial side of Fort, the Hindu Temple at Sea Street, the Dutch Church at Wolfendal or head for the shopping malls for some bargains. Visit Bawa’s residence at No. 11 for a tour and continue the evening with dinner at his former office - the Gallery Cafe, perhaps in the company of Channa Daswatte, Bawa’s protege."
         },
         {
             "day": "Day 8",
-            "description": "Colombo Airport 1 hour"
+            "route": "Colombo to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "If capturing moments is your passion, this itinerary unfolds a photographer’s dream. From ancient architecture to vibrant landscapes, every frame tells a story of Sri Lanka’s captivating beauty.",
-            "If your travel style involves staying in distinctive accommodations, from historic mansions to boutique hotels, this journey promises a blend of comfort and uniqueness that complements your taste.",
-            "Experience the warmth of personalized hospitality at every stop. Our curated itinerary ensures you not only witness the beauty of Sri Lanka but also connect with its people on a personal level.",
-            "Ideal for those seeking a balance between exploration and relaxation. While there are enriching activities, the trip allows ample time for you to unwind in the scenic surroundings at your own pace.",
-            "Delight your taste buds with a gastronomic journey. From traditional Sri Lankan delicacies to gourmet experiences, this trip is a feast for those who savor the fusion of flavors.",
-            "Indulge in breathtaking landscapes and serene retreats that redefine relaxation. From lush tea plantations to historic estates, each moment promises awe-inspiring beauty and tranquility.",
-            "If you crave an authentic cultural experience, this trip is tailored for you. Immerse yourself in the traditions, arts and lifestyles that make Sri Lanka a cultural gem.",
-            "Embark on a journey through the heart of Sri Lanka, exploring charming courtyards and verandahs that resonate with the island’s rich history, offering an authentic cultural immersion."
-        ],
         "ocean_and_wildlife_adjacencies": [
             "Whale and dolphin watching",
-            "Coral reef snorkeling"
+            "Coral reef snorkeling",
+            "Swimming with turtles"
         ]
     }
 }

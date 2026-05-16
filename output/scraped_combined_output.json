@@ -16,60 +16,62 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Negombo 25 minutes"
+                    "route": "Airport to Negombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Negombo Sigiriya 4 and half hours"
+                    "route": "Negombo to Sigiriya",
+                    "description": "Leave Negombo’s coastline and head inland. Drop by the Elephant Care Relief Foundation - a charity that looks after domesticated elephants. Meet an elephant expert and enjoy the unique opportunity to walk with and bathe elephants. After lunch, our sightseeing tour of Sri Lanka continues to the town of Sigiriya - a key cornerstone in the cultural triangle. In the evening, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel in the sky is an architectural masterpiece carved from a massive rock."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Sigiriya Polonnaruwa Sigiriya 3 hours drive"
+                    "route": "Sigiriya to Polonnaruwa to Sigiriya",
+                    "description": "Learn about the better kept ruins of ancient Ceylon at the UNESCO World Heritage City of Polonnaruwa - the medieval capital of ancient Lanka from the 11th to 13th century A.D. Take a walking tour to the ruins of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya. On your return, take an exhilarating jeep ride with an expert naturalist guide to the Minneriya or Kaudulla National Park - a sanctuary is a home to wild elephants, wild buffaloes, sambar deer, crocodiles, sloth bear and more."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Sigiriya Kandy 3 hours drive"
+                    "route": "Sigiriya to Kandy",
+                    "description": "After breakfast, set off to the historic hill capital of Kandy. En route, visit a spice garden at Matale to see how Sri Lankan spices are grown and processed. Arrive in Kandy - the eminent centre of Buddhism and the last stronghold of the Sinhalese kingdom. After lunch, take a drive away from town to see an ancient temple complex which comprises three shrines: Embekke, Lankathilaka and Gadaladeniya featuring intricate carvings thousands of years old. Enjoy a scenic drive back and spend your evening at leisure."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Kandy Half day city tour"
+                    "route": "Kandy",
+                    "description": "A day of discovering Kandy awaits you. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Drive to the Peradeniya Botanical Gardens, visit the Udawattekele forest reserve - situated right in the heart of the town, or the bustling streets and market places. Take in the views from upper Lake drive. In the evening, attend a performance featuring traditional dances from the different regions of Sri Lanka."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Kandy Nuwara Eliya 3 and half hours train Journey"
+                    "route": "Kandy to Nuwara Eliya",
+                    "description": "Take the upcountry train into the mountains and enjoy the breathtaking views along the way. From Nanu Oya train station ride to Nuwara Eliya - the land of Ceylon tea. After a rest, drive around the old colonial town of Nuwara Eliya - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Take a guided stroll past the renowned golf course, the colonial members only Hill Club and English styled cottages and Victoria Park."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Nuwara Eliya Colombo 6 hours"
+                    "route": "Nuwara Eliya to Colombo",
+                    "description": "After breakfast, take a very scenic drive down the mountains to Colombo, through rolling tea plantations, lush paddy fields and into the urban sprawl. After a rest from your journey, explore Colombo with your chauffeur guide: visit the Pettah market, the colonial side of Fort, the Hindu Temple at Sea Street, the Dutch Church at Wolfendal or head for the shopping malls for some bargains. In the evening, enjoy the vibrant nightlife of Colombo, or relax and get ready to explore another island paradise tomorrow."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Colombo Airport Male 1 hour"
+                    "route": "Colombo to Airport to Male",
+                    "description": "After breakfast, say goodbye to Sri Lanka and drive to catch your flight to Male. From the Male airport you will be paged by us and transferred to your resort via speed boat or by sea plane. Check in and spend the afternoon at leisure. Relax and enjoy spectacular sunsets - Maldivian style, and if you wish you may opt for a night-fishing experience by boat. Catch your fish or learn how to do so and it will be prepared for your dinner if you wish."
                 },
                 {
                     "day": "Day 9",
-                    "description": "Male 2 hours boat ride"
+                    "route": "Male",
+                    "description": "After an early breakfast at your resort, take a boat ride to watch pods of dolphins up close as they play in the ocean. The Indian Ocean is home to a treasure trove of colourful tropical fish and sea creatures. The Maldives is also one of the best locations for scuba diving and snorkelling, so take the opportunity to enjoy some Manta Ray watching. Return at sunset to the cosy comforts of your luxurious beach resort for a scrumptious dinner and a restful night’s sleep."
                 },
                 {
                     "day": "Day 10",
-                    "description": "Male 90 minutes"
+                    "route": "Male",
+                    "description": "After breakfast, get ready for another day of adventure in an undersea paradise. Go scuba diving or snorkelling in the pristine waters regarded as one of the best places in the world to do so. There are over 700 species of multi-coloured tropical fish and other marine life for you to witness in their natural habitat. If the turtles are willing, you may get the amazing opportunity to swim with them, or above them - a truly incredible experience. Back ashore, sunsets, dinner and rest awaits."
                 },
                 {
                     "day": "Day 11",
-                    "description": "Male Airport Depends on the resort chosen"
+                    "route": "Male to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "History buffs and culture enthusiasts will revel in the rich heritage of Sri Lanka’s ancient cities and the Maldives’ unique island culture. Every site visited is a journey through time.",
-                    "Embark on a gastronomic adventure, savoring the tantalizing flavors of authentic Sri Lankan and Maldivian cuisine. From spicy curries to fresh seafood, every meal is a celebration of local tastes.",
-                    "For those who appreciate the finer things in life, our meticulously curated itinerary offers a perfect balance of indulgence and cultural immersion. Pamper yourself in style and elegance.",
-                    "Indulge in opulent accommodations and personalized service, ensuring a seamless blend of comfort and sophistication throughout your journey. Experience travel as it’s meant to be lavish and memorable."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "If you crave exploration and discovery, this trip is tailored for you. Trek through lush jungles, encounter wildlife and snorkel in azure waters for an unforgettable escapade.",
-                    "If your idea of paradise involves powdery beaches, crystal-clear waters and tropical serenity, this trip is your ticket to bliss. Unwind on pristine shores and let the waves lull you into tranquility.",
-                    "Immerse yourself in the rich tapestry of Sri Lanka and the Maldives, from ancient temples to pristine beaches. Each day brings new landscapes and cultural treasures.",
                     "Dive into unique activities, like a sunrise hot air balloon ride over the Sigiriya rock fortress or snorkeling in the crystal-clear waters of the Maldives. Create memories that linger long after the journey ends."
                 ]
             }
@@ -90,43 +92,40 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Negombo Drive: 25 minutes, Cycle: 1 hour"
+                    "route": "Airport to Negombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to Negombo. Rest and recoup from jet lag, you have days of excitement ahead. When convenient, your chauffeur guide will familiarise you with what to expect while cycling on a Sri Lankan road. We encourage you to ride about the town and see some interesting sights and landmarks. Afterwards, chill out on the golden sands of Negombo beach and prepare for days of riding to come."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Negombo Kurunegala Dambulla Drive: 3 hours, Cycle: 5 hours"
+                    "route": "Negombo to Kurunegala to Dambulla",
+                    "description": "Start your expedition by cycling 35 km along a picturesque route passing paddy fields and coconut plantations to Kurunegala. The towering statue of Lord Buddha on ‘Atha gala’ - the town’s famous landmark rockface, is visible from afar. Ride around and explore Kurunegala town. In the afternoon, enjoy lunch at a delightful local restaurant. Then, pack your bikes away for the day, and continue by car to Dambulla in the heart of Sri Lanka’s cultural triangle. In Dambulla, visit the renowned Golden Temple Cave complex."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Dambulla Polonnaruwa Dambulla Drive: 3 hours, Cycle: 3 hours"
+                    "route": "Dambulla to Polonnaruwa to Dambulla",
+                    "description": "Take a morning cycle tour to the ruins of ancient Ceylon at the UNESCO World Heritage City of Polonnaruwa - the medieval capital of ancient Lanka from the 11th to 13th century A.D. Take in the historic sites of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya. On your return, take an exhilarating jeep ride with an expert naturalist guide to the Minneriya or Kaudulla National Park - a sanctuary is a home to wild elephants, wild buffaloes, sambar deer, crocodiles, sloth bear and more."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Dambulla Sigiriya Kandy Drive: 3 hours, Cycle: 2 hours"
+                    "route": "Dambulla to Sigiriya to Kandy",
+                    "description": "Enjoy a hearty breakfast and get ready for a challenging ride ahead. Start by cycling to the World Heritage Site of Sigiriya. Over the 55km of moderate standard, you pass through lush jungle, traditional chena farms and rural villages. Climb Sigiriya rock and travel by car stopping for lunch at a local restaurant. Continue on to Kandy. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Kandy Cycle: 3 hours"
+                    "route": "Kandy",
+                    "description": "After a leisurely breakfast, set off to explore the historic town of Kandy. It is a busy, bustling hub of activity where heritage buildings and modernity mix. Visit the Udawattekele forest reserve - a haven of peace in the heart of town, or the vibrant market places. Walk or ride around the Kandy lake and ride up Lake Drive for some spectacular views of the town. For something a bit more challenging, ride to the hills of Hantana taking an uphill cycle route through the forest."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Kandy Airport 4 hours"
+                    "route": "Kandy to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "If you relish the outdoors, this trip seamlessly integrates nature and adventure. Cycling allows you to appreciate the subtleties of the landscape, making it an ideal choice for nature enthusiasts.",
-                    "Pedal through ancient ruins, bustling markets and serene villages, encountering the heart of Sri Lanka up close, fostering a deep connection with its rich cultural tapestry.",
-                    "Savor the vibrant flavors of Sri Lankan cuisine, sampling local delicacies during your journey. From aromatic curries to street-side treats, every meal becomes a culinary adventure.",
-                    "Contribute to sustainable tourism by choosing an eco-friendly mode of exploration. Cycling allows you to minimize your carbon footprint, fostering a responsible and environmentally conscious travel experience.",
-                    "Perfect for solo travelers, couples, or friends seeking a shared adventure. The group dynamic adds a social element to the journey, fostering connections and shared memories along the way.",
-                    "Ideal for those eager to delve into Sri Lanka’s diverse culture. If you appreciate authentic encounters and immersive experiences, this trip provides a perfect balance of adventure and cultural exploration.",
-                    "Uncover breathtaking scenery as you cycle through diverse landscapes, from misty mountains to pristine coastlines. The thrill of discovery is amplified by the freedom of cycling.",
-                    "While suitable for active enthusiasts, the itinerary is designed with a moderate pace, accommodating varying fitness levels. Enjoy the thrill of cycling without overwhelming physical demands."
-                ],
                 "ocean_and_wildlife_adjacencies": [
                     "Whale and dolphin watching",
-                    "Coral reef snorkeling"
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -146,57 +145,58 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Elkaduwa Kandy 5 hours"
+                    "route": "Airport to Elkaduwa to Kandy",
+                    "description": "At the airport you will be greeted by your chauffeur guide who will take you to your first destination high in the central mountains of Sri Lanka. Your journey will give you a quick snapshot of the incredible diversity of our island as you travel from the coast, follow the paddyfields in the low valleys and climb into the high mountains covered in tea or lush forest. The steep, uphill drive to Elkaduwa through winding roads often bathed in mist, will be an unforgettable one."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Elkaduwa Kandy Elkaduwa 2 hours"
+                    "route": "Elkaduwa to Kandy to Elkaduwa",
+                    "description": "Breakfast at leisure, then explore the hill capital of Kandy, eminent as the centre of Buddhism and the stronghold of the last Sinhalese kingdom. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or the bustling streets and market places. Take in the views from upper Lake drive. Back at Ashburnham, follow the waterfall trail for a quick dip - with views."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Elkaduwa Kandy Elkaduwa"
+                    "route": "Elkaduwa to Kandy to Elkaduwa",
+                    "description": "Start the day with a tea experience tour. Join Ashburnham’s own field manager on his rounds of the estate comprising 100 acres of tea. Watch the tea pluckers expertly pick their ‘two leaves and a bud’. Learn more about tea cultivation and head back with the pickers to weigh the crop. Set off to explore the foothills of the knuckles range - a unique cloud forest, and a World Heritage Site. You can take the scenic route and visit a few waterfalls along the way too."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Elkaduwa Kandy Ella 5 hours Train Journey"
+                    "route": "Elkaduwa to Kandy to Ella",
+                    "description": "Take a ride that is considered to be one of the most epic train journeys in the world. The pace is leisurely, but the wonderful scenery you encounter along the way makes you forget the time and everything else. The line winds through villages, forests and tea estates. It curves round high mountain passes giving you magnificent views of waterfalls and valleys beyond. This is an unforgettable way to catch a glimpse of real Sri Lanka. After the journey, rest or visit Ravana Ella waterfall."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Ella"
+                    "route": "Ella",
+                    "description": "In this 5-hour trek you will experience the true beauty of Sri Lanka’s mountain region, while taking in all the famous landmark attractions Ella is known for. Walk to the incredible Nine Arch bridge - perfect for those social media photos. Visit the Demodara railway station, renowned for its ‘loop’ - a unique feature for turning trains around, and the only one of its kind in Sri Lanka. Then continue to Little Adam’s Peak, a tough trek, but worth it for the amazing views especially at sunset."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Ella Wellawaya 1 and half hours"
+                    "route": "Ella to Wellawaya",
+                    "description": "Enjoy the scenic drive from Ella to Wellawaya. Your stay is a unique, agro-luxury resort. Nestled in a low valley amidst lush paddy fields circled by mountains, Jetwing Kaduruketha is designed to resemble a traditional village surrounded by nature. The fields around the property are harvested by the villagers. You can learn all about rice cultivation and the local traditions and ceremonies intrinsically linked to it, perhaps take part in some yourself. Later, visit a viewpoint to catch a glimpse of the magnificent Diyaluma waterfall."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Wellawaya"
+                    "route": "Wellawaya",
+                    "description": "In the morning, explore the nearby villages. Following the overgrown footpaths through fields and river banks you will see and experience the true essence of rural life in Sri Lanka. Along the way, greet the locals, taste some homemade treats at a tiny wayside hut, drink a coconut or some herbal tea. Stop to visit the Kirindi Oya river and enjoy a refreshing dip before continuing your leisurely walk through the paddy fields. At nightfall, explore the jungle trails nearby to spot some nocturnal wildlife."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Wellawaya 2 hours"
+                    "route": "Wellawaya",
+                    "description": "After a leisurely breakfast, set off to explore along the nearby forest trails to Ella Wala waterfall hidden deep inside the jungle. At just 4-5 metres tall, but beautiful with a natural pool perfect for bathing and enjoying a picnic lunch. In the afternoon, trek to visit the spectacular Diyaluma Falls - the 2nd highest waterfall in Sri Lanka. Cascading at different levels with natural pools on the top, the main water drop is 220-metres high. The trek is very challenging, but not to be missed."
                 },
                 {
                     "day": "Day 9",
-                    "description": "Wellawaya Galle 5 and half hours"
+                    "route": "Wellawaya to Galle",
+                    "description": "A scenic drive to the south coast, and Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
                 },
                 {
                     "day": "Day 10",
-                    "description": "Galle Airport 3 hours"
+                    "route": "Galle to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home"
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Embark on a journey that seamlessly blends coastal bliss, misty mountains and vibrant cities, offering a kaleidoscope of experiences that will leave you enchanted at every turn.",
-                    "Traverse through nature’s wonders as you witness breathtaking wildlife spectacles. Whether it’s a safari adventure or a marine escapade, each moment is a chance to connect with the untamed beauty of the world.",
-                    "Indulge your taste buds in a culinary odyssey, savoring diverse flavors that tell the story of the region. From street food delights to fine dining, every meal is a celebration of local gastronomy.",
-                    "Immerse yourself in the rich tapestry of local cultures. From ancient traditions to modern influences, each encounter reveals a unique facet, creating memories that resonate long after your return.",
-                    "For those captivated by history and culture, this journey offers immersive encounters. Get ready to explore ancient ruins, interact with local communities and witness living traditions in action.",
-                    "Whether you seek relaxation or a fast-paced adventure, this itinerary accommodates various preferences. Customize your journey to match your energy levels, ensuring a vacation that suits your style."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "Nature enthusiasts will find solace in the diverse landscapes traversed. From pristine beaches to lush mountains, this trip is a sanctuary for those seeking to reconnect with the natural world and its wonders.",
-                    "If you crave excitement and love pushing boundaries, this trip caters to thrill-seekers. Whether trekking through dense jungles or diving into the ocean depths, adventure awaits."
+                    "Traverse through nature’s wonders as you witness breathtaking wildlife spectacles. Whether it’s a safari adventure or a marine escapade, each moment is a chance to connect with the untamed beauty of the world."
                 ]
             }
         },
@@ -216,41 +216,41 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Kalpitiya 2 and half hours"
+                    "route": "Airport to Kalpitiya",
+                    "description": "At the airport you will be greeted by your chauffeur guide who will take you to the fishing village of Kalpitiya in the north western coast. The Kalpitiya beach is a long, narrow stretch of sand, also accessible by boat from across the Kalpitiya lagoon. Dolphins, whales and kite surfing are the main attractions that draw visitors to this relatively undeveloped peninsula. Hundreds of dolphins can often be seen playing in the offshore waters, you can take a boat ride to catch some close-up views."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Kalpitiya"
+                    "route": "Kalpitiya",
+                    "description": "After breakfast, head down to snorkel or dive in the renowned Bar Reef. A must for keen scuba divers and snorkelers, this is the largest coral reef in Sri Lanka and only an hour’s boat ride from Kalpitiya. Beautiful and unspoilt, Bar Reef spans around 307 Sq.km and is home to 156 coral species and 283 species of fish, with frequent sightings of manta rays, reef sharks and turtles. Despite its natural beauty, the western peninsular area of Kalpitiya is remarkably untouched by tourism."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Kalpitiya Galle 5 hours"
+                    "route": "Kalpitiya to Galle",
+                    "description": "A scenic drive to the south coast and Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Galle 30 minutes"
+                    "route": "Galle",
+                    "description": "With its impressive coral reefs and abundance of tropical fish, Hikkaduwa is considered as one of the best places for snorkelling and diving on the Southwest coast. Snorkel or dive in the Conch Reef: 20 metres down and historically significant, being one of the first oil tankers of the Shell Company which sank in 1903 as she struck the Akarta rock. Probably one of the best and easily accessible wrecks in Sri Lanka, with many nooks and crannies within the wreck filled with marine life."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Galle 30 minutes"
+                    "route": "Galle",
+                    "description": "Snorkel or dive in Unawatuna. This 3-hour scuba diving session gives you a wonderful glimpse of Sri Lanka’s colourful corals, mystery wrecks and over 170 species of reef fish, turtles, octopuses and shellfish; perhaps even Sri Lanka’s giant - the whale shark. Travel to snorkel or dive in Weligama - an interesting blend of a lively fishing village and beach resort. The sandy stretch is attractive away from the main section with coves west of the centre and the ocean is perfect for snorkelling and diving too."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Galle Airport 2 and half hours"
+                    "route": "Galle to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Whether you’re a seasoned diver or a beginner eager to explore the depths, our expert instructors tailor experiences, ensuring everyone enjoys the wonders beneath the surface.",
-                    "If you crave underwater excitement and have a passion for maritime history, this trip offers the perfect blend of thrilling dives amid historic shipwrecks."
-                ],
                 "ocean_and_wildlife_adjacencies": [
+                    "Immerse yourself in a world of colorful marine life, from elusive sea turtles to dazzling schools of fish. Discover the joy of snorkeling and diving in crystal-clear waters.",
                     "Dive into the rich maritime history of Sri Lanka as you explore captivating shipwrecks and vibrant coral reefs, creating unforgettable memories in the depths of the Indian Ocean.",
                     "Our experienced guides and certified dive instructors ensure not just a thrilling expedition but a safe one too. Dive with confidence as you explore the mesmerizing wrecks and reefs of Ceylon.",
-                    "Indulge in exclusive stays at Jetwing’s handpicked coastal properties, offering a perfect blend of modern comforts and serene oceanfront views, ensuring a relaxing and rejuvenating experience after each day’s adventure.",
-                    "If you appreciate eco-friendly tourism, rest assured that our excursions prioritize sustainability. Join us in responsible diving practices, preserving the marine ecosystem for generations to come.",
-                    "Seeking a balance of adventure and relaxation? This trip lets you escape the hustle, providing a chance to unwind on pristine beaches and savor the coastal charm of Sri Lanka.",
-                    "Immerse yourself in a world of colorful marine life, from elusive sea turtles to dazzling schools of fish. Discover the joy of snorkeling and diving in crystal-clear waters."
+                    "Indulge in exclusive stays at Jetwing’s handpicked coastal properties, offering a perfect blend of modern comforts and serene oceanfront views, ensuring a relaxing and rejuvenating experience after each day’s adventure."
                 ]
             }
         },
@@ -270,51 +270,50 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Negombo 25 minutes"
+                    "route": "Airport to Negombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Negombo Anuradhapura Kandalama 4 and half hours"
+                    "route": "Negombo to Anuradhapura to Kandalama",
+                    "description": "Pay an early morning visit to a ‘lellama’ - Negombo’s bustling fish market. Watch the fishermen bring in their night’s catch for sale. Leave the coast and head inland. Break your journey at Anuradhapura - the first capital of ancient Ceylon, reigning for over a thousand years. Take a walking tour with your chauffeur guide visiting the Sacred Sri Maha Bodhi, Ruwanweli seya and Mihintale. Later, arrive at Bawa’s iconic landmark, Heritance Kandalama. A tranquil haven built into the rockface and surrounded by jungle, blending in perfectly."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Kandalama Sigiriya Polonnaruwa Kandalama 3 and half hours"
+                    "route": "Kandalama to Sigiriya to Polonnaruwa to Kandalama",
+                    "description": "Early morning, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel is an architectural masterpiece carved from a massive rock. In the afternoon, learn about the better kept ruins of ancient Ceylon at the UNESCO World Heritage City of Polonnaruwa - the medieval capital of ancient Lanka from the 11th to 13th century A.D. Take a walking tour of the ruins at Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya and Vatadage and be awed by their lasting grandeur."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Dambulla Matale Kandy 3 hours"
+                    "route": "Dambulla to Matale to Kandy",
+                    "description": "En route to Kandy, visit the Matale Heritage Centre to see the designs of Mrs. Ena de Silva - a close friend and collaborator of Geoffrey Bawa who contributed many pieces to his projects. Arrive in Kandy - eminent centre of Buddhism and the last stronghold of the Sinhalese kingdom. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the bustling streets and market places. Take in the views from upper Lake drive."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Kandy Bandarawela Ella 4 and half hours"
+                    "route": "Kandy to Bandarawela to Ella",
+                    "description": "Enjoy a scenic drive to the hills of Bandarawela through lush tea plantations. Drop by the Chapel of the Good Shepherd’s Convent - designed by Geoffrey Bawa and Ulrik Plesner. Continue to Ella - a small but popular town nestled high in the mountains and famed for its breathtaking views. Stop to admire the cascading Ravana Ella waterfall and the iconic Demodara Nine Arch Bridge. Continue to your stay for the night - the 98 Acres Resort & Spa; an elegant, chic hotel set amidst a sprawling tea estate."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Ella Galle 5 and half hours"
+                    "route": "Ella to Galle",
+                    "description": "On the way to Galle, visit two lesser known Bawa creations: the Ruhunu University Campus and the Matara Post Office. Stop for lunch at Heritance Ahungalla - another Bawa inspired design. Continue to Galle - Sri Lanka’s oldest living city dotted with historic sites. A hive of activity, arts and culture it’s one of the few World Heritage sites where a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques. Overnight stay at Jetwing Lighthouse - Bawa’s architectural masterpiece."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Galle Colombo 2 and half hours"
+                    "route": "Galle to Colombo",
+                    "description": "On your way to Colombo, take a break for an alfresco lunch at the Lunuganga Estate - Bawa’s country home. Explore Colombo with your chauffeur guide: visit the Pettah market, the colonial side of Fort, the Hindu Temple at Sea Street, the Dutch Church at Wolfendal or head for the shopping malls for some bargains. Visit Bawa’s residence at No. 11 for a tour and continue the evening with dinner at his former office - the Gallery Cafe, perhaps in the company of Channa Daswatte, Bawa’s protege."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Colombo Airport 1 hour"
+                    "route": "Colombo to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "If capturing moments is your passion, this itinerary unfolds a photographer’s dream. From ancient architecture to vibrant landscapes, every frame tells a story of Sri Lanka’s captivating beauty.",
-                    "If your travel style involves staying in distinctive accommodations, from historic mansions to boutique hotels, this journey promises a blend of comfort and uniqueness that complements your taste.",
-                    "Experience the warmth of personalized hospitality at every stop. Our curated itinerary ensures you not only witness the beauty of Sri Lanka but also connect with its people on a personal level.",
-                    "Ideal for those seeking a balance between exploration and relaxation. While there are enriching activities, the trip allows ample time for you to unwind in the scenic surroundings at your own pace.",
-                    "Delight your taste buds with a gastronomic journey. From traditional Sri Lankan delicacies to gourmet experiences, this trip is a feast for those who savor the fusion of flavors.",
-                    "Indulge in breathtaking landscapes and serene retreats that redefine relaxation. From lush tea plantations to historic estates, each moment promises awe-inspiring beauty and tranquility.",
-                    "If you crave an authentic cultural experience, this trip is tailored for you. Immerse yourself in the traditions, arts and lifestyles that make Sri Lanka a cultural gem.",
-                    "Embark on a journey through the heart of Sri Lanka, exploring charming courtyards and verandahs that resonate with the island’s rich history, offering an authentic cultural immersion."
-                ],
                 "ocean_and_wildlife_adjacencies": [
                     "Whale and dolphin watching",
-                    "Coral reef snorkeling"
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -334,51 +333,50 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Negombo 30 minutes"
+                    "route": "Airport to Negombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Negombo Chilaw Kandy 4 and half hours"
+                    "route": "Negombo to Chilaw to Kandy",
+                    "description": "After breakfast, visit the Muneeshwaram Temple at Chilaw. Over a thousand years old and an important temple complex for Hindus in Sri Lanka, Munneswaram is one of five ancient coastal kovils called the Pancha Ishwarams dedicated to Shiva along the island’s shoreline. The temple has seen much destruction and reconstruction over the years, but has survived the centuries well in spite of it. The Munneswaram Festival is a popular four-week-long celebration and so is the Navarathri festival. Afterwards proceed to Kandy and rest at leisure."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Kandy Nuwara Eliya 2 and half hours"
+                    "route": "Kandy to Nuwara Eliya",
+                    "description": "After breakfast, proceed to Nuwara Eliya visiting Sri Baktha Hanuman Temple, Ramboda en route. Situated on a scenic mountain summit, the temple houses an 18 feet Hanuman statue - the tallest in Sri Lanka. Travel on to Nuwara Eliya stopping at Seetha Amman Temple in Seetha Eliya on the way. An important site on the Ramayana trail, Sita Amman is the only Hindu temple dedicated to Princess Sita in Sri Lanka. It is also close to the historical Ashoka Vatika, now known as Hakgala Botanical Gardens."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Nuwara Eliya Ella 2 hours"
+                    "route": "Nuwara Eliya to Ella",
+                    "description": "After breakfast travel to Ella - a popular town nestled high in the mountains and famed for its breathtaking views. The Ravana Falls is a magnificent cascade around 25m tall and considered to be the widest waterfall in Sri Lanka. As per legend, King Ravana hid Sita in the caves behind the falls and deep within the Ravana Ella Wildlife Sanctuary, the cave entrance is around 5km away from the Falls. Later in the afternoon enjoy a city tour in Ella and spend a leisurely evening."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Ella Kataragama 2 hours"
+                    "route": "Ella to Kataragama",
+                    "description": "After breakfast, proceed to Kataragama - a renowned pilgrimage town sacred to Buddhist, Hindu and indigenous Vedda people, with devotees flocking from near and far. The site is included in the Ramayana Trail as the God of Kataragama is believed to have arrived from India. After a scenic descent from Ella, visit the Kataragama shrine, dedicated to God Skanda (Murugan) the God of Love and War. There are also shrines dedicated to Gods and Goddesses such as Murugan temple, Gana Devale, Vishnu Devale and Suniyam Devale."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Kataragama Galle 3 and half hours"
+                    "route": "Kataragama to Galle",
+                    "description": "After breakfast, head to the historic city of Galle. Its Portuguese and Dutch heritage is well present to this day. Visit the Galle Fort - one of the best preserved fortifications in Asia, the Maritime Museum, the Galle National Museum and the famous lighthouse. In the afternoon visit the Rumassala Rock - said to have originated from parts of Mount Dronagiri, dropped by Hanuman while carrying medicinal plants. Sita too, is said to have stayed here during her time in Lanka. Evening at leisure by the sea."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Galle Colombo 2 and half hours"
+                    "route": "Galle to Colombo",
+                    "description": "After breakfast proceed to Colombo. Stop en route at Seenigama temple set on a tiny islet. This shrine is dedicated to the local god who is said to protect fishermen and their boats. It is a significant location in the Ramayana trail. Proceed to Colombo and visit the Panchamuga Anjaneyar Temple - dedicated to Anjaneyar in Sri Lanka and the only temple in the world to own a chariot of Anjaneyar. Enjoy the rest of the day sightseeing in Colombo and indulge in some shopping too."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Galle Airport 1 hour"
+                    "route": "Galle to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Enjoy the perfect blend of comfort and culture with our meticulously crafted itineraries, offering luxurious accommodations, delectable cuisine and seamless travel experiences throughout your Ramayana adventure.",
-                    "Suited for travelers seeking a hassle-free experience, our all-inclusive packages cover accommodations, meals and expert guidance, allowing you to focus solely on absorbing the rich cultural tapestry.",
-                    "Ideal for those craving a profound spiritual experience, this tour delves into the heart of Ramayana, offering moments of reflection, meditation and connection with ancient traditions.",
-                    "Immerse yourself in the ancient saga of Ramayana as our expert guides bring the stories to life at iconic locations, making history a vibrant experience.",
-                    "Dive into unique encounters, from sunrise rituals at sacred sites to private sessions with local artisans. This trip promises authentic moments that go beyond the ordinary, creating memories to last a lifetime.",
-                    "Whether you’re a history enthusiast, nature lover, or cultural explorer, our trip caters to various interests. Each day brings a new facet of the Ramayana story, ensuring a diverse and fulfilling experience for everyone.",
-                    "Perfect for group travel or solo adventurers, our Ramayana tour fosters a sense of community among like-minded individuals. Embrace shared moments or relish personal reflections at your own pace.",
-                    "Our thoughtfully designed journey ensures you don’t just visit destinations but truly connect with the spiritual and historical essence of the Ramayana, making every day a revelation."
-                ],
                 "ocean_and_wildlife_adjacencies": [
                     "Whale and dolphin watching",
-                    "Coral reef snorkeling"
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -398,49 +396,50 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Colombo City 1 hour"
+                    "route": "Colombo City",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the capital city of Colombo. Once at the comforts of your hotel, relax and recover from jet lag. If you have spare time, your chauffeur guide will introduce you to some of Colombo’s curious sites such as the vibrant markets of Pettah, old city of Fort, the Hindu Temple at Sea Street and the Dutch Church at Wolfendal or alternatively to indulge in some shopping."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Colombo Sigiriya Dambulla 4 and half hours"
+                    "route": "Colombo to Sigiriya to Dambulla",
+                    "description": "Leave Colombo’s coastline and head inland. Drop by the Elephant Care Relief Foundation - a charity that looks after domesticated elephants. Meet an elephant expert and enjoy the unique opportunity to walk with, and bathe elephants. After lunch, our sightseeing tour of Sri Lanka continues to the town of Sigiriya - a key cornerstone in the cultural triangle. In the evening, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel in the sky is an architectural masterpiece carved from a massive rock."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Dambulla Polonnaruwa Dambulla 3 hours"
+                    "route": "Dambulla to Polonnaruwa to Dambulla",
+                    "description": "Learn about the better kept ruins of ancient Ceylon at the UNESCO World Heritage City of Polonnaruwa - the medieval capital of ancient Lanka from the 11th to 13th century A.D. Take a walking tour to the ruins of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya. On your return, take an exhilarating jeep ride with an expert naturalist guide to the Minneriya or Kaudulla National Park - a sanctuary is a home to wild elephants, wild buffaloes, sambar deer, crocodiles, sloth bear and more."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Dambulla Kandy 3 hours"
+                    "route": "Dambulla to Kandy",
+                    "description": "Arrive in the hill capital of Kandy, eminent as the centre of Buddhism and the stronghold of the last Sinhalese kingdom. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or the bustling streets and market places. Take in the views from upper Lake drive. In the evening, attend a performance featuring traditional dances from the different regions of Sri Lanka."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Kandy Nuwara Eliya 3 hours"
+                    "route": "Kandy to Nuwara Eliya",
+                    "description": "Take the upcountry train into the mountains and enjoy the breathtaking views along the way. From Nanu Oya train station ride to Nuwara Eliya - the land of Ceylon tea. After a rest, drive around the old colonial town of Nuwara Eliya - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Take a guided stroll past the renowned golf course, the colonial members only Hill Club and English styled cottages and Victoria Park."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Nuwara Eliya Yala 4 and half hours"
+                    "route": "Nuwara Eliya to Yala",
+                    "description": "From the hills of Nuwara Eliya descend to the jungles of Yala. The Yala National Park is famous for the Sri Lankan Leopard (a unique sub species). Yala is also considered to have the highest densities of leopards in the world. Sri Lanka’s ‘Big Five’ can be spotted here too - elephants, sloth bears, sambur and crocodiles, as well as leopards. Take an evening jeep ride with our naturalist guide and keep your fingers crossed - you may well spot them all and other wild life too."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Yala Galle 4 hours"
+                    "route": "Yala to Galle",
+                    "description": "A scenic drive to the south coast and Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Galle Airport 2 and half hours"
+                    "route": "Galle to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "A treat for food enthusiasts, this journey showcases authentic Sri Lankan cuisine. Designed for those appreciating the artistry and cultural significance behind every dish.",
-                    "Unveil Sri Lanka’s past with UNESCO sites, ancient ruins and vibrant traditions. Ideal for those passionate about culture and history, delving into a rich and diverse tapestry.",
-                    "Indulge in a gastronomic adventure, sampling spice-infused curries, exotic fruits and authentic cooking classes. A journey that not only feeds the body but also the soul.",
-                    "Travel in style with Jetwing Travels. Tailored for discerning travelers, this trip ensures comfort with well-appointed accommodations, personalized service and uncompromising indulgence in Sri Lanka’s beauty.",
-                    "Connect deeply with Sri Lanka’s heart through traditional dance, local village visits and ancient temple exploration. Immerse in rich heritage, fostering a profound appreciation for vibrant traditions.",
-                    "Elevate your experience with Jetwing Travels’ commitment to luxury. Handpicked accommodations, seamless transportation and personalized service ensure indulgence, creating lasting memories in comfort and style.",
-                    "Tailored for thrill-seekers, this trip offers climbing ancient fortresses, scenic train rides and water sports along the coast. Perfect for those with an adventurous spirit."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "Explore Sri Lanka’s diverse landscapes: from Sigiriya’s ancient marvel to Bentota’s golden beaches. A visual feast awaits nature enthusiasts, offering a unique panorama every day."
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -460,71 +459,75 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Negombo 30 minutes"
+                    "route": "Airport to Negombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Negombo Galle 2 and half hours"
+                    "route": "Negombo to Galle",
+                    "description": "Pay an early morning visit to a ‘lellama’ - Negombo’s bustling fish market. Watch the fishermen bring in their night’s catch for sale. Then head south along the coast to the World Heritage city of Galle. Sri Lanka’s oldest living city dotted with historic sites, Galle is one of the few World Heritage sites where a bustling population continues to thrive. Dutch-colonial buildings, ancient mosques and churches, grand mansions and museums vie on cobbled streets with stylish cafes, quirky boutiques and impeccably restored villas and hotels."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Galle Yala 3 and half hours"
+                    "route": "Galle to Yala",
+                    "description": "Journeying along the southern coastline to Yala, look out for the iconic sight of stilt fishermen. Stop en route at a tea estate specialising in highly prized white tea and see the manufacturing process. Driving on, visit a turtle hatchery where baby turtles are cared for and also stop to see the Hummanaya blowhole - a rare natural phenomenon. On the drive to Yala alongside the jungle, you may see the occasional wild elephant. At Yala, check into your campsite and enjoy dinner around the bonfire."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Yala 3 and half hours"
+                    "route": "Yala",
+                    "description": "After breakfast, explore Yala or Bundala National parks. Comprising scrubland, sparse forest, grassy plains and brackish lagoons, Yala is famous for the Sri Lankan Leopard (a unique subspecies) and is considered to have the highest density of leopards in the world. Sri Lanka’s ‘Big Five’ can be spotted here too - elephants, sloth bears, sambur and crocodiles, so you might see them all and other animals and birds too. Bundala National Park is a fantastic maze of waterways, lagoons and dunes home to thousands of birds."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Yala Ella 3 and half hours"
+                    "route": "Yala to Ella",
+                    "description": "After breakfast, set off to Ella, visiting the ancient Buduruwagala temple along the way. The region’s biggest cultural attraction, this gigantic 1000 year old figure is carved into the solid rock face and still bears traces of its original stone robe. Continue the scenic drive uphill into the mountains, and stop by at the spectacular Diyaluma Falls. At 171 metres in height it is Sri Lanka’s third highest waterfall and a magnificent sight. Check into your homestay with views of the famous Ravana Ella waterfall."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Ella"
+                    "route": "Ella",
+                    "description": "Take it easy and spend the day exploring Ella. This small but popular town nestled high in the mountains is famed for its breathtaking views. Visit the mighty Ravana falls and the iconic Nine Arch Bridge at Demodara - now made famous by myriad videos. Follow the trails to Ella Gap and the panoramic views across the valleys are well worth the climb. Take a trek to Little Adam’s Peak - the best place to catch a bird’s eye view of the bridge and beautiful sunsets too."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Ella Kandy 5 hours train journey"
+                    "route": "Ella to Kandy",
+                    "description": "Take a ride that is considered to be one of the most epic train journeys in the world. The pace is leisurely, but the wonderful scenery you encounter along the way will make you forget the time and everything else. The line winds through villages, forests and tea estates. It curves round high mountain passes giving you magnificent views of waterfalls valleys beyond. This is an unforgettable way to catch a glimpse of real Sri Lanka. Later, check into your homestay in Kandy to rest."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Kandy"
+                    "route": "Kandy",
+                    "description": "Start the day with a traditional cooking demo, making your lunch on earthenware pots and a woodfire stove. Then set off to explore Kandy. Kandy was the stronghold of the last Sinhalese kingdom. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or take in the views from upper Lake drive. In the evening, attend a performance featuring traditional dances from the different regions of Sri Lanka."
                 },
                 {
                     "day": "Day 9",
-                    "description": "Kandy Pasikuda 4 and half hours"
+                    "route": "Kandy to Pasikuda",
+                    "description": "After breakfast, leave the hills for the beaches of Pasikuda. En route visit Batticaloa. The once mighty Batticaloa fort now houses administrative offices, and though large sections of the structure are sadly crumbling, it’s still an evocative sight. The Batticaloa Lighthouse stands at the end of a sandbar, surrounded by lagoons and mangroves. The 28m tall lighthouse dates from 1913 and the sheltered coastline around is also popular. Continue to Pasikuda, and spend the rest of the day at leisure, enjoying the blissful beach."
                 },
                 {
                     "day": "Day 10",
-                    "description": "Pasikuda"
+                    "route": "Pasikuda",
+                    "description": "Take a well-earned rest from travelling and sightseeing to enjoy a day completely at leisure. The pristine white sands of Pasikuda beach will make that an easy task. A classic tropical paradise picture postcard location, Pasikuda is pure bliss. A long stretch of curving white sands that seem endless, cloudless blue skies and warm gentle ocean where the water is so clean and clear. It’s perfect for snorkelling, diving, sailing and a host of other water sports, if lazing in the sun gets too tedious."
                 },
                 {
                     "day": "Day 11",
-                    "description": "Pasikuda Sigiriya 2 and half hours"
+                    "route": "Pasikuda to Sigiriya",
+                    "description": "Travel to Sigiriya after a leisurely breakfast. In the afternoon climb Sigiriya or Pidurangala. One of Sri Lanka’s most significant cultural landmarks, the World Heritage Site of Sigiriya rock fortress is an architectural masterpiece carved from a massive rock. The frescos halfway up the rock face are still remarkable and the climb to the top is well worth it - for the views are truly incredible. Pidurangala is another massive rock formation almost directly opposite Sigiriya, with equally majestic views, especially of its more famous landmark."
                 },
                 {
                     "day": "Day 12",
-                    "description": "Sigiriya Polonnaruwa Negombo 4 hours"
+                    "route": "Sigiriya to Polonnaruwa to Negombo",
+                    "description": "After breakfast, travel to the heritage city of Polonnaruwa. A World Heritage site, Polonnaruwa was the medieval capital of ancient Lanka from the 11th to 13th century A.D and the glories of that era still remain well preserved in the archeological ruins of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya and many other sites. Afterwards, journey back to Negombo - closer to the airport, to rest and recoup overnight after your long days on the road and be ready for your flight home."
                 },
                 {
                     "day": "Day 13",
-                    "description": "Negombo Airport 20 minutes"
+                    "route": "Negombo to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Our seasoned travel curators have meticulously designed every detail. From accommodations to activities, expect a seamless blend of comfort and discovery, maximizing your enjoyment at every turn.",
-                    "Immerse yourself in the heart of local traditions, savoring authentic flavors and experiencing daily life. Our itinerary promises a genuine connection with the destination.",
-                    "Ideal for those who seek more than a surface-level encounter. Delve deep into local cultures, interact with communities and foster a profound appreciation for the richness of diversity.",
-                    "If you crave more than the ordinary, this trip is tailor-made for you. Expect exciting challenges and unparalleled experiences that cater to your adventurous side.",
-                    "Explore hidden gems and lesser-known wonders, ensuring a truly unique adventure. Discover the charm that lies beyond tourist hotspots for an unforgettable travel experience.",
-                    "Enjoy the best of both worlds as we combine local expertise with international standards. Feel at home while exploring new horizons, creating memories that transcend cultural boundaries.",
-                    "Embrace the unexpected. This trip is perfect for those who are open to spontaneity, allowing the journey to unfold organically and reveal the hidden treasures that lie off the traditional path.",
-                    "For travelers who thrive in intimate settings, our small-group tours foster camaraderie and meaningful connections. Engage with fellow adventurers, creating bonds that last a lifetime on this shared exploration."
-                ],
                 "ocean_and_wildlife_adjacencies": [
                     "Whale and dolphin watching",
-                    "Coral reef snorkeling"
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -544,61 +547,63 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Negombo 30 minutes"
+                    "route": "Airport to Negombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Negombo Anuradhapura 4 hours"
+                    "route": "Negombo to Anuradhapura",
+                    "description": "Pay an early morning visit to a ‘lellama’ - Negombo’s bustling fish market. Watch the fishermen bring in their night’s catch for sale. Return to enjoy your breakfast at the villa. Later on, journey to the historic city Anuradhapura, deep in the country’s central heartlands. Stop en route to enjoy lunch at a typical local restaurant. Arrive at your stay - the Ulagalla Resort. Hidden deep within a rural village close to Anuradhapura, it is a stunning eco haven beside the still waters of the Ulagalla lake."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Anuradhapura"
+                    "route": "Anuradhapura",
+                    "description": "The first kingdom of ancient Ceylon, Anuradhapura lasted for over a thousand years. Thousands of years later, its grandeur remains, well preserved. The sprawling complex contains a rich collection of archaeological and architectural wonders: enormous dagobas (brick stupas), ancient pools and crumbling palaces. Many stupas have been restored over the years and devotees continue to flock. A walking tour to see the Sacred Sri Maha Bodhi, Ruwanweli seya and others is a must. Drive to visit Mihintale - a sacred rock temple highly significant to Buddhists."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Anuradhapura Sigiriya 1 and half hours"
+                    "route": "Anuradhapura to Sigiriya",
+                    "description": "Sigiriya rock fortress - a world heritage site, is an engineering and architectural marvel. The frescos halfway up the rock face are still remarkable, and the 360 degree view from the top is incredible. Pidurangala is another massive rock formation almost directly opposite Sigiriya, with equally majestic views, especially of its more famous landmark. In the afternoon, visit the sprawling expanse of ancient ruins at the World Heritage City of Polonnaruwa - the second kingdom of Lanka which reigned from the 11th to 13th century A.D."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Anuradhapura Hatton 5 hours"
+                    "route": "Anuradhapura to Hatton",
+                    "description": "Enjoy a leisurely breakfast before your long journey to Hatton - high in the mountains. Take a break along the way to visit a spice garden at Matale to see how Sri Lankan spices, both popular and rare, are grown and processed. Some samples would make perfect gifts. Continue travelling along the mountain route to Hatton. Check into your luxury bungalow and meet your private butler. Rest of the day is yours to rest and relax enjoying the luxury setting, indulging in some gourmet cuisine too."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Hatton"
+                    "route": "Hatton",
+                    "description": "Enjoy breakfast in your luxurious colonial plantation bungalow, attended to by your personal butler. Take a tea experience tour with the hotel’s resident expert and learn the story of world renowned Ceylon Tea. Stroll through the lush plantations admiring the view. Get to know about how tea is grown, plucked and processed. Try your hand at tea plucking, take in a tour of a tea factory, and take part in a tea tasting session. The rest of the day is yours to spend at leisure."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Hatton Yala 6 and half hours"
+                    "route": "Hatton to Yala",
+                    "description": "After breakfast, enjoy a scenic drive from Hatton to Ella - a small but popular town high in the mountains famous for breathtaking views. Stop to admire the cascading Ravana Ella waterfall and the iconic Demodara Nine Arch Bridge and the Diyaluma Falls - Sri Lanka’s second highest waterfall. Continue down the heights into the lower valleys, and further into the scrub jungles of Yala. The contrast in the landscapes is spectacular to see. Your stay at the exclusive luxury jungle resort is inside Yala National Park."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Yala"
+                    "route": "Yala",
+                    "description": "After breakfast, explore Yala or Bundala National parks. Comprising scrubland, sparse forest, grassy plains and brackish lagoons, Yala is famous for the Sri Lankan Leopard (a unique subspecies) and is considered to have the highest density of leopards in the world. Sri Lanka’s ‘Big Five’ can be spotted here too - elephants, sloth bears, sambur and crocodiles, so you might see them all, and other animals and birds too. Bundala National Park is a fantastic maze of waterways, lagoons and dunes home to thousands of birds."
                 },
                 {
                     "day": "Day 9",
-                    "description": "Yala Bentota 4 hours"
+                    "route": "Yala to Bentota",
+                    "description": "Bid farewell to the jungle and head west, stopping by the natural phenomena called Hummanaya blowhole. Continue on to Galle. Sri Lanka’s oldest living city dotted with historic sites, Galle is one of the few World Heritage sites where a bustling population continues to thrive. Dutch-colonial buildings, ancient mosques and churches, grand mansions and museums vie on cobbled streets with stylish cafes, quirky boutiques and impeccably restored villas and hotels. After lunch, travel on to Bentota - a very popular beach resort on the west coast."
                 },
                 {
                     "day": "Day 10",
-                    "description": "Bentota"
+                    "route": "Bentota",
+                    "description": "Take a well-earned rest from travelling and sightseeing. However, Bentota is a hive of activity - on and off the beach, in case you want to explore. Spend an idyllic morning just watching the waves. The beach at Saman Villa is somewhat secluded, so you have all the privacy you need to sunbathe or relax in peace. You could also indulge a little at the spa with a rejuvenating wellness programme. Visit the exquisitely landscaped Lunuganga Gardens - the perfect place to enjoy an al fresco lunch."
                 },
                 {
                     "day": "Day 11",
-                    "description": "Negombo Airport 2 hours"
+                    "route": "Negombo to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Whether it’s surfing the waves, wildlife safaris, or leisurely strolls through spice gardens, the Southern Riviera offers a spectrum of adventures. Find your perfect thrill in this diverse coastal haven.",
-                    "Indulge your taste buds in a gastronomic journey through local flavors. From fresh seafood to exotic spices, savor the vibrant and diverse culinary tapestry of the Southern coast.",
-                    "If your travel memories are intertwined with culinary experiences, indulge in the Southern Riviera’s diverse flavors. From seaside seafood feasts to aromatic spice trails, this trip is a food lover’s delight.",
-                    "Explore the rich cultural heritage of the region, from ancient temples to colonial architecture. Engage with local communities and witness the harmonious blend of tradition and modernity.",
-                    "Ideal for those seeking cultural immersion, this journey unveils the tapestry of Sri Lanka’s history. Engage with local communities and witness the living traditions of this enchanting region."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "Immerse in the tranquil beauty of the Southern Riviera, where golden beaches meet azure waters. Enjoy breathtaking sunsets and discover the art of unwinding in paradise.",
-                    "Whether you seek relaxation or adventure, the Southern Riviera caters to varied preferences. Tailor your experience, from tranquil beachside retreats to exhilarating outdoor escapades, ensuring a personalized journey.",
-                    "If you yearn for nature’s embrace, from lush landscapes to pristine beaches, this trip beckons. Revel in the biodiversity of the Southern Riviera, a haven for wildlife and eco-enthusiasts."
+                    "Whether it’s surfing the waves, wildlife safaris, or leisurely strolls through spice gardens, the Southern Riviera offers a spectrum of adventures. Find your perfect thrill in this diverse coastal haven."
                 ]
             }
         },
@@ -618,51 +623,50 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Colombo Colombo City 1 hour"
+                    "route": "Colombo to Colombo City",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the capital city of Colombo. Once at the comforts of your hotel, relax and recover from jet lag. If you have spare time, take a walk on Galle Face Green promenade - sandwiched between the ocean and the city skyscrapers. It’s a little hive of activity buzzing with food stalls, kite flying and just people enjoying a stroll or watching the sunsets, which are often spectacular."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Colombo Half day city tour"
+                    "route": "Colombo",
+                    "description": "After a relaxed breakfast, your chauffeur guide will take you to some of Colombo’s more interesting sites such as the vibrant markets of Pettah, old city of Fort, the Hindu Temple at Sea Street and the Dutch Church at Wolfendal or alternatively to indulge in some shopping. In the afternoon, begin your golfing tour by teeing off on Colombo’s 18-hole golf course. The iconic Royal Colombo Golf Club is over 130 years old, making it the second oldest Royal golf club outside the United Kingdom."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Colombo Kandy Victoria Golf Course & Resort 4 and half hours"
+                    "route": "Colombo to Kandy to Victoria Golf Course & Resort",
+                    "description": "Arrive in the hill capital of Kandy and explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or the bustling streets and market places. Take in the views from upper Lake drive. Or attend a performance featuring traditional dances from the different regions of Sri Lanka. Travel to your boutique hotel at Victoria Golf Club & Resort, via a very scenic route."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Victoria Golf Course & Resort"
+                    "route": "Victoria Golf Course & Resort",
+                    "description": "After breakfast, head to the green. Hidden amidst mountains and bordering the reservoir, Victoria Golf Resort is a 73 Par; a 6933-yard championship 18-hole course ranked among the “100 Most Beautiful Golf Courses in the World '' by Golf Digest. It is beautifully moulded over every undulation, peak and slope. The continual changing in elevation is a feature to this course, testing all your golfing skills from long hitting on the three 500-yard par 5s to the short, testing par 3s and their icy fast greens."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Kandy Nuwara Eliya 3 and half hour train journey"
+                    "route": "Kandy to Nuwara Eliya",
+                    "description": "Take the upcountry train into the mountains and enjoy the breathtaking views along the way. From Nanu Oya train station ride to Nuwara Eliya - the land of Ceylon tea. After a rest, drive around the old colonial town of Nuwara Eliya - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Take a guided stroll past the renowned golf course, the colonial members only Hill Club and English styled cottages, and Victoria Park."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Nuwara Eliya"
+                    "route": "Nuwara Eliya",
+                    "description": "Enjoy a day on the green at The Nuwara Eliya Golf Club - one of the oldest in Asia. This 18-hole course, 6,399 yards long, is a testing par 71 and is made up of long , narrow fairways bordered by rows of towering trees and shrubbery. The course terrain, with its succession of undulating dales and hills, and the many water hazards, will pose some stimulating challenges. Break for lunch at the prestigious members-only Hill Club before returning to the course for an afternoon game."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Nuwara Eliya Negombo 6 hours"
+                    "route": "Nuwara Eliya to Negombo",
+                    "description": "After a leisurely breakfast, enjoy the picturesque drive down from the mountains to the coastal town of Negombo. The landscape changes from rolling tea to lush paddy fields and into the urban sprawl. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Galle Airport 30 minutes"
+                    "route": "Galle to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Tee off in style at iconic courses, combining the thrill of the sport with unmatched elegance, surrounded by breathtaking vistas that enhance your golfing pleasure.",
-                    "Immerse yourself in the colonial grandeur of Ceylon’s golf clubs, where each swing is a step back in time amid lush landscapes and rich heritage.",
-                    "Unwind in opulent colonial-era hotels, blending modern comfort with old-world charm. Indulge in luxury and personalized service that transforms your stay into a seamless blend of relaxation and sophistication.",
-                    "Savor exquisite culinary journeys, from traditional Sri Lankan flavors to international delights, as our expert chefs curate a dining experience that complements the richness of your surroundings.",
-                    "Indulge in a lavish getaway, where every moment is a celebration of comfort and style. This trip caters to those who appreciate the finer things in life amidst historical surroundings.",
-                    "Immerse yourself in the colonial era’s allure, exploring the rich history of Ceylon through its prestigious golf clubs, each telling a story of a bygone era.",
-                    "Perfect for golf lovers seeking a unique blend of sport and history, this tour offers exclusive access to some of Ceylon’s finest and oldest golf clubs.",
-                    "Beyond golf, discover the vibrant culture of Sri Lanka, with optional excursions to nearby cultural sites, providing a holistic experience that goes beyond the greens."
-                ],
                 "ocean_and_wildlife_adjacencies": [
                     "Whale and dolphin watching",
-                    "Coral reef snorkeling"
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -682,56 +686,58 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Colombo 1 hour"
+                    "route": "Airport to Colombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the capital city of Colombo. Once at the comforts of your hotel, relax and recover from jet lag. If you have spare time, your chauffeur guide will introduce you to some of Colombo’s curious sites such as the vibrant markets of Pettah, old city of Fort, the Hindu Temple at Sea Street and the Dutch Church at Wolfendal or alternatively to indulge in some shopping."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Colombo Minneriya National Park Dambulla 4 hour and half hours"
+                    "route": "Colombo to Minneriya National Park to Dambulla",
+                    "description": "After breakfast, set off to explore Minneriya National Park. Around 8,889 hectares in size, the park forms a part of an ‘elephant corridor’ where hundreds of these giants come to the reservoir to drink, feed and play. While you can see smaller herds throughout the year, May to October is the best time to witness the famous Elephant Gathering. Apart from elephants, 23 species of mammals including Leopards, Sloth Bear, Sambar and Buffalo call this home, as well as over 170 species of birds."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Dambulla Nuwara Eliya 5 hours"
+                    "route": "Dambulla to Nuwara Eliya",
+                    "description": "After breakfast, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel is an architectural masterpiece carved from a massive rock. Then, drive into the mountains with contrasting landscapes. Stop at a tea plantation and factory en route. After a rest, explore Nuwara Eliya town - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Stroll past the renowned golf course and Victoria Park. Spend your evening at leisure."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Nuwara Eliya Yala 4 and half hours"
+                    "route": "Nuwara Eliya to Yala",
+                    "description": "From the hills of Nuwara Eliya descend to the jungles of Yala. The Yala National Park is famous for the Sri Lankan Leopard (a unique sub species). Yala is also considered to have the highest density of leopards in the world. Sri Lanka’s ‘Big Five’ can be spotted here too - elephants, sloth bears, sambur and crocodiles, as well as leopards. Take an evening jeep ride with our naturalist guide and keep your fingers crossed - you may well spot them all, and other wild life too."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Yala 3 hours"
+                    "route": "Yala",
+                    "description": "After breakfast, begin your wildlife adventure with bird watching at Bundala National Park. This thorny scrub jungle with its beaches, sand dunes and lagoons has a varied biodiversity of 197 species of birds and 32 mammal species. In the evening, explore the vast expanse of Yala National Park by jeep. Our naturalist guide will lead you to all the best places to spot the stars of Yala - elephants, leopards and sloth bears. Wild buffalos, crocodiles, sambur, spotted deer, mongoose, languars and peacocks are commoner sights."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Yala Udawalawe 2 hours"
+                    "route": "Yala to Udawalawe",
+                    "description": "A quick breakfast and set off to Udawalawe National Park. One of the best places to spot elephants, with 600 to 700 inhabiting the park. With a great diversity of flora and fauna, many other creatures call this home too, but leopards and bears are rather more difficult to spot due to the terrain. The reserve also provides a catchment area for the Udawalawe Reservoir - an important source of water for the surrounding areas. Break for lunch: then enjoy an evening drive around the park."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Udawalawe Sinharaja 2 and half hours"
+                    "route": "Udawalawe to Sinharaja",
+                    "description": "Begin your day at the Elephant Transit Centre, where orphaned and injured elephants are cared for until they can return to the wild. Continue your journey to Sinharaja - Sri Lanka’s last surviving rainforest and a World Heritage Site. Over 60% of the flora is endemic and considered rare and more than 50% of Sri Lanka’s endemic species of mammals and butterflies as well as insects, reptiles and rare amphibians are also found here. Enjoy two treks, morning and evening to truly experience this natural wonder."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Sinharaja Galle 3 hours"
+                    "route": "Sinharaja to Galle",
+                    "description": "After breakfast, leave the rainforest for the coast and the buzzing capital of the South, Galle. Sri Lanka’s oldest living city dotted with historic sites, Galle is one of the few World Heritage sites where a bustling population continues to thrive. Dutch-colonial buildings, ancient mosques and churches, grand mansions and museums vie on cobbled streets with stylish cafes, quirky boutiques and impeccably restored villas and hotels. In the afternoon, explore the Galle Fort and its historical attractions at leisure, perhaps pick up some souvenirs too."
                 },
                 {
                     "day": "Day 9",
-                    "description": "Galle Mirissa Galle 1 hour"
+                    "route": "Galle to Mirissa to Galle",
+                    "description": "After breakfast, set off to Mirissa on your early morning expedition to encounter the gentle giants and the playful clowns of the ocean - the whales and dolphins. Pods of dolphins may even follow your boat, leaping and dancing as you head towards deeper waters - the realm of the blue whales and sperm whales. Sri Lanka is regarded as one of the best places in the world to witness both blue and sperm whales together, so you may be lucky. Return to shore, rest and relax."
                 },
                 {
                     "day": "Day 10",
-                    "description": "Galle Airport 2 and half hours"
+                    "route": "Galle to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "This journey suits those eager to explore beyond the obvious. Engage with local cultures, understand conservation efforts and participate in eco-friendly initiatives for a holistic travel experience.",
-                    "Despite the wild setting, enjoy the lap of luxury. Our accommodations prioritize comfort, ensuring a rejuvenating stay after exciting adventures. Pamper yourself with exquisite amenities amid nature’s grandeur.",
-                    "Beyond wildlife, delve into Sri Lanka’s rich culture. Visit ancient ruins, spice gardens and local communities, connecting with the island’s vibrant heritage. It’s a holistic journey, blending nature and tradition.",
-                    "Indulge in opulent accommodations seamlessly blended with untamed landscapes, offering an exclusive retreat after exhilarating safaris. Our lodges redefine wilderness luxury with unparalleled comfort and style.",
-                    "Capture breathtaking moments as wildlife roams freely against stunning backdrops. Our safari experiences provide ample opportunities for photography enthusiasts to hone their skills in the wild.",
-                    "Our passionate guides transform your journey into an educational adventure. Their in-depth knowledge and storytelling prowess enhance every wildlife sighting, making your trip not just a vacation but a learning experience."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "If you crave close encounters with diverse ecosystems, this trip is your gateway to thriving biodiversity. From lush jungles to azure oceans, nature unfolds at its best.",
+                    "Indulge in opulent accommodations seamlessly blended with untamed landscapes, offering an exclusive retreat after exhilarating safaris. Our lodges redefine wilderness luxury with unparalleled comfort and style.",
                     "Immerse yourself in Sri Lanka’s Big Five game experience, where diverse ecosystems host Elephants, Leopards, Sloth Bears, Blue Whales and myriad bird species, creating unforgettable encounters."
                 ]
             }
@@ -752,37 +758,35 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Kandy Digana 4 hours"
+                    "route": "Kandy to Digana",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to your stay in the hills of Digana, in Kandy. Enjoy a scenic drive from the coast into the mountains through ever changing landscape. Arriving at your beautiful retreat, check in and relax for the rest of the day. Practice Yoga in the afternoon. Admire the view of paddy fields from your veranda, or perhaps enjoy a stroll around the property with its lush forest paths."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Kandy Digana"
+                    "route": "Kandy to Digana",
+                    "description": "After morning meditation and breakfast, take a drive down to explore the attractions of Kandy, Sri Lanka’s hill capital. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. Visit the Udawattekele forest reserve or the bustling streets and market places. Take in the views from upper Lake drive. Or visit the Peradeniya Botanical Gardens. After lunch, head back to your serene sanctuary in the forest to practise Yoga or some evening meditation."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Kandy Digana"
+                    "route": "Kandy to Digana",
+                    "description": "After breakfast, morning meditation or Yoga, set off to explore the forested expanse of the property for some birdwatching. Take a trek to the Huluganga waterfall through the jungle paths, and cool off with a bath in the river. You could also go on longer, more strenuous treks into the Knuckles mountains - a unique cloud forest full of endemic plants and animals. There are a variety of options to pick from depending on your level of fitness. Return to practise Yoga or some evening meditation."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Kandy Digana"
+                    "route": "Kandy to Digana",
+                    "description": "Rise with the birds for meditation, Yoga and breakfast. Then you can choose to go for another nature tour with a guide, or spend the day relaxing. You could also watch a traditional cooking demonstration, and learn how wholesome Sri Lankan cuisine is made with natural, homegrown ingredients. Discover more about Sri Lankan spices and how they are blended and used. After lunch, spend the day relaxing or exploring. You will find plenty of peaceful spots to practise yoga or simply reflect in quiet meditation."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Kandy Airport 4 hours"
+                    "route": "Kandy to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Enjoy the freedom to participate at your own pace. With a balanced mix of structured sessions and leisure time, you have the flexibility to explore the destination or simply unwind in peaceful surroundings.",
-                    "Immerse yourself in serene landscapes, ideal for meditation and yoga. Our expert-led sessions amidst nature promise tranquility, fostering a deep connection between mind, body and soul.",
-                    "Tailored to your needs, our itinerary ensures a personalized wellness experience. Whether you’re a seasoned yogi or a novice, discover a harmonious balance of relaxation and rejuvenation with us.",
-                    "Rest easy with our commitment to comfort. From cozy accommodations to seamless logistics, we prioritize your well-being. Travel stress-free, allowing yourself to fully immerse yourself in a transformative experience.",
-                    "Join a community of fellow travelers on a similar quest for self-discovery. Share stories, create memories and build connections in an inclusive environment that fosters support and camaraderie.",
-                    "Whether you’re a yoga enthusiast or a beginner, our program caters to all levels. Experienced instructors provide guidance, ensuring everyone can embrace the journey towards inner peace.",
-                    "Experience the perfect blend of traditional practices and modern comforts. This journey seamlessly integrates ancient meditation techniques with luxurious accommodations, offering a holistic and enriching escape."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "From misty mountain vistas to pristine beachfronts, each location is carefully chosen for its awe-inspiring beauty. Unwind in nature’s embrace, finding solace in picturesque surroundings that inspire mindfulness."
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -802,61 +806,65 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Negombo 25 minutes"
+                    "route": "Airport to Negombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Recoup from any jet lag, with an Ayurvedic therapy treat. Negombo is a hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you some of the most interesting sights and landmarks3 and perhaps take a boat ride along the Dutch canal. Or, just relax on the most famous golden sands of Negombo beach."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Negombo Sigiriya 4 and half hours"
+                    "route": "Negombo to Sigiriya",
+                    "description": "Leave Negombo’s coastline and head inland. Drop by the Elephant Care Relief Foundation - a charity that looks after domesticated elephants. Meet an elephant expert and enjoy the unique opportunity to walk with and bathe elephants. After lunch, our sightseeing tour of Sri Lanka continues to the town of Sigiriya - a key cornerstone in the cultural triangle. In the evening, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel in the sky is an architectural masterpiece carved from a massive rock."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Sigiriya Polonnaruwa Sigiriya 3 and half hours"
+                    "route": "Sigiriya to Polonnaruwa to Sigiriya",
+                    "description": "Visit the World Heritage site of Polonnaruwa - the second kingdom of ancient Lanka from the 11th to 13th century A.D. Take a walking tour to the ruins of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya. On your return, go on an exhilarating jeep ride with a naturalist guide to the Minneriya or Kaudulla National Park - a sanctuary is a home to wild elephants and many other animals. Enjoy a romantic signature dining experience atop a tree house or on a secluded hill."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Sigiriya Kandy 3 hours"
+                    "route": "Sigiriya to Kandy",
+                    "description": "After breakfast, enjoy a scenic drive to Kandy - the hill capital of Sri Lanka, eminent as the centre of Buddhism and the stronghold of the last Sinhalese kingdom. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. In the evening, attend a performance featuring traditional dances from the different regions of Sri Lanka. Enjoy a restful night in luxury, after a romantic candlelit dinner for two."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Kandy Half a day city tour"
+                    "route": "Kandy",
+                    "description": "Spend a lazy day or set off to explore the historic town of Kandy. It is a busy, bustling hub of activity where heritage buildings and modernity mix. Visit the Udawattekele forest reserve - a haven of peace in the heart of town, or the vibrant market places. Walk around the Kandy lake and up Lake Drive for some spectacular views of the town. Take a short drive to the lush Royal Botanical Gardens of Peradeniya and enjoy a picnic lunch. Enjoy the evening at leisure."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Kandy Hatton 3 and half hour train journey"
+                    "route": "Kandy to Hatton",
+                    "description": "Take the upcountry train to Hatton high in the mountains and enjoy the breathtaking views along the way. Check into your luxury colonial bungalow surrounded by rolling tea plantations with views of the Castlereigh Lake. You will be greeted by your very own personal butler who will attend to you throughout your stay as well as the executive chef with whom you can plan your dining options. The chilly climate is perfect to take a stroll; or relax, snuggled up by the fireplace till dinner."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Hatton"
+                    "route": "Hatton",
+                    "description": "After a leisurely breakfast, take a guided walk through the tea plantation with the resident tea planter to learn all about tea. Watch tea pickers expertly choose the best buds - maybe try your hand at it too. Visit a tea factory to see the complex manufacturing process, and take part in a tea tasting session. Return to the bungalow for lunch. In the afternoon, explore the beautiful valleys by bike or take a long walk beside the peaceful lake. Dinner and rest awaits at nightfall."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Hatton Bentota 4 and half hours"
+                    "route": "Hatton to Bentota",
+                    "description": "After breakfast, head off west to Bentota. As you travel down the mountains to the coast along winding roads you will experience firsthand the incredible diversity of our island’s landscape. The tea clad mountains give away to paddyfields, and from suburban gardens to the beautiful beaches. Stop along the way for lunch by a cascading river, then continue to your luxury stay at the coastal resort town of Bentota. Spend the rest of the day relaxing, perhaps enjoy a walk on the beach at sunset."
                 },
                 {
                     "day": "Day 9",
-                    "description": "Bentota Galle Bentota 1 and half hour"
+                    "route": "Bentota to Galle to Bentota",
+                    "description": "Take a drive South along the coast to Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
                 },
                 {
                     "day": "Day 10",
-                    "description": "Bentota 45 minutes"
+                    "route": "Bentota",
+                    "description": "The day is yours to spend as you wish. You can relax by the pool or explore the locality. The exquisitely landscaped country home of Sri Lanka’s world renowned architect - Geoffrey Bawa, is nearby. It makes a perfect place for an alfresco lunch. Or enjoy a romantic boat ride down the Madu River, floating under the tangled canopy of mangroves with the birds for company. If you wish for some thrills, enjoy some water sports on the Bentota Lagoon. Then, wait for those glorious sunsets."
                 },
                 {
                     "day": "Day 11",
-                    "description": "Bentota Airport 1 and half hours"
+                    "route": "Bentota to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Tailored for travelers who appreciate the finer things in life, this journey combines cultural exploration with luxurious accommodations, ensuring a pampered experience throughout your Ceylonese adventure.",
-                    "Indulge in a gastronomic adventure with our curated dining experiences, savoring authentic Ceylonese flavors. From street food to elegant dining, your taste buds are in for a treat.",
-                    "Whether trekking through lush jungles, encountering wildlife, or engaging in water sports, thrill-seekers will find ample opportunities to satisfy their adventurous cravings.",
-                    "Unwind in handpicked accommodations, blending modern comfort with cultural charm. Each stay is a sanctuary, offering a tranquil retreat after a day of exploration.",
-                    "Experience the enchanting blend of Sri Lanka’s cultural tapestry as you explore ancient ruins, vibrant markets and engage with warm, welcoming locals.",
-                    "Ideal for those who appreciate stunning landscapes and diverse cultures, providing endless opportunities to capture breathtaking moments that will fill your photo album with unparalleled memories.",
-                    "If you relish discovering rich histories, ancient traditions and vibrant local customs, this cultural immersion will captivate your curiosity and leave you with lasting memories."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "From misty tea plantations to pristine beaches, this journey unveils diverse landscapes, ensuring every moment is a visual feast and a photographer’s dream come true."
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -876,57 +884,60 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Kandy 4 hours"
+                    "route": "Airport to Kandy",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the hill capital of Kandy. Enjoy a scenic journey as you travel from the warm coastline into the interior of the island and up into the mountains. The incredible contrasts in the scenery can be breathtakingly beautiful as well as unexpected. In Kandy, continue on to your stay up a forested road. Enjoy a restful night in luxury, after a romantic candlelit dinner for two."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Kandy"
+                    "route": "Kandy",
+                    "description": "Spend a lazy day or set off to explore the historic town of Kandy. It is a busy, bustling hub of activity where heritage buildings and modernity mix. Visit the Udawattekele forest reserve - a haven of peace in the heart of town, or the vibrant market places. Walk around the Kandy lake and up Lake Drive for some spectacular views of the town. Take a short drive to the lush Royal Botanical Gardens of Peradeniya and enjoy a picnic lunch. Enjoy the evening at leisure."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Kandy Nuwara Eliya 3 and half hours"
+                    "route": "Kandy to Nuwara Eliya",
+                    "description": "Travel higher into the mountains and enjoy the breathtaking views along the way as you head to Nuwara Eliya - the land of Ceylon tea. Visit a tea plantation and factory to learn all about the growing and processing of famous Ceylon Tea. After a rest, drive around the old colonial town of Nuwara Eliya - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Enjoy a relaxed evening at your colonial country home."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Nuwara Eliya 3 and half hours"
+                    "route": "Nuwara Eliya",
+                    "description": "After an early breakfast, set off to see the World Heritage Site of Horton Plains National Park. The highest plateau on the island 2,100 metres above sea level, it has a rich diversity of endemic plants and animals. Visit World’s End - a sheer escarpment falling 900 metres to the valley below. On a clear day, even the Southern coast is visible. Continue the trek to stop at the Baker’s Falls and enjoy a picnic lunch. Return and spend the rest of your day relaxing."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Nuwara Eliya Ella 2 hours"
+                    "route": "Nuwara Eliya to Ella",
+                    "description": "After a relaxed morning, travel to the picturesque town of Ella - now a highly popular destination with travellers who love its incredible photo opportunities. The drive itself is very scenic, travelling round high mountain passes with magnificent views of waterfalls and valleys beyond. Stop by the Ravana Ella waterfall along the way and have lunch perhaps. Regarded as the widest cascade in the country, the falls are rather impressive. Check into your luxury room with a view, and spend a romantic evening together at leisure."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Ella"
+                    "route": "Ella",
+                    "description": "After a relaxed breakfast, set off to see all the landmark attractions Ella is famous for. Walk across the incredible Nine Arch bridge - perfect for those social media photos. Visit the Demodara railway station, renowned for its ‘loop’ - a unique feature for turning trains around and the only one of its kind in Sri Lanka. Then continue to Little Adam’s Peak - a tough trek, but worth it for the amazing views. After a picnic lunch, take a drive to visit Lipton’s Seat lookout in Haputale."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Ella Bentota 5 and half hours"
+                    "route": "Ella to Bentota",
+                    "description": "After breakfast, head off west to Bentota. As you travel down the mountains to the coast along winding roads you will experience firsthand the incredible diversity of our island’s landscape. The tea clad mountains give away to paddyfields and from suburban gardens to the beautiful beaches. Stop along the way for lunch by a cascading river, then continue to your luxury stay at the coastal resort town of Bentota. Spend the rest of the day relaxing, perhaps enjoy a walk on the beach at sunset."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Bentota Galle Bentota"
+                    "route": "Bentota to Galle to Bentota",
+                    "description": "Take a drive South along the coast to Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
                 },
                 {
                     "day": "Day 9",
-                    "description": "Bentota 1 and half hours"
+                    "route": "Bentota",
+                    "description": "The day is yours to spend as you wish. You can relax by the pool or explore the locality. The exquisitely landscaped country home of Sri Lanka’s world renowned architect - Geoffrey Bawa, is nearby. It makes a perfect place for an alfresco lunch. Or enjoy a romantic boat ride down the Madu River, floating under the tangled canopy of mangroves with the birds for company. If you wish for some thrills, enjoy some water sports on the Bentota Lagoon. Then, wait for those glorious sunsets."
                 },
                 {
                     "day": "Day 10",
-                    "description": "Bentota Airport 2 and half hours"
+                    "route": "Bentota to Airport",
+                    "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Savor the symphony of flavors as you indulge in Sri Lanka’s diverse cuisine. From aromatic spices to delectable street food, each bite unveils a gastronomic adventure.",
-                    "Encounter the heart of Sri Lanka through immersive experiences with locals, vibrant festivals and UNESCO World Heritage Sites, fostering a deep connection to the island’s rich heritage.",
-                    "Travel in an intimate group setting, fostering meaningful connections. Engage with fellow explorers, creating memories that extend beyond the journey, making this experience both personal and unforgettable.",
-                    "Perfect for travelers eager to delve into Sri Lanka’s cultural tapestry. Expect encounters with locals, vibrant markets and ancient traditions, offering a truly immersive experience.",
-                    "Whether you crave relaxation or non-stop exploration, our itinerary accommodates diverse preferences, ensuring you can soak in the magic of Sri Lanka at your preferred pace."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "Enjoy a blend of opulence and nature at our carefully selected accommodations. Whether nestled in the hills or by the beach, expect unparalleled comfort in breathtaking surroundings.",
-                    "Immerse yourself in Sri Lanka’s stunning beauty, from pristine beaches to lush tea plantations and ancient ruins, every day brings a new picturesque backdrop.",
-                    "Ideal for those seeking an active getaway: from hiking through lush jungles to surfing on pristine beaches, there’s a thrilling adventure awaiting every enthusiast."
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -946,53 +957,55 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Colombo 1 hour"
+                    "route": "Airport to Colombo",
+                    "description": "Arrive in Sri Lanka in the style you deserve, greeted by your chauffeur guide and transfer directly to Galle Face Hotel; an iconic landmark situated in the heart of Colombo along the seafront and facing the infamous Galle Face Green! Although it’s unlikely it will reclaim its 19th-century moniker‘ the garden city of the East’, Colombo has nevertheless emerged as a must-see stop in Sri Lanka. No longer just the sprawling city you have to endure on your way to the beaches, it has become a worthy destination in its own right and makes an excellent start – or finish – to your Sri Lankan adventures."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Colombo Anuradhapura 4 and half hours"
+                    "route": "Colombo to Anuradhapura",
+                    "description": "Set off from coastal Negombo to experience the inland delights of Sri Lanka. Your journey will take you along a picturesque route passing rice paddy fields. En route pass the salt pans of Puttalam lagoon and the Anawilundawa bird sanctuary. Upon checking into your exclusive resort, have some lunch and then go ahead to explore the ruins of Anuradhapura which are one of South Asia’s most evocative sights. The expansive complex contains an opulent collection of archaeological and architectural wonders: gigantic dagobas (brick stupas), ancient pools and crumbling temples, built during Anuradhapura’s thousand years of rule over the island. Today, many of the sites are preserved in use as sacred places and temples; frequent ceremonies bestow Anuradhapura as a city of vibrancy. Also you can climb the nearby Mihintale rock and absorb the history of the destination."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Anuradhapura Sigiriya Minneriya 2 hours"
+                    "route": "Anuradhapura to Sigiriya to Minneriya",
+                    "description": "A hike to Pidurangala in the early morning can be a more memorable experience. A climb of 20 minutes will be well rewarded with the majestic view of Sigiriya Lion’s rock, picturesque lakes, greenery and land vistas. You also have the option to climb Sigiriya rock fortress instead. En-route, stop at a village home for “Plain Tea” with Treacle and “Helapa”, a traditional Sri Lankan snack that can refresh you. Afterwards take an exhilarating jeep safari with the company of an expert naturalist guide to the Minneriya or neighboring Kaudulla National Park. In the dry season, more than 300 elephants converge on the retreating waters of the Minneriya Tank. This massive meeting of elephants – popularly known as ‘The Gathering’ takes place from July to October; where these gentle giants travel to drink, eat, socialize and search for mates. While you are waiting, ask your driver if he/she can roll back the canvas top so that you can stand up for a better view of the 40 to 50 beautiful, happy, wild and free herds of elephants hanging out in the plains."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Anuradhapura Trincomalee 2 and half hours"
+                    "route": "Anuradhapura to Trincomalee",
+                    "description": "Before breakfast, we suggest that you take a quiet morning cycle ride around the resort area and visit the small village nearby. Then commence your beach escapade by heading to the historic town of Trincomalee (Trinco). Renowned for having one of the most picturesque natural harbors in the world, Trinco has some charm, plenty of history and an interesting blend of people. It’s easy to spend a day or more exploring the ins and outs of the numerous waterfronts, the Fort, multitude of ancient Buddhist and Hindu temples and the off-shore Pigeon Island. Simply strolling along the beaches of Uppuveli and Nilaveli, bathing in the ocean, watching the handful of fishermen going about their daily business and soaking up the scene is a brilliant way to relish your beach escape. So put on your travelling boots, sprinkle some wanderlust and join us to explore the best places to visit in Trinco in the next few days!"
                 },
                 {
                     "day": "Day 5",
-                    "description": "Trincomalee"
+                    "route": "Trincomalee",
+                    "description": "Want to float on blue waters and lose yourself in a dream world of fairy colored corals, hundreds of reef fish, turtles and fish? Take a 20 – 30 minute boat ride out of Nilaveli Beach to the Pigeon Island; a small island with super clear water, a small white sand beach, glittering rocks, pools and shallow turquoise waters ideal for a snorkeling adventure! If you wish you may also explore the sea world in the open waters off of the pristine coast of Trinco. Alternatively, if you haven’t gotten your fill of wildlife, set off on an early morning expedition to encounter the activity of Whales and Dolphin watching where one can easily spot whales playing, swishing and if you’re lucky their acrobatic skills. If you can tear yourself away from the pristine shoreline, explore the Trinco town in the afternoon. Start your quest by exploring the 17th Century Dutch Fort; Fort Frederik. From Fort Frederik, you can follow the road until the viewpoint area and meet the Hindu temple Koneswaram; perched on atop of the famous Swami Rock. Complete your day by the small cross dug into the rock that runs along the side of the cliff over 100 meters high whilst enjoying a sip of a coconut drink and street vade."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Trincomalee"
+                    "route": "Trincomalee",
+                    "description": "Continue your beach escapade to Pasikudah; a small undiscovered fishing village, offering its natural and cultural treasures, including the country’s most wonderful beaches and its rich Tamil culture. Home to fragile coral reefs, the beaches are made up of soft translucent sand, lapped by crystal-clear shallow waters that are ideal for swimming and snorkeling! Enroute to your beach sojourn, we suggest you drop by the vibrant city of Batticaloa on a half-day tour and visit some Hindu temples, the Old Dutch fort, Kallady Bridge, the Lighthouse, and perhaps a local market. Why not end the afternoon with a paddle boat or kayak ride in the Batticaloa Lagoon to take in the views and observe the local birdlife. Alternatively you could explore the southern part of Batticaloa, biking along the beach to visit a fish market, a local organic garden or perhaps meet some handloom weavers! Late afternoon retreat to your luxurious abode to unwind in your spacious tented suites with their intimate gardens and panoramic ocean views or pamper your way to enjoying a soothing massage or Ayurvedic treatment!"
                 },
                 {
                     "day": "Day 7",
-                    "description": "Passikudah 2 and half hours"
+                    "route": "Passikudah",
+                    "description": "Enjoy long walks along the bay or simply laze on the beach and soak in the stupendous views! Alternatively channel your inner adventures by partaking in some water sports from jet skis, kayaking/windsurfing, snorkeling in the beautiful corals or enjoy a hike to the top of the steep rocky outcrop of Kudumbimalai also referred to as ‘Baron’s Cap’. There are plenty of options for for scuba diving and sailing further away from shore! You could also explore the local area on a fun tuk-tuk excursion into neighboring villages and nearby Passikudha. Take a peek at some colorful temples, hidden ruins in the jungle, followed by a visit to the old British harbor, the “spiritual art gallery” and end your visit to the atop of the Elephant Rock for a breath-taking view of the Bay!"
                 },
                 {
                     "day": "Day 8",
-                    "description": "Passikudah Colombo 7 hours"
+                    "route": "Passikudah to Colombo",
+                    "description": "Get back to the main city to be near the airport for the next day, perhaps part of it by the scenic train. Wind down your stay back at the lavish confines of the iconic Galle Face Hotel! Alternatively if time permits you could engage in an enthralling city tour which entails a short visit to interesting features such as the old city of Fort, the main markets of Pettah, the Hindu Temple at Sea Street, the Dutch Church at Wolfendal, the historic Davatagaha Mosque and the Seema Malaka Temple."
                 },
                 {
                     "day": "Day 9",
-                    "description": "Colombo Airport 45 mins"
+                    "route": "Colombo to Airport",
+                    "description": "Enriched in a beach sojourn escapade, we bid you farewell as your Chauffeur Guide transfers you to the Airport to meet your departure flight home."
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "With meticulously planned logistics, including transfers and accommodations, this trip minimizes logistical concerns. Ideal for those seeking a seamless travel experience, where every detail is taken care of, allowing you to focus on enjoying the journey.",
-                    "This trip caters to individual preferences, allowing for personal downtime and spontaneous discoveries. Whether you prefer lounging by the pool or venturing off the beaten path, the itinerary provides flexibility to accommodate diverse interests.",
-                    "While the itinerary offers various activities, it is designed for a moderate level of physical activity. Whether strolling through markets or exploring historical sites, participants with a basic fitness level can enjoy the experience.",
-                    "If you have a passion for cultural exploration and a curiosity about local traditions, this trip is tailored to provide immersive experiences, ensuring you connect deeply with the heart of Sri Lanka.",
-                    "Immerse yourself in the rich tapestry of Sri Lankan culture. Engage with locals, explore ancient temples and witness traditional performances. Every encounter offers a deeper understanding of the island’s vibrant heritage.",
-                    "Experience the explosion of flavors in Sri Lankan cuisine. From aromatic spices to fresh seafood, each meal is a gastronomic journey, reflecting the island’s diverse culinary heritage."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "From pristine beaches to mist-covered mountains, this journey showcases the kaleidoscope of Sri Lanka’s landscapes. Whether you’re a nature enthusiast or a beach lover, each day unfolds a new picturesque setting.",
-                    "Indulge in unparalleled comfort with carefully selected accommodations. From boutique beach resorts to charming mountain retreats, our lodgings provide a perfect blend of luxury and local charm."
+                    "Whale and dolphin watching",
+                    "Coral reef snorkeling",
+                    "Swimming with turtles"
                 ]
             }
         },
@@ -1012,528 +1025,299 @@
             "itinerary_breakdown": [
                 {
                     "day": "Day 1",
-                    "description": "Airport Negombo 40 minutes"
+                    "route": "Airport to Negombo",
+                    "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks, and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
                 },
                 {
                     "day": "Day 2",
-                    "description": "Negombo Wellawaya 5 hours"
+                    "route": "Negombo to Wellawaya",
+                    "description": "Check out from the hotel after a leisurely breakfast and proceed to Wellawaya. Check in and have lunch with the Poonagala mountain range in the background. Late afternoon cycle or leisurely walk through the local village and meet some of the locals. 30 mins cocktail in the Kamatha following with an authentic Sri Lankan dinner."
                 },
                 {
                     "day": "Day 3",
-                    "description": "Wellawaya Pottuvil Point 2 and half hours"
+                    "route": "Wellawaya to Pottuvil Point",
+                    "description": "Early morning, visit Ella Wala falls (hidden waterfall in Wellawaya) with packed breakfast. Elle Wala Waterfall is a small but beautiful waterfall lying in the Poonagala Mountain Range. This waterfall is created by small river tributary called ‘Alikota Aara’, starting from the Poonagala Mountain Range. The base of the waterfall has a created beautiful basin type natural pool to safely enjoy the waterfall. Bicycle ride will be on a scenic road along the river and if you are adventurous enough, you can check your mountain cycling skills on the 500 metre rough stretch that rapidly ascends up to the waterfall. Return to the hotel and Proceed to Pottuvil point. Check in at the Jetwing Surf located at the bottom of our east coast in Pottuvil – mere minutes away from the world renowned surfing destination of Arugam Bay."
                 },
                 {
                     "day": "Day 4",
-                    "description": "Pottuvil Point"
+                    "route": "Pottuvil Point",
+                    "description": "Breakfast at the hotel. free time for surfing at the world renowned surfing destination of Arugam Bay just few minutes away from your hotel. Visit Kottukal beach house for lunch. Rest of the day is at leisure."
                 },
                 {
                     "day": "Day 5",
-                    "description": "Pottuvil Point Yala 2 and half hours"
+                    "route": "Pottuvil Point to Yala",
+                    "description": "Today after breakfast proceed to Yala. Afternoon take a jeep ride in the Yala national park in search of the elusive Leopards, Sloth Bears, Wild Elephants, Wild Boar, Sambur Deer, Spotted Deer, Water Buffalo and many bird species. The park is one of the best places in the world to see leopards. Early morning and late in the afternoon are the best times to settle in for some leopard and bear sightings."
                 },
                 {
                     "day": "Day 6",
-                    "description": "Yala Tangalle 1 and half hours"
+                    "route": "Yala to Tangalle",
+                    "description": "Breakfast at the hotel, proceed to Tangalle. Visit Shangri La for inspection and lunch."
                 },
                 {
                     "day": "Day 7",
-                    "description": "Tangalle Weligama 1 hour"
+                    "route": "Tangalle to Weligama",
+                    "description": "After breakfast, proceed to Weligama. On your way, visit stilt fishermen. Stilt Fishing is one of the most interesting traditional fishing methods of Sri Lanka. Records indicate that it came into being just after World War II. This mode of fishing was more widely used all along the coast until the tsunami in 2004 which caused such activities to cease temporarily until recent years. The beautiful sight of fishermen perched branched poles as they fish skillfully during dawn, noon and dusk; can now be commonly along the southern coast in towns such as Koggala, Kaththaluwa and Ahangama. Occasional stilt fishermen can also be seen amongst the waters of Madu River, etc. Visit Ani villas for inspection and lunch."
                 },
                 {
                     "day": "Day 8",
-                    "description": "Weligama Airport 2 and half hours"
+                    "route": "Weligama to Airport",
+                    "description": "Departure"
                 }
             ],
             "featured_experiences_and_highlights": {
-                "cultural_heritage": [
-                    "Perfect for those who appreciate history and local customs, as the itinerary is crafted to provide in-depth insights into the cultural and historical significance of East Sri Lanka.",
-                    "If you have a penchant for unspoiled landscapes and unique ecosystems, this trip showcases the diverse flora and fauna of the region, including the chance to witness wildlife in their natural habitat.",
-                    "Whether you’re a solo traveler, a couple, or a group, the flexible nature of the itinerary allows for personalized experiences, ensuring each participant can tailor their journey to match their preferences.",
-                    "Immerse yourself in the rich cultural tapestry of East Sri Lanka, exploring ancient ruins and uncovering the region’s fascinating history.",
-                    "Engage with the warmth of local communities, as our itinerary includes authentic interactions and cultural experiences, providing you with a genuine taste of Sri Lankan life.",
-                    "While there are adventurous elements, the trip is designed for a wide range of travelers. Expect a mix of leisurely exploration and optional activities catering to various fitness levels.",
-                    "For the thrill-seekers, this trip offers exciting opportunities for water sports in Arugam Bay and wildlife safaris in Gal Oya National Park, ensuring an adrenaline-pumping adventure."
-                ],
                 "ocean_and_wildlife_adjacencies": [
-                    "From the pristine beaches of Arugam Bay to the lush jungles of Gal Oya, experience the untouched beauty of Sri Lanka’s eastern coast, offering a serene escape for nature enthusiasts."
+                    "For the thrill-seekers, this trip offers exciting opportunities for water sports in Arugam Bay and wildlife safaris in Gal Oya National Park, ensuring an adrenaline-pumping adventure."
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/tour/sustainable-luxury/",
+            "id": "sustainable-luxury",
+            "tour_overview": {
+                "package_name": "Sustainable Luxury – Responsible Eco Tour in Sri Lanka",
+                "theme": "Barefoot Luxury",
+                "duration": "11 nights"
+            },
+            "core_inclusions": {
+                "accommodation": "Hotel Stay",
+                "meals": "Tailored to customer preferences",
+                "transport": "Private Air-Conditioned Vehicle"
+            },
+            "itinerary_breakdown": [
+                {
+                    "day": "Day 1",
+                    "route": "Airport to Dambulla",
+                    "description": "Arrive in Sri Lanka in the style you deserve, greeted by your guide and transferred directly to Jetwing Lake, Dambulla where you can relax and unwind."
+                },
+                {
+                    "day": "Day 2",
+                    "route": "Dambulla",
+                    "description": "Begin your morning with a visit to the Sigiriya Rock fortress. Afterwards, Cycle through the small villages with a chance to see small home industries. Try some fresh fish at the local fisherman’s house. Learn some traditional dance moves at the village dance school. Visit a family who makes brooms from coconut trees. Back braking brick making. The village elder who makes Ayurvedic oil. End the bike ride with a short cooking lesson and delicious lunch at your guide’s house Late evening enjoys tea with the hotel general manager with an interesting conversation on the hotel’s sustainable practices."
+                },
+                {
+                    "day": "Day 3",
+                    "route": "Dambulla to Kandy",
+                    "description": "Journey on from Dambulla to Kandy via Wasgamuwa for a one-night stay at Jetwing Kandy Gallery. En route experience a safari at Wasgamuwa national park. 23 species of mammals have been spotted at the park and of these, the most important is the Wild Elephant (Elphas maximus) of which there are approximately 150 living in the Park. In addition to these giants, you might see Wild Buffaloes (Babalus bubalis) and Spotted Deer (Axis axis) grazing in the grasslands. If you are really lucky, you might come across a Leopard (Panthera pardus) or a Sloth Bear (Melursus ursinus) lazing the time away under a shady tree."
+                },
+                {
+                    "day": "Day 4",
+                    "route": "Kandy to Gal Oya",
+                    "description": "A lovely breakfast awaits you before you check out from Jetwing Kandy Gallery and take the 4 hour drive towards the Gal Oya region where you check in to Wild Glamping Gal Oya by Theme Resorts. The Gal Oya region is steeped in history, culture that includes the Veddah’s (aborigines) the true owners of the island, and plenty of Wildlife”. When you reach the entrance to the campsite the staff together with the Veddah chief of the area, will then escort you to light a traditional oil lamp and offer a small prayer to bless your stay at this wonderful property. Check-in and a scrumptious meal will be followed by a nature walk to a nearby forest patch. Your guide will be none other than the chief of the Veddah tribe who’s in-depth knowledge of the forest is a treat to anyone to listen to. The walk will start off with a visit to a cultural center for the Veddah people to share their stories and way of life with visitors. The forest too is special in that it is said to have been grown with various medicinal plants and trees by one of the ancient Kings of the era. You’re back to the hotel for a quick dip and then dinner. 10 min drive from the hotel to the cultural center."
+                },
+                {
+                    "day": "Day 5",
+                    "route": "Gal Oya",
+                    "description": "Second day at the luxurious Wild Glamping Gal Oya. The Gal Oya region is a great destination for bird watchers and the highlight for any bird watcher who comes to the area are the Painted Francolin and the Yellow Footed Green Pigeon. Together with your very own naturalist head off on a 4km bird watching trail that takes you through the properties organic farms towards a beautiful lake. Stop and take in these fantastic sights while your naturalist explains the birds and plant life that you come across. Back to the campsite for breakfast. Spend some time enjoying the sights and sounds of the hotel area and enjoy a scrumptious lunch. In the evening you then take an hour’s drive to reach a section of Gal Oya National Park that connects to the Sennanayaka Samudraya (Samudraya Mean Ocean in Sinhalese). This is the largest man made reservoir in the country and it not only provides water to people for irrigation but also to numerous wildlife such as elephants and crocodiles. You hop on a boat and head out in the waters of the reservoir in search of the famous swimming elephants of Gal Oya and also various species of water birds and large crocodiles. Your naturalist will be on hand to answer all your questions and interpret the sights and sounds you see. You will be served tea and sweet meats on one of the numerous islands you find dotted on the reservoir."
+                },
+                {
+                    "day": "Day 6",
+                    "route": "Gal Oya to Wellawaya",
+                    "description": "From your previous destination arrive at Wellawaya and check in to Jetwing Kaduruketha. “Wellawaya is the perfect location for the travelers who are looking for calm and quiet experiences, where culture, agriculture and nature are all found nestled together”. “Jetwing Kaduruketha is an icon of agro tourism and combines luxury accommodation with Sri Lanka’s agricultural legacy. The hotel is modeled after a traditional village home combined with rustic luxuries to make your stay comfortable and luxurious. We open our doors and invite you to this wonderful world where nature and agriculture blend as one and thrive together”. Enjoy a scrumptious Sri Lankan meal before you get some time to rest and relax after the journey. In the evening we have arranged an excursion to the Buduruwagala temple complex. The complex consists of 7 statues that date back to the 10th century. 51ft tall Buddha Statue is the highlight and still bares traces of its original robe and the remnants of the orange colour suggests that the statue was brightly coloured."
+                },
+                {
+                    "day": "Day 7",
+                    "route": "Wellawaya",
+                    "description": "Witness the celebrations of paddy cultivation and immerse yourself in an authentic Sri Lankan farming experience as the locals prepare the lands, sow the rice and harvest the paddy with utmost reverence and dedication. You’re back to the hotel for breakfast, a short break before you head out to explore the local village. Here you get to meet the local people going about their daily lives and not to forget the friendly and welcoming nature of the locals. The village visit is highlight by a home cooked meal full of customary Sri Lankan flavours, followed by hot tea and sweets. Well-deserved rest in the evening as the adventure continues."
+                },
+                {
+                    "day": "Day 8",
+                    "route": "Wellawaya to Yala",
+                    "description": "Begin your day by taking a beautiful morning drive through the verdant green hills of the Tea Country to visit Diyaluma Waterfall. After the morning waterfall visit, leave for Leopards paradise, Yala to spend your next two nights. Late evening enjoy tea with the hotel general manager with an interesting conversation on the hotel sustainable practices."
+                },
+                {
+                    "day": "Day 9",
+                    "route": "Yala",
+                    "description": "Another action packed day awaits you! Morning and afternoon safaris at Yala national park. Yala National Park was declared as a Game Park in 1938 and is 965 sq. kilometers in extent. According to the Leopard Research sponsored by Yala Safari Game Lodge, under the Jetwing Research Initiative, Yala Block 1 has one of the highest densities of Leopards in the world. Yala therefore offers one of the best chances in Asia to see Leopards. You may also see Elephant, Sloth Bear, Sambhur, and Spotted Deer, Wild Boar, Stripenecked, Brown & Ruddy Mongooses, Black-naped Hare & several civet species."
+                },
+                {
+                    "day": "Day 10",
+                    "route": "Yala to Deniyaya",
+                    "description": "After enjoying your breakfast leave for Deniyaya. En route stop at Kotapola for a tea experience with Kaley Tea. Walk through Kaley’s rainforest, breathe forest air, dip your feet in the stream, sip the waters from the forest springs, whistle to the birds and be in harmony with nature. Kaley tea is handpicked and handcraft tea, as folklore has it, with the healing palms of artisans. The artisans enhance the healing goodness and flavours of Kaley TeaKaley tea is good for you, is good for communities & is good for forests."
+                },
+                {
+                    "day": "Day 11",
+                    "route": "Deniyaya to Negombo",
+                    "description": "Take a trek through the quaint paths of Sinharaja where placid undergrowth lie in wait for the appreciation of all who wish to indulge in an adventure to the tranquil wilderness of Sri Lanka’s world renowned rainforest. Continue on to the beautiful Jetwing Blue in Negombo and spend the final day on this paradise island. After a busy week of traveling, you’ll enjoy being close to the beach at this beautiful hotel as you reflect on your time in Ceylon and watch your last glorious sunset over the Indian Ocean."
+                },
+                {
+                    "day": "Day 12",
+                    "route": "Negombo to Airport",
+                    "description": "Though it will be difficult to say goodbye, all good things come to an end. Your representative from Jetwing will meet you on time in the hotel lobby to return you by way of a scenic drive to the international airport for your departing flight and a safe journey home."
+                }
+            ],
+            "featured_experiences_and_highlights": {
+                "ocean_and_wildlife_adjacencies": [
+                    "Enjoy VIP access to unique attractions and activities that go beyond the ordinary. Whether it’s a private wildlife safari or a personalized cooking class with a renowned chef, our itinerary is crafted to provide you with exclusive moments that make your journey truly exceptional."
                 ]
             }
         }
     ],
     "destinations": [
         {
+            "url": "https://jetwingtravels.com/destination/anuradhapura/",
+            "destination_profile": {
+                "context": "The epicentre of Sinhalese civilization dating back to 4th century BC, Anuradhapura was the first historical capital of Sri Lanka, and its marvels still radiate greatness. Reigning for over a millennium, the kingdom had 117 rulers who built magnificent palaces, great reservoirs and irrigation systems, pleasure gardens, and Buddhist temples - some, amongst the biggest architectural creations of the ancient world, smaller in size only to the pyramids of Giza. The surviving ruins, and the restored temples and stupas are just a few of the places to visit in the sacred city of Anuradhapura.",
+                "relevance": [
+                    "Sri Maha Bodhiya",
+                    "Mihintale",
+                    "Ruwanweli Maha Seya"
+                ]
+            }
+        },
+        {
+            "url": "https://jetwingtravels.com/destination/arugam-bay/",
+            "destination_profile": {
+                "context": "Unspoilt beaches and magnificent waves: it’s the ultimate ‘hangout’ for surfers and travellers from around the world. Located on the South Eastern shoreline, ‘the Bay’ is possibly the ‘coolest’ little seaside town in Sri Lanka. Famed as one of the top ten surfing spots in the world, it attracts big talent. With several local and international events taking place in Arugam Bay, the best time to visit would be May to August during the season. Apart from the waves, there is the lagoon, river, mangroves, jungle, rice fields and dunes to explore too.",
+                "relevance": [
+                    "Kudumbigala Sanctuary",
+                    "Kumana National Park",
+                    "Learn Surfing"
+                ]
+            }
+        },
+        {
             "url": "https://jetwingtravels.com/destination/bentota/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "With a mix of beautiful beaches, watersports and buzzing streets that attract tropical fun seekers, there are a myriad of things to do in Bentota. This popular resort town sits between the Bentota lagoon, the river and the ocean on the South West coast of Sri Lanka, and is at the centre of the watersport action in the region. Despite the activity, endangered sea turtles come to nest on the beach and many conservation projects operate in the area. The river and the thick mangrove swamps are also home to diverse marine life.",
                 "relevance": [
-                    "in Bentota",
-                    "Kosgoda Turtle Hatchery",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "The beach hotspot of the Southern coast",
                     "Lunuganga Gardens",
-                    "Bentota Lagoon"
+                    "Bentota Lagoon",
+                    "Kosgoda Turtle Hatchery"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/colombo/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "A hotspot full of diverse attractions from upscale shopping malls to busy markets, restaurants and cafes to vibrant nightlife, you’ll find many things to do in Colombo. Here, contrasting lifestyles and traditions both old and new continue, while heritage sites, colonial mansions and ultra-modern skyscrapers sit side by side. The legacies left by the Portuguese, Dutch and English remain in the city’s culture and architecture with many colonial buildings restored and maintained. Several historical sites including ancient Buddhist temples, Hindu Kovils, churches, and mosques are also found in the heart of the city.",
                 "relevance": [
                     "Independence Square",
-                    "Local Insights, Hidden Gems and Travel Tales",
                     "Colombo National Museum",
-                    "Gangaramaya Temple",
-                    "Our Blog",
-                    "in Colombo",
-                    "The vibrant big city of the nation"
+                    "Gangaramaya Temple"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/dambulla/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "One of the main tourist attractions in Dambulla is the sacred cave complex. Spread over an area of 2,100 sq metres, it has been a pilgrimage site visited by Buddhists for over 22 centuries. Established as one of the most important monasteries as far back as the 3rd century BC, these caves were protected and enhanced by successive kings till the 11th century, and they are deemed sacred even today. Apart from being historically significant, Dambulla continues to be a busy hub activity, and there are many places of interest to visit.",
                 "relevance": [
+                    "Dambulla Cave Temple",
                     "Hot Air Balloon Ride",
-                    "Sri Lanka’s largest, best preserved cave monastery",
-                    "Rose Quartz Mountain",
-                    "in Dambulla",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "Dambulla Cave Temple"
+                    "Rose Quartz Mountain"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/ella/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "Majestic waterfalls, hidden caves, breathtaking vistas across the mountains: Ella is a little town with big attractions. One of the hill country’s most loved destinations, it is the hub of cool in the hills. The main attraction of Ella is the breathtaking view from the ‘Ella Gap’ – looking out between the majestic bulk of Ella Rock on the right and through a gap in the hills to the plains miles down below. Climbing up Ella Rock is a tough but rewarding hike – and the views from the top are well worth the effort.",
                 "relevance": [
+                    "Mini Adam’s Peak",
                     "Ravana Ella Falls",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Demodara Bridge",
-                    "Best destination for views, and Instagram views",
-                    "Our Blog",
-                    "in Ella",
-                    "Mini Adam’s Peak"
+                    "Demodara Bridge"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/galle/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "In this Southern capital natural and cultural diversity thrives, and history lives on. Galle has weathered many storms over the centuries, from battling colonial rulers to a devastating tsunami. Yet, an indomitable spirit seems to keep the city unshaken. Historically, Galle was an important trade post due to its location and natural harbour. In 1505, a Portuguese fleet landed by accident changing the course of the island’s history. They were ousted by the Dutch in 1640, who lost to the British in 1796. Their legacies shaped the city; and are seen to date.",
                 "relevance": [
+                    "Fort Lighthouse",
                     "Kanneliya Forest",
-                    "in Galle",
-                    "Dutch Fort",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "Historic landmark and new hub of ‘cool’",
-                    "Fort Lighthouse"
+                    "Dutch Fort"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/habarana/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "Strategically placed on the primary route to the North and East of Sri Lanka, Habarana is central to tourist places within the cultural triangle. It is the ideal base to explore the key sites, being within easy reach of Polonnaruwa, Anuradhapura, Dambulla, Sigiriya and Ritigala, as well as serving as a stopover for journeys to Jaffna or Trincomalee. Many elephant watching excursions to Minneriya and Kaudulla national parks also start from here. The scenic Habarana Lake and its surrounds are also an attraction with many village tours offering an insight into rural life.",
                 "relevance": [
                     "Catamaran Ride",
-                    "Hiriwadunna Village Walk",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "At the crossroads of the cultural triangle",
                     "Hurulu Eco Park",
-                    "in Habarana",
-                    "Our Blog"
+                    "Hiriwadunna Village Walk"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/hatton/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "The legacy of colonial plantations, traditions and lifestyles live on here, in the home of Ceylon Tea. Hatton was a busy hill station during the colonial era and continues to be so. At over 4000 feet above sea level, the climate is cool, and many planter’s bungalows now serve as hotels and guest houses offering a total ‘tea experience' - giving good insights to the process of tea from leaf to cup. Apart from the tea plantations, the town is best known as a getaway to Adam’s Peak and the Sinharaja rain forest reserve.",
                 "relevance": [
-                    "Warleigh Church",
-                    "The heart of Sri Lanka’s tea country",
-                    "Local Insights, Hidden Gems and Travel Tales",
                     "Kayaking on Castlereagh",
-                    "Adam’s Peak Sunrise",
-                    "Our Blog",
-                    "in Hatton"
+                    "Warleigh Church",
+                    "Adam’s Peak Sunrise"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/hikkaduwa/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "A popular beach destination for both locals and visitors, Hikkaduwa or ‘Hikka’ as it is known by many, is especially sought after by travellers who want a vacation with a party vibe. When it comes to a lively atmosphere ‘Hikka’ has plenty to offer with many cafes, restaurants and bars with good food and great music. Action extends to the water too: snorkelling and diving amongst the corals, schools of tropical fish and old shipwrecks. The surf off Hikka bay is also regarded as one of the best surfing spots in the island.",
                 "relevance": [
-                    "The chill pill of the South Coast",
-                    "Snorkelling and Coral Reefs",
-                    "Local Insights, Hidden Gems and Travel Tales",
+                    "Glass Bottom Boat Ride",
                     "Hikkaduwa Turtle Hatchery",
-                    "Our Blog",
-                    "in Hikkaduwa",
-                    "Glass Bottom Boat Ride"
+                    "Snorkelling and Coral Reefs"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/jaffna/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "Unique in landscape and identity, and steeped in complex history both ancient and modern, there is no place in Sri Lanka, quite like Jaffna. Famous places and must see sights popular with local and foreign visitors are scattered throughout the peninsula. Over its 2000 years of history on record the city changed rule time and again: Sinhalese, South Indian, Portuguese, Dutch and English all left their legacies. Surviving a 30 year civil war, Jaffna has rebuilt its own distinctive self and remains a bubbling hotpot of contrasts, much like those who live there.",
                 "relevance": [
-                    "Nallur Temple",
                     "Nagadeepa Temple",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "The culture rich capital of the North",
-                    "Our Blog",
-                    "Delft Island",
-                    "in Jaffna"
+                    "Nallur Temple",
+                    "Delft Island"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/kalpitiya/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "Paradise for nature lovers and watersports enthusiasts, Kalpitiya sits between the lagoon and the sea on the North Western coast. Renowned for observing large pods of dolphins and whales offshore, Kalpitiya is designated as a marine sanctuary with bar reefs, flat coastal plains, saltpans, mangrove swamps, marshes and vast sand dunes. The 307 sq.km Bar Reef is the largest coral reef in Sri Lanka. Rich in biodiversity, the reef is home to tropical fish manta rays, reef sharks and sea turtles. The best time to visit Kalpitiya is between October and May.",
                 "relevance": [
-                    "in Kalpitiya",
+                    "Whale and Dolphin Watching",
                     "Kalpitiya Dutch Fort",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "Destination dolphins, whales and deep sea diving",
-                    "Kite / Windsurfing",
-                    "Whale and Dolphin Watching"
+                    "Kite / Windsurfing"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/kitulgala/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "White-water rafting, jungle trekking, outbound training, cave explorations: it’s all about action packed thrills and spills at Kitulgala. Sri Lanka is becoming a popular adventure destination, and this small village on the Kelani River in the Western hills offers plenty of choice. Whether you are a novice or a seasoned adventurer, and whatever activity you choose, it is important to use a reputed, certified operator with qualified guides. The forest along the banks is home to over 54 rare bird species, so trekking is a must if you are a nature lover too.",
                 "relevance": [
-                    "Makandawa Rain Forest",
-                    "in Kitulgala",
-                    "The adventure sports hub of Sri Lanka",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Belilena Cave",
                     "Whitewater Rafting",
-                    "Our Blog"
+                    "Belilena Cave",
+                    "Makandawa Rain Forest"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/mirissa/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "A small town on the South coast of Sri Lanka, Mirissa is regarded as the closest point to where Blue whales gather. Others such as Bryde’s whales, sperm whales, killer whales, pilot whales, and four kinds of dolphins (spinner dolphin, bottlenose dolphin, striped dolphin, Risso’s dolphin) can also be spotted offshore. Water sports facilities such as sailing, fishing, coastal cruises, river trips, sea kayaking, snorkelling and boating are also there for those looking for other activities. The weather is generally fine, but the best time to visit Mirissa is from December to February.",
                 "relevance": [
-                    "in Mirissa",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Coconut Tree Hill",
-                    "Our Blog",
-                    "Secret Beach",
                     "Whale and Dolphin Watching",
-                    "The world renowned realm of blue whales"
+                    "Coconut Tree Hill",
+                    "Secret Beach"
                 ]
             }
         },
         {
             "url": "https://jetwingtravels.com/destination/negombo/",
             "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
+                "context": "Although renowned for its golden beaches, in Negombo, sightseeing opportunities are also plentiful. Predominantly Roman Catholic, it’s referred to as “Little Rome'' due to the many ornate Catholic churches. However, Buddhist, Hindu and Muslim landmarks of significance are also found - often almost next to each other. Several relics that date back to the Dutch and Portuguese colonial era remain, like the ancient Dutch Fort gate built in 1672. The 100 km long Dutch Canal is still in use, and a boat ride will offer a whole different view of Negombo and the suburbs.",
                 "relevance": [
-                    "Dutch Fort",
+                    "Negombo Fish Market",
                     "Hamilton Canal",
-                    "in Negombo",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "The western coast’s most renowned resort town",
-                    "Negombo Fish Market"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/nuwara-eliya/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Strawberry Fields",
-                    "in Nuwara Eliya",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "The mountain resort town from colonial days",
-                    "Our Blog",
-                    "Horton Plains",
-                    "Hakgala Gardens"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/passikudah/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Batticaloa Lighthouse",
-                    "Water Sports",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "The ultimate dreamscape on the East coast",
-                    "Our Blog",
-                    "Singing Fish and Kallady Bridge",
-                    "in Passikudah"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/polonnaruwa/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Ruins and Temples",
-                    "The second ancient kingdom of Sri Lanka",
-                    "Monkey Kingdom",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "in Polonnaruwa",
-                    "Our Blog",
-                    "Minneriya National Park"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/sigiriya/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "Sigiriya Rock",
-                    "in Sigiriya",
-                    "The incredible 8th wonder of the world",
-                    "Sigiriya Archaeological Museum",
-                    "Pidurangala Rock"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/sinharaja/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "in Sinharaja",
-                    "Forest Trek",
-                    "Sri Lanka’s last remaining primary tropical rainforest",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "Birdwatching Trek",
-                    "Waterfalls Trek"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/tangalle/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "in Tangalle",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Rekawa Turtle Conservation Project",
-                    "Sri Lanka’s Southernmost town - next stop Antarctica!",
-                    "Our Blog",
-                    "Mulkirigala Temple",
-                    "Hummanaya Blowhole"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/trincomalee/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Koneswaram Temple",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Snorkelling at Pigeon Island",
-                    "in Trincomalee",
-                    "Our Blog",
-                    "The world’s deepest and largest natural harbour",
-                    "Whale and Dolphin Watching"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/udawalawe/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Elephant Transit Centre",
-                    "A sanctuary that wild elephants call ‘home’",
-                    "Mahapelessa Hot Springs",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "in Udawalawe",
-                    "Game Drives"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/weligama/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Stilt Fisherman",
-                    "Snorkelling and Diving",
-                    "Home of Sri Lanka’s iconic stilt fishermen",
-                    "Our Blog",
-                    "in Weligama",
-                    "Surfing Time"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/wellawaya/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Waterfall Trek",
-                    "The very heart of simple, rural life",
-                    "Our Blog",
-                    "Ellawala Waterfall",
-                    "in Wellawaya"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/wilpattu/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "One of Sri Lanka’s oldest national parks",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "in Wilpattu",
-                    "Safari Camping",
-                    "Game Drives"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/yala/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Sithulpawwa Buddhist Monastery",
-                    "in Yala",
-                    "Bundala Game Drive",
-                    "Our Blog",
-                    "Yala Game Drive",
-                    "Sri Lanka’s ‘Big Five’ game, thrives here"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/kandy/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "in Kandy",
-                    "Peradeniya Botanical Garden",
-                    "Our Blog",
-                    "The sacred capital of the hill country",
-                    "Cultural Dance Show",
-                    "Temple of the Tooth Relic"
-                ]
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/destination/unawatuna/",
-            "destination_profile": {
-                "context": "Historic site featured by Jetwing Travels as a major Sri Lankan tourist destination.",
-                "relevance": [
-                    "in Unawatuna",
-                    "Japanese Peace Pagoda Rumassala",
-                    "Local Insights, Hidden Gems and Travel Tales",
-                    "Our Blog",
-                    "Relax at Jungle Beach",
-                    "The party beach destination of Sri Lanka",
-                    "Rope Swings at Dalawella and Wijeya Beach"
+                    "Dutch Fort"
                 ]
             }
         }
     ],
-    "experiences": [
-        {
-            "url": "https://jetwingtravels.com/experiences/",
-            "experience_profile": {
-                "experience": "Gangaramaya Temple",
-                "description": "A mix of modern architecture and cultural significance, the complex comprises the main temple, a museum, a library and a vocational training centre."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/2/",
-            "experience_profile": {
-                "experience": "Temple of the Tooth Relic",
-                "description": "Revered by pilgrims from around the world, the ‘Sri Dalada Maligawa’ is a sacred Buddhist shrine housing a tooth relic of Lord Buddha."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/3/",
-            "experience_profile": {
-                "experience": "Stilt Fisherman",
-                "description": "Watch how these expert fishermen set up their stilts and cast their rods, and perhaps try your fishing skills on the crossbar too."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/4/",
-            "experience_profile": {
-                "experience": "Rekawa Turtle Conservation Project",
-                "description": "Endangered giant turtles nest on the Rekawa shoreline; here, you can learn more about their habits, habitats and help release hatchlings to sea."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/5/",
-            "experience_profile": {
-                "experience": "Singing Fish and Kallady Bridge",
-                "description": "Kallady is Sri Lanka’s oldest and longest iron bridge. Popular legend claims that sounds of singing fish can be heard from beneath it."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/6/",
-            "experience_profile": {
-                "experience": "Coconut Tree Hill",
-                "description": "Walk to this much sought after location, made famous by instagram, to understand why this protruding grove of coconut is so very special."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/7/",
-            "experience_profile": {
-                "experience": "Nallur Temple",
-                "description": "The 15th century Nallur Kandaswamy Kovil - one of the most significant Hindu temples in Sri Lanka - showcases the colourful grandeur of Dravidian architecture."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/8/",
-            "experience_profile": {
-                "experience": "Hiriwadunna Village Walk",
-                "description": "Take a walk through paddy fields and ‘chena’ cultivations to a rural village home for a typical Sri Lankan lunch - rice and curry."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/9/",
-            "experience_profile": {
-                "experience": "Dambulla Cave Temple",
-                "description": "The largest and the best preserved cave monastery in the island, its five sanctuaries comprise 157 statues and intricate frescoes covering the walls."
-            }
-        },
-        {
-            "url": "https://jetwingtravels.com/experiences/page/10/",
-            "experience_profile": {
-                "experience": "Learn Surfing",
-                "description": "If you fancy your turn on the board, there are many surf schools and qualified instructors to help you hit the waves safely."
-            }
-        }
-    ]
+    "experiences": []
 }

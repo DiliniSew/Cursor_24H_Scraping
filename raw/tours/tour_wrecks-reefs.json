@@ -14,41 +14,41 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Kalpitiya 2 and half hours"
+            "route": "Airport to Kalpitiya",
+            "description": "At the airport you will be greeted by your chauffeur guide who will take you to the fishing village of Kalpitiya in the north western coast. The Kalpitiya beach is a long, narrow stretch of sand, also accessible by boat from across the Kalpitiya lagoon. Dolphins, whales and kite surfing are the main attractions that draw visitors to this relatively undeveloped peninsula. Hundreds of dolphins can often be seen playing in the offshore waters, you can take a boat ride to catch some close-up views."
         },
         {
             "day": "Day 2",
-            "description": "Kalpitiya"
+            "route": "Kalpitiya",
+            "description": "After breakfast, head down to snorkel or dive in the renowned Bar Reef. A must for keen scuba divers and snorkelers, this is the largest coral reef in Sri Lanka and only an hour’s boat ride from Kalpitiya. Beautiful and unspoilt, Bar Reef spans around 307 Sq.km and is home to 156 coral species and 283 species of fish, with frequent sightings of manta rays, reef sharks and turtles. Despite its natural beauty, the western peninsular area of Kalpitiya is remarkably untouched by tourism."
         },
         {
             "day": "Day 3",
-            "description": "Kalpitiya Galle 5 hours"
+            "route": "Kalpitiya to Galle",
+            "description": "A scenic drive to the south coast and Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
         },
         {
             "day": "Day 4",
-            "description": "Galle 30 minutes"
+            "route": "Galle",
+            "description": "With its impressive coral reefs and abundance of tropical fish, Hikkaduwa is considered as one of the best places for snorkelling and diving on the Southwest coast. Snorkel or dive in the Conch Reef: 20 metres down and historically significant, being one of the first oil tankers of the Shell Company which sank in 1903 as she struck the Akarta rock. Probably one of the best and easily accessible wrecks in Sri Lanka, with many nooks and crannies within the wreck filled with marine life."
         },
         {
             "day": "Day 5",
-            "description": "Galle 30 minutes"
+            "route": "Galle",
+            "description": "Snorkel or dive in Unawatuna. This 3-hour scuba diving session gives you a wonderful glimpse of Sri Lanka’s colourful corals, mystery wrecks and over 170 species of reef fish, turtles, octopuses and shellfish; perhaps even Sri Lanka’s giant - the whale shark. Travel to snorkel or dive in Weligama - an interesting blend of a lively fishing village and beach resort. The sandy stretch is attractive away from the main section with coves west of the centre and the ocean is perfect for snorkelling and diving too."
         },
         {
             "day": "Day 6",
-            "description": "Galle Airport 2 and half hours"
+            "route": "Galle to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "Whether you’re a seasoned diver or a beginner eager to explore the depths, our expert instructors tailor experiences, ensuring everyone enjoys the wonders beneath the surface.",
-            "If you crave underwater excitement and have a passion for maritime history, this trip offers the perfect blend of thrilling dives amid historic shipwrecks."
-        ],
         "ocean_and_wildlife_adjacencies": [
+            "Immerse yourself in a world of colorful marine life, from elusive sea turtles to dazzling schools of fish. Discover the joy of snorkeling and diving in crystal-clear waters.",
             "Dive into the rich maritime history of Sri Lanka as you explore captivating shipwrecks and vibrant coral reefs, creating unforgettable memories in the depths of the Indian Ocean.",
             "Our experienced guides and certified dive instructors ensure not just a thrilling expedition but a safe one too. Dive with confidence as you explore the mesmerizing wrecks and reefs of Ceylon.",
-            "Indulge in exclusive stays at Jetwing’s handpicked coastal properties, offering a perfect blend of modern comforts and serene oceanfront views, ensuring a relaxing and rejuvenating experience after each day’s adventure.",
-            "If you appreciate eco-friendly tourism, rest assured that our excursions prioritize sustainability. Join us in responsible diving practices, preserving the marine ecosystem for generations to come.",
-            "Seeking a balance of adventure and relaxation? This trip lets you escape the hustle, providing a chance to unwind on pristine beaches and savor the coastal charm of Sri Lanka.",
-            "Immerse yourself in a world of colorful marine life, from elusive sea turtles to dazzling schools of fish. Discover the joy of snorkeling and diving in crystal-clear waters."
+            "Indulge in exclusive stays at Jetwing’s handpicked coastal properties, offering a perfect blend of modern comforts and serene oceanfront views, ensuring a relaxing and rejuvenating experience after each day’s adventure."
         ]
     }
 }

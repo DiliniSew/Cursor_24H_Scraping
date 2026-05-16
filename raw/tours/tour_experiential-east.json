@@ -14,49 +14,48 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Negombo 40 minutes"
+            "route": "Airport to Negombo",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks, and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
         },
         {
             "day": "Day 2",
-            "description": "Negombo Wellawaya 5 hours"
+            "route": "Negombo to Wellawaya",
+            "description": "Check out from the hotel after a leisurely breakfast and proceed to Wellawaya. Check in and have lunch with the Poonagala mountain range in the background. Late afternoon cycle or leisurely walk through the local village and meet some of the locals. 30 mins cocktail in the Kamatha following with an authentic Sri Lankan dinner."
         },
         {
             "day": "Day 3",
-            "description": "Wellawaya Pottuvil Point 2 and half hours"
+            "route": "Wellawaya to Pottuvil Point",
+            "description": "Early morning, visit Ella Wala falls (hidden waterfall in Wellawaya) with packed breakfast. Elle Wala Waterfall is a small but beautiful waterfall lying in the Poonagala Mountain Range. This waterfall is created by small river tributary called ‘Alikota Aara’, starting from the Poonagala Mountain Range. The base of the waterfall has a created beautiful basin type natural pool to safely enjoy the waterfall. Bicycle ride will be on a scenic road along the river and if you are adventurous enough, you can check your mountain cycling skills on the 500 metre rough stretch that rapidly ascends up to the waterfall. Return to the hotel and Proceed to Pottuvil point. Check in at the Jetwing Surf located at the bottom of our east coast in Pottuvil – mere minutes away from the world renowned surfing destination of Arugam Bay."
         },
         {
             "day": "Day 4",
-            "description": "Pottuvil Point"
+            "route": "Pottuvil Point",
+            "description": "Breakfast at the hotel. free time for surfing at the world renowned surfing destination of Arugam Bay just few minutes away from your hotel. Visit Kottukal beach house for lunch. Rest of the day is at leisure."
         },
         {
             "day": "Day 5",
-            "description": "Pottuvil Point Yala 2 and half hours"
+            "route": "Pottuvil Point to Yala",
+            "description": "Today after breakfast proceed to Yala. Afternoon take a jeep ride in the Yala national park in search of the elusive Leopards, Sloth Bears, Wild Elephants, Wild Boar, Sambur Deer, Spotted Deer, Water Buffalo and many bird species. The park is one of the best places in the world to see leopards. Early morning and late in the afternoon are the best times to settle in for some leopard and bear sightings."
         },
         {
             "day": "Day 6",
-            "description": "Yala Tangalle 1 and half hours"
+            "route": "Yala to Tangalle",
+            "description": "Breakfast at the hotel, proceed to Tangalle. Visit Shangri La for inspection and lunch."
         },
         {
             "day": "Day 7",
-            "description": "Tangalle Weligama 1 hour"
+            "route": "Tangalle to Weligama",
+            "description": "After breakfast, proceed to Weligama. On your way, visit stilt fishermen. Stilt Fishing is one of the most interesting traditional fishing methods of Sri Lanka. Records indicate that it came into being just after World War II. This mode of fishing was more widely used all along the coast until the tsunami in 2004 which caused such activities to cease temporarily until recent years. The beautiful sight of fishermen perched branched poles as they fish skillfully during dawn, noon and dusk; can now be commonly along the southern coast in towns such as Koggala, Kaththaluwa and Ahangama. Occasional stilt fishermen can also be seen amongst the waters of Madu River, etc. Visit Ani villas for inspection and lunch."
         },
         {
             "day": "Day 8",
-            "description": "Weligama Airport 2 and half hours"
+            "route": "Weligama to Airport",
+            "description": "Departure"
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "Perfect for those who appreciate history and local customs, as the itinerary is crafted to provide in-depth insights into the cultural and historical significance of East Sri Lanka.",
-            "If you have a penchant for unspoiled landscapes and unique ecosystems, this trip showcases the diverse flora and fauna of the region, including the chance to witness wildlife in their natural habitat.",
-            "Whether you’re a solo traveler, a couple, or a group, the flexible nature of the itinerary allows for personalized experiences, ensuring each participant can tailor their journey to match their preferences.",
-            "Immerse yourself in the rich cultural tapestry of East Sri Lanka, exploring ancient ruins and uncovering the region’s fascinating history.",
-            "Engage with the warmth of local communities, as our itinerary includes authentic interactions and cultural experiences, providing you with a genuine taste of Sri Lankan life.",
-            "While there are adventurous elements, the trip is designed for a wide range of travelers. Expect a mix of leisurely exploration and optional activities catering to various fitness levels.",
-            "For the thrill-seekers, this trip offers exciting opportunities for water sports in Arugam Bay and wildlife safaris in Gal Oya National Park, ensuring an adrenaline-pumping adventure."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "From the pristine beaches of Arugam Bay to the lush jungles of Gal Oya, experience the untouched beauty of Sri Lanka’s eastern coast, offering a serene escape for nature enthusiasts."
+            "For the thrill-seekers, this trip offers exciting opportunities for water sports in Arugam Bay and wildlife safaris in Gal Oya National Park, ensuring an adrenaline-pumping adventure."
         ]
     }
 }

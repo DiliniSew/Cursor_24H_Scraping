@@ -14,61 +14,65 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Negombo 25 minutes"
+            "route": "Airport to Negombo",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Recoup from any jet lag, with an Ayurvedic therapy treat. Negombo is a hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you some of the most interesting sights and landmarks3 and perhaps take a boat ride along the Dutch canal. Or, just relax on the most famous golden sands of Negombo beach."
         },
         {
             "day": "Day 2",
-            "description": "Negombo Sigiriya 4 and half hours"
+            "route": "Negombo to Sigiriya",
+            "description": "Leave Negombo’s coastline and head inland. Drop by the Elephant Care Relief Foundation - a charity that looks after domesticated elephants. Meet an elephant expert and enjoy the unique opportunity to walk with and bathe elephants. After lunch, our sightseeing tour of Sri Lanka continues to the town of Sigiriya - a key cornerstone in the cultural triangle. In the evening, climb the amazing Sigiriya rock fortress - a World Heritage Site. This 5th Century marvel in the sky is an architectural masterpiece carved from a massive rock."
         },
         {
             "day": "Day 3",
-            "description": "Sigiriya Polonnaruwa Sigiriya 3 and half hours"
+            "route": "Sigiriya to Polonnaruwa to Sigiriya",
+            "description": "Visit the World Heritage site of Polonnaruwa - the second kingdom of ancient Lanka from the 11th to 13th century A.D. Take a walking tour to the ruins of Lankathilaka, Thuparamaya, Royal Palace, Rankoth Vehera and Gal Viharaya. On your return, go on an exhilarating jeep ride with a naturalist guide to the Minneriya or Kaudulla National Park - a sanctuary is a home to wild elephants and many other animals. Enjoy a romantic signature dining experience atop a tree house or on a secluded hill."
         },
         {
             "day": "Day 4",
-            "description": "Sigiriya Kandy 3 hours"
+            "route": "Sigiriya to Kandy",
+            "description": "After breakfast, enjoy a scenic drive to Kandy - the hill capital of Sri Lanka, eminent as the centre of Buddhism and the stronghold of the last Sinhalese kingdom. Explore the town at your leisure. Pay homage to the Temple of the Tooth Relic, which houses Sri Lanka’s most sacred relic - a tooth of the Lord Buddha. In the evening, attend a performance featuring traditional dances from the different regions of Sri Lanka. Enjoy a restful night in luxury, after a romantic candlelit dinner for two."
         },
         {
             "day": "Day 5",
-            "description": "Kandy Half a day city tour"
+            "route": "Kandy",
+            "description": "Spend a lazy day or set off to explore the historic town of Kandy. It is a busy, bustling hub of activity where heritage buildings and modernity mix. Visit the Udawattekele forest reserve - a haven of peace in the heart of town, or the vibrant market places. Walk around the Kandy lake and up Lake Drive for some spectacular views of the town. Take a short drive to the lush Royal Botanical Gardens of Peradeniya and enjoy a picnic lunch. Enjoy the evening at leisure."
         },
         {
             "day": "Day 6",
-            "description": "Kandy Hatton 3 and half hour train journey"
+            "route": "Kandy to Hatton",
+            "description": "Take the upcountry train to Hatton high in the mountains and enjoy the breathtaking views along the way. Check into your luxury colonial bungalow surrounded by rolling tea plantations with views of the Castlereigh Lake. You will be greeted by your very own personal butler who will attend to you throughout your stay as well as the executive chef with whom you can plan your dining options. The chilly climate is perfect to take a stroll; or relax, snuggled up by the fireplace till dinner."
         },
         {
             "day": "Day 7",
-            "description": "Hatton"
+            "route": "Hatton",
+            "description": "After a leisurely breakfast, take a guided walk through the tea plantation with the resident tea planter to learn all about tea. Watch tea pickers expertly choose the best buds - maybe try your hand at it too. Visit a tea factory to see the complex manufacturing process, and take part in a tea tasting session. Return to the bungalow for lunch. In the afternoon, explore the beautiful valleys by bike or take a long walk beside the peaceful lake. Dinner and rest awaits at nightfall."
         },
         {
             "day": "Day 8",
-            "description": "Hatton Bentota 4 and half hours"
+            "route": "Hatton to Bentota",
+            "description": "After breakfast, head off west to Bentota. As you travel down the mountains to the coast along winding roads you will experience firsthand the incredible diversity of our island’s landscape. The tea clad mountains give away to paddyfields, and from suburban gardens to the beautiful beaches. Stop along the way for lunch by a cascading river, then continue to your luxury stay at the coastal resort town of Bentota. Spend the rest of the day relaxing, perhaps enjoy a walk on the beach at sunset."
         },
         {
             "day": "Day 9",
-            "description": "Bentota Galle Bentota 1 and half hour"
+            "route": "Bentota to Galle to Bentota",
+            "description": "Take a drive South along the coast to Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
         },
         {
             "day": "Day 10",
-            "description": "Bentota 45 minutes"
+            "route": "Bentota",
+            "description": "The day is yours to spend as you wish. You can relax by the pool or explore the locality. The exquisitely landscaped country home of Sri Lanka’s world renowned architect - Geoffrey Bawa, is nearby. It makes a perfect place for an alfresco lunch. Or enjoy a romantic boat ride down the Madu River, floating under the tangled canopy of mangroves with the birds for company. If you wish for some thrills, enjoy some water sports on the Bentota Lagoon. Then, wait for those glorious sunsets."
         },
         {
             "day": "Day 11",
-            "description": "Bentota Airport 1 and half hours"
+            "route": "Bentota to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "Tailored for travelers who appreciate the finer things in life, this journey combines cultural exploration with luxurious accommodations, ensuring a pampered experience throughout your Ceylonese adventure.",
-            "Indulge in a gastronomic adventure with our curated dining experiences, savoring authentic Ceylonese flavors. From street food to elegant dining, your taste buds are in for a treat.",
-            "Whether trekking through lush jungles, encountering wildlife, or engaging in water sports, thrill-seekers will find ample opportunities to satisfy their adventurous cravings.",
-            "Unwind in handpicked accommodations, blending modern comfort with cultural charm. Each stay is a sanctuary, offering a tranquil retreat after a day of exploration.",
-            "Experience the enchanting blend of Sri Lanka’s cultural tapestry as you explore ancient ruins, vibrant markets and engage with warm, welcoming locals.",
-            "Ideal for those who appreciate stunning landscapes and diverse cultures, providing endless opportunities to capture breathtaking moments that will fill your photo album with unparalleled memories.",
-            "If you relish discovering rich histories, ancient traditions and vibrant local customs, this cultural immersion will captivate your curiosity and leave you with lasting memories."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "From misty tea plantations to pristine beaches, this journey unveils diverse landscapes, ensuring every moment is a visual feast and a photographer’s dream come true."
+            "Whale and dolphin watching",
+            "Coral reef snorkeling",
+            "Swimming with turtles"
         ]
     }
 }

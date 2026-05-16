@@ -14,61 +14,63 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Negombo 30 minutes"
+            "route": "Airport to Negombo",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the beach resort town of Negombo. Rest and recoup from any jet lag. Negombo is a buzzing hub of contrasts and cultures. If you feel like exploring, your chauffeur guide will show you around some of the most interesting sights and landmarks and perhaps take a boat ride along the Dutch canal. Or, you can relax on the most famous golden sands of Negombo beach."
         },
         {
             "day": "Day 2",
-            "description": "Negombo Anuradhapura 4 hours"
+            "route": "Negombo to Anuradhapura",
+            "description": "Pay an early morning visit to a ‘lellama’ - Negombo’s bustling fish market. Watch the fishermen bring in their night’s catch for sale. Return to enjoy your breakfast at the villa. Later on, journey to the historic city Anuradhapura, deep in the country’s central heartlands. Stop en route to enjoy lunch at a typical local restaurant. Arrive at your stay - the Ulagalla Resort. Hidden deep within a rural village close to Anuradhapura, it is a stunning eco haven beside the still waters of the Ulagalla lake."
         },
         {
             "day": "Day 3",
-            "description": "Anuradhapura"
+            "route": "Anuradhapura",
+            "description": "The first kingdom of ancient Ceylon, Anuradhapura lasted for over a thousand years. Thousands of years later, its grandeur remains, well preserved. The sprawling complex contains a rich collection of archaeological and architectural wonders: enormous dagobas (brick stupas), ancient pools and crumbling palaces. Many stupas have been restored over the years and devotees continue to flock. A walking tour to see the Sacred Sri Maha Bodhi, Ruwanweli seya and others is a must. Drive to visit Mihintale - a sacred rock temple highly significant to Buddhists."
         },
         {
             "day": "Day 4",
-            "description": "Anuradhapura Sigiriya 1 and half hours"
+            "route": "Anuradhapura to Sigiriya",
+            "description": "Sigiriya rock fortress - a world heritage site, is an engineering and architectural marvel. The frescos halfway up the rock face are still remarkable, and the 360 degree view from the top is incredible. Pidurangala is another massive rock formation almost directly opposite Sigiriya, with equally majestic views, especially of its more famous landmark. In the afternoon, visit the sprawling expanse of ancient ruins at the World Heritage City of Polonnaruwa - the second kingdom of Lanka which reigned from the 11th to 13th century A.D."
         },
         {
             "day": "Day 5",
-            "description": "Anuradhapura Hatton 5 hours"
+            "route": "Anuradhapura to Hatton",
+            "description": "Enjoy a leisurely breakfast before your long journey to Hatton - high in the mountains. Take a break along the way to visit a spice garden at Matale to see how Sri Lankan spices, both popular and rare, are grown and processed. Some samples would make perfect gifts. Continue travelling along the mountain route to Hatton. Check into your luxury bungalow and meet your private butler. Rest of the day is yours to rest and relax enjoying the luxury setting, indulging in some gourmet cuisine too."
         },
         {
             "day": "Day 6",
-            "description": "Hatton"
+            "route": "Hatton",
+            "description": "Enjoy breakfast in your luxurious colonial plantation bungalow, attended to by your personal butler. Take a tea experience tour with the hotel’s resident expert and learn the story of world renowned Ceylon Tea. Stroll through the lush plantations admiring the view. Get to know about how tea is grown, plucked and processed. Try your hand at tea plucking, take in a tour of a tea factory, and take part in a tea tasting session. The rest of the day is yours to spend at leisure."
         },
         {
             "day": "Day 7",
-            "description": "Hatton Yala 6 and half hours"
+            "route": "Hatton to Yala",
+            "description": "After breakfast, enjoy a scenic drive from Hatton to Ella - a small but popular town high in the mountains famous for breathtaking views. Stop to admire the cascading Ravana Ella waterfall and the iconic Demodara Nine Arch Bridge and the Diyaluma Falls - Sri Lanka’s second highest waterfall. Continue down the heights into the lower valleys, and further into the scrub jungles of Yala. The contrast in the landscapes is spectacular to see. Your stay at the exclusive luxury jungle resort is inside Yala National Park."
         },
         {
             "day": "Day 8",
-            "description": "Yala"
+            "route": "Yala",
+            "description": "After breakfast, explore Yala or Bundala National parks. Comprising scrubland, sparse forest, grassy plains and brackish lagoons, Yala is famous for the Sri Lankan Leopard (a unique subspecies) and is considered to have the highest density of leopards in the world. Sri Lanka’s ‘Big Five’ can be spotted here too - elephants, sloth bears, sambur and crocodiles, so you might see them all, and other animals and birds too. Bundala National Park is a fantastic maze of waterways, lagoons and dunes home to thousands of birds."
         },
         {
             "day": "Day 9",
-            "description": "Yala Bentota 4 hours"
+            "route": "Yala to Bentota",
+            "description": "Bid farewell to the jungle and head west, stopping by the natural phenomena called Hummanaya blowhole. Continue on to Galle. Sri Lanka’s oldest living city dotted with historic sites, Galle is one of the few World Heritage sites where a bustling population continues to thrive. Dutch-colonial buildings, ancient mosques and churches, grand mansions and museums vie on cobbled streets with stylish cafes, quirky boutiques and impeccably restored villas and hotels. After lunch, travel on to Bentota - a very popular beach resort on the west coast."
         },
         {
             "day": "Day 10",
-            "description": "Bentota"
+            "route": "Bentota",
+            "description": "Take a well-earned rest from travelling and sightseeing. However, Bentota is a hive of activity - on and off the beach, in case you want to explore. Spend an idyllic morning just watching the waves. The beach at Saman Villa is somewhat secluded, so you have all the privacy you need to sunbathe or relax in peace. You could also indulge a little at the spa with a rejuvenating wellness programme. Visit the exquisitely landscaped Lunuganga Gardens - the perfect place to enjoy an al fresco lunch."
         },
         {
             "day": "Day 11",
-            "description": "Negombo Airport 2 hours"
+            "route": "Negombo to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "Whether it’s surfing the waves, wildlife safaris, or leisurely strolls through spice gardens, the Southern Riviera offers a spectrum of adventures. Find your perfect thrill in this diverse coastal haven.",
-            "Indulge your taste buds in a gastronomic journey through local flavors. From fresh seafood to exotic spices, savor the vibrant and diverse culinary tapestry of the Southern coast.",
-            "If your travel memories are intertwined with culinary experiences, indulge in the Southern Riviera’s diverse flavors. From seaside seafood feasts to aromatic spice trails, this trip is a food lover’s delight.",
-            "Explore the rich cultural heritage of the region, from ancient temples to colonial architecture. Engage with local communities and witness the harmonious blend of tradition and modernity.",
-            "Ideal for those seeking cultural immersion, this journey unveils the tapestry of Sri Lanka’s history. Engage with local communities and witness the living traditions of this enchanting region."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "Immerse in the tranquil beauty of the Southern Riviera, where golden beaches meet azure waters. Enjoy breathtaking sunsets and discover the art of unwinding in paradise.",
-            "Whether you seek relaxation or adventure, the Southern Riviera caters to varied preferences. Tailor your experience, from tranquil beachside retreats to exhilarating outdoor escapades, ensuring a personalized journey.",
-            "If you yearn for nature’s embrace, from lush landscapes to pristine beaches, this trip beckons. Revel in the biodiversity of the Southern Riviera, a haven for wildlife and eco-enthusiasts."
+            "Whether it’s surfing the waves, wildlife safaris, or leisurely strolls through spice gardens, the Southern Riviera offers a spectrum of adventures. Find your perfect thrill in this diverse coastal haven."
         ]
     }
 }

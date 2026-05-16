@@ -14,57 +14,60 @@
     "itinerary_breakdown": [
         {
             "day": "Day 1",
-            "description": "Airport Kandy 4 hours"
+            "route": "Airport to Kandy",
+            "description": "At the airport you will be greeted by our Jetwing Representative and your chauffeur guide who will take you to the hill capital of Kandy. Enjoy a scenic journey as you travel from the warm coastline into the interior of the island and up into the mountains. The incredible contrasts in the scenery can be breathtakingly beautiful as well as unexpected. In Kandy, continue on to your stay up a forested road. Enjoy a restful night in luxury, after a romantic candlelit dinner for two."
         },
         {
             "day": "Day 2",
-            "description": "Kandy"
+            "route": "Kandy",
+            "description": "Spend a lazy day or set off to explore the historic town of Kandy. It is a busy, bustling hub of activity where heritage buildings and modernity mix. Visit the Udawattekele forest reserve - a haven of peace in the heart of town, or the vibrant market places. Walk around the Kandy lake and up Lake Drive for some spectacular views of the town. Take a short drive to the lush Royal Botanical Gardens of Peradeniya and enjoy a picnic lunch. Enjoy the evening at leisure."
         },
         {
             "day": "Day 3",
-            "description": "Kandy Nuwara Eliya 3 and half hours"
+            "route": "Kandy to Nuwara Eliya",
+            "description": "Travel higher into the mountains and enjoy the breathtaking views along the way as you head to Nuwara Eliya - the land of Ceylon tea. Visit a tea plantation and factory to learn all about the growing and processing of famous Ceylon Tea. After a rest, drive around the old colonial town of Nuwara Eliya - often referred to as “Little England” with its colonial bungalows, Tudor-style hotels, well-tended hedgerows and pretty gardens shrouded in cool misty air. Enjoy a relaxed evening at your colonial country home."
         },
         {
             "day": "Day 4",
-            "description": "Nuwara Eliya 3 and half hours"
+            "route": "Nuwara Eliya",
+            "description": "After an early breakfast, set off to see the World Heritage Site of Horton Plains National Park. The highest plateau on the island 2,100 metres above sea level, it has a rich diversity of endemic plants and animals. Visit World’s End - a sheer escarpment falling 900 metres to the valley below. On a clear day, even the Southern coast is visible. Continue the trek to stop at the Baker’s Falls and enjoy a picnic lunch. Return and spend the rest of your day relaxing."
         },
         {
             "day": "Day 5",
-            "description": "Nuwara Eliya Ella 2 hours"
+            "route": "Nuwara Eliya to Ella",
+            "description": "After a relaxed morning, travel to the picturesque town of Ella - now a highly popular destination with travellers who love its incredible photo opportunities. The drive itself is very scenic, travelling round high mountain passes with magnificent views of waterfalls and valleys beyond. Stop by the Ravana Ella waterfall along the way and have lunch perhaps. Regarded as the widest cascade in the country, the falls are rather impressive. Check into your luxury room with a view, and spend a romantic evening together at leisure."
         },
         {
             "day": "Day 6",
-            "description": "Ella"
+            "route": "Ella",
+            "description": "After a relaxed breakfast, set off to see all the landmark attractions Ella is famous for. Walk across the incredible Nine Arch bridge - perfect for those social media photos. Visit the Demodara railway station, renowned for its ‘loop’ - a unique feature for turning trains around and the only one of its kind in Sri Lanka. Then continue to Little Adam’s Peak - a tough trek, but worth it for the amazing views. After a picnic lunch, take a drive to visit Lipton’s Seat lookout in Haputale."
         },
         {
             "day": "Day 7",
-            "description": "Ella Bentota 5 and half hours"
+            "route": "Ella to Bentota",
+            "description": "After breakfast, head off west to Bentota. As you travel down the mountains to the coast along winding roads you will experience firsthand the incredible diversity of our island’s landscape. The tea clad mountains give away to paddyfields and from suburban gardens to the beautiful beaches. Stop along the way for lunch by a cascading river, then continue to your luxury stay at the coastal resort town of Bentota. Spend the rest of the day relaxing, perhaps enjoy a walk on the beach at sunset."
         },
         {
             "day": "Day 8",
-            "description": "Bentota Galle Bentota"
+            "route": "Bentota to Galle to Bentota",
+            "description": "Take a drive South along the coast to Galle - Sri Lanka’s oldest living city dotted with historic sites with a fusion of European and Arabic cultural and architectural influences. In the afternoon, explore the Galle Fort with its cobbled streets and learn the history behind its Ramparts. A hive of activity, arts and culture it is one of the few World Heritage listed sites in which a bustling population continues to thrive with alleys lined with restaurants, art galleries and shops selling jewellery and antiques."
         },
         {
             "day": "Day 9",
-            "description": "Bentota 1 and half hours"
+            "route": "Bentota",
+            "description": "The day is yours to spend as you wish. You can relax by the pool or explore the locality. The exquisitely landscaped country home of Sri Lanka’s world renowned architect - Geoffrey Bawa, is nearby. It makes a perfect place for an alfresco lunch. Or enjoy a romantic boat ride down the Madu River, floating under the tangled canopy of mangroves with the birds for company. If you wish for some thrills, enjoy some water sports on the Bentota Lagoon. Then, wait for those glorious sunsets."
         },
         {
             "day": "Day 10",
-            "description": "Bentota Airport 2 and half hours"
+            "route": "Bentota to Airport",
+            "description": "As all good things must come to an end, we bid you farewell as our chauffeur guide takes you to the Airport to meet your departure flight home."
         }
     ],
     "featured_experiences_and_highlights": {
-        "cultural_heritage": [
-            "Savor the symphony of flavors as you indulge in Sri Lanka’s diverse cuisine. From aromatic spices to delectable street food, each bite unveils a gastronomic adventure.",
-            "Encounter the heart of Sri Lanka through immersive experiences with locals, vibrant festivals and UNESCO World Heritage Sites, fostering a deep connection to the island’s rich heritage.",
-            "Travel in an intimate group setting, fostering meaningful connections. Engage with fellow explorers, creating memories that extend beyond the journey, making this experience both personal and unforgettable.",
-            "Perfect for travelers eager to delve into Sri Lanka’s cultural tapestry. Expect encounters with locals, vibrant markets and ancient traditions, offering a truly immersive experience.",
-            "Whether you crave relaxation or non-stop exploration, our itinerary accommodates diverse preferences, ensuring you can soak in the magic of Sri Lanka at your preferred pace."
-        ],
         "ocean_and_wildlife_adjacencies": [
-            "Enjoy a blend of opulence and nature at our carefully selected accommodations. Whether nestled in the hills or by the beach, expect unparalleled comfort in breathtaking surroundings.",
-            "Immerse yourself in Sri Lanka’s stunning beauty, from pristine beaches to lush tea plantations and ancient ruins, every day brings a new picturesque backdrop.",
-            "Ideal for those seeking an active getaway: from hiking through lush jungles to surfing on pristine beaches, there’s a thrilling adventure awaiting every enthusiast."
+            "Whale and dolphin watching",
+            "Coral reef snorkeling",
+            "Swimming with turtles"
         ]
     }
 }
