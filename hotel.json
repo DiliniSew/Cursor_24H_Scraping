@@ -1,0 +1,463 @@
+{
+  "hotel": {
+    "id": "Hotel_wilderwood",
+    "name": "Hotel Wilderwood",
+    "tagline": "Where the jungle breathes and silence is a luxury.",
+    "location": {
+      "region": "Sinharaja Buffer Zone, Sabaragamuwa Province",
+      "nearest_town": "Kalawana",
+      "distance_from_colombo_km": 150,
+      "distance_from_colombo_hours": "3.5 hours by road",
+      "distance_from_galle_hours": "2.5 hours by road",
+      "coordinates": {
+        "latitude": 6.4012,
+        "longitude": 80.4563
+      },
+      "setting": "Nestled at the edge of the Sinharaja UNESCO World Heritage Rainforest, surrounded by 12 acres of private tea and spice gardens."
+    },
+    "overview": "Hotel Wilderwood is a 14-villa luxury jungle retreat perched at the edge of Sri Lanka's last remaining lowland tropical rainforest, the Sinharaja. Built using sustainably sourced timber, reclaimed stone, and traditional wattle-and-daub techniques, the property disappears into the canopy — offering an immersive wilderness experience without sacrificing world-class comfort. Each villa is a private sanctuary, positioned to maximise rainforest views and birdsong while ensuring complete seclusion.",
+    "star_rating": 5,
+    "total_villas": 14,
+    "opened": "2023",
+    "style": "Sustainable luxury jungle boutique",
+    "languages_spoken": ["Sinhala", "English", "Tamil"],
+    "awards": [
+      "Conde Nast Traveller — Top 10 Eco Retreats in Asia 2024",
+      "National Green Tourism Gold Award 2024"
+    ]
+  },
+
+  "rooms": [
+    {
+      "id": "canopy_garden_villa",
+      "name": "Canopy Garden Villa",
+      "count": 6,
+      "size_sqm": 65,
+      "occupancy": {
+        "standard": 2,
+        "max": 3
+      },
+      "bed_type": "King (convertible to twin on request)",
+      "floor": "Ground level, raised on timber stilts",
+      "view": "Private jungle garden and lily pond",
+      "description": "Our entry-level luxury villa — though nothing here is ordinary. Step off your private timber deck directly into your own enclosed jungle garden. Mornings here belong to the purple-faced langurs who swing through the canopy overhead.",
+      "features": [
+        "65 sqm indoor living space",
+        "Private timber deck with sun loungers",
+        "Enclosed jungle garden (200 sqm)",
+        "Outdoor rain shower with stone surround",
+        "Indoor soaking tub with forest view",
+        "King bed with organic latex mattress",
+        "Hand-woven linen and organic cotton bedding",
+        "Minibar stocked with local fruit, herbal teas and artisan chocolates",
+        "Nespresso machine + French press with estate coffee",
+        "55-inch smart TV (with Netflix)",
+        "High-speed Wi-Fi (fiber)",
+        "In-villa safe",
+        "Air conditioning + ceiling fan",
+        "Bathrobes and handmade herbal toiletries"
+      ],
+      "pricing_note": "Pricing on enquiry. Includes daily breakfast and a guided morning jungle walk."
+    },
+    {
+      "id": "treetop_pool_villa",
+      "name": "Treetop Pool Villa",
+      "count": 5,
+      "size_sqm": 95,
+      "occupancy": {
+        "standard": 2,
+        "max": 2
+      },
+      "bed_type": "King (cannot be converted to twin)",
+      "floor": "Elevated — second storey canopy level",
+      "view": "Unobstructed rainforest canopy, 270-degree views",
+      "description": "Elevated on stilts at canopy height, this villa places you inside the forest rather than beside it. Your private plunge pool seems to float above the treeline. The most popular choice for honeymooners and special occasions.",
+      "features": [
+        "95 sqm indoor space + 40 sqm wraparound deck",
+        "Private infinity plunge pool (4m x 2.5m, heated on request)",
+        "Wraparound deck with daybed and hammock",
+        "Outdoor forest shower",
+        "Freestanding copper soaking tub on deck",
+        "King bed facing floor-to-ceiling forest windows",
+        "Dual vanity bathroom with stone finishes",
+        "In-villa bar with curated Sri Lankan spirits",
+        "Bose sound system",
+        "Telescope for night sky and canopy birdwatching",
+        "Daily turndown with fresh jungle flowers",
+        "Butler service available 7am–10pm"
+      ],
+      "pricing_note": "Pricing on enquiry. Includes daily breakfast, one couples spa treatment, and a private sundowner on the deck."
+    },
+    {
+      "id": "sinharaja_estate_suite",
+      "name": "Sinharaja Estate Suite",
+      "count": 2,
+      "size_sqm": 145,
+      "occupancy": {
+        "standard": 2,
+        "max": 4
+      },
+      "bed_type": "King master bedroom + separate twin room",
+      "floor": "Ground + mezzanine",
+      "view": "360-degree forest panorama, private stream access",
+      "description": "The pinnacle of Wilderwood. Two storeys of jungle living — a full master bedroom, a separate sleeping loft, a private stream-fed plunge pool, and your own outdoor dining terrace. Ideal for families or those who simply want it all.",
+      "features": [
+        "145 sqm indoor + 80 sqm outdoor living",
+        "Private stream-fed plunge pool",
+        "Outdoor dining pavilion (seats 4)",
+        "Separate twin sleeping loft (ideal for children or companions)",
+        "Master king bedroom with walk-in wardrobe",
+        "Two full bathrooms",
+        "Full indoor kitchen (stocked on request)",
+        "Private butler throughout stay",
+        "Dedicated house vehicle for transfers",
+        "In-suite yoga deck with equipment",
+        "Telescope + star map",
+        "Personalised welcome amenity",
+        "Daily laundry service"
+      ],
+      "pricing_note": "Pricing on enquiry. Full-board option available. Minimum 3-night stay."
+    },
+    {
+      "id": "wilderness_family_villa",
+      "name": "Wilderness Family Villa",
+      "count": 1,
+      "size_sqm": 120,
+      "occupancy": {
+        "standard": 4,
+        "max": 6
+      },
+      "bed_type": "King master + two single beds in children's room",
+      "floor": "Ground level with private garden",
+      "view": "Forest garden with birdfeeder station",
+      "description": "Designed specifically for families, this villa has a dedicated children's room with bunk beds and nature-themed interiors, a large shared living area, and a safe enclosed garden. A nature kit — binoculars, field guide, bug-catching jar — is waiting for every young guest.",
+      "features": [
+        "120 sqm across two sleeping rooms",
+        "Children's room with bunk beds and nature-themed murals",
+        "Large shared living and dining area",
+        "Enclosed safe garden (350 sqm) with birdfeeder station",
+        "Private pool (5m x 3m)",
+        "Children's welcome pack (field guide, binoculars, nature journal)",
+        "Babysitting service available on request",
+        "Child-safe outdoor furniture",
+        "Board games and nature activity kits",
+        "King bed in master with ensuite",
+        "Second bathroom for children"
+      ],
+      "pricing_note": "Pricing on enquiry. Children under 6 stay free."
+    }
+  ],
+
+  "dining": {
+    "overview": "Dining at Wilderwood is an extension of the forest itself. Our Executive Chef sources 70% of ingredients from the surrounding Sabaragamuwa region — estate-grown herbs, village-reared poultry, freshwater fish, and hand-picked spices. The menus change with the season and the harvest.",
+
+    "restaurants": [
+      {
+        "id": "the_canopy_table",
+        "name": "The Canopy Table",
+        "type": "Main restaurant — all-day dining",
+        "setting": "Open-sided treehouse pavilion elevated above the garden, seating 32",
+        "open": "7:00 AM – 10:30 PM",
+        "dress_code": "Smart casual — no swimwear after 7 PM",
+        "cuisine": "Modern Sri Lankan with international influences",
+        "description": "The heart of Wilderwood's dining. Breakfast here is a ritual — hoppers made to order, fresh tropical fruits, and strong estate coffee as the jungle wakes up around you. By night, the pavilion glows with oil lamps and the sound of the forest takes over.",
+        "menu_highlights": {
+          "breakfast": [
+            "Egg hoppers with three sambols (pol, lunu miris, seeni)",
+            "String hoppers with dhal curry and coconut milk",
+            "Homemade granola with curd and kithul treacle",
+            "Tropical fruit platter (seasonal — rambutan, papaya, woodapple, mangosteen)",
+            "Smashed avocado on sourdough with poached egg and chilli",
+            "Freshly baked bread and pastries from the wood-fired oven",
+            "Estate coffee, herbal teas, fresh king coconut"
+          ],
+          "lunch": [
+            "Kottu roti with jungle mushroom and tempe (vegan option)",
+            "Grilled village chicken with roasted jak fruit and green mango salad",
+            "Sri Lankan rice and curry (rotating daily — 6–8 curries)",
+            "Pan-seared freshwater tilapia with coconut broth and turmeric rice",
+            "Pulled jackfruit tacos with pickled red onion and yoghurt",
+            "Wood-fired pizza with local cheese and garden herbs"
+          ],
+          "dinner": [
+            "Chilled watermelon soup with lime leaf oil and puffed rice",
+            "Slow-roasted pork belly with wild boar jus, gotukola puree, and pol sambol",
+            "Ambul thiyal (tangy dry fish curry) with red rice and papadums",
+            "Butter-poached lobster with coconut bisque and saffron string hoppers",
+            "Mushroom and tempe curry with cashew cream and roti",
+            "Dark chocolate and cardamom tart with kithul treacle ice cream"
+          ],
+          "dietary_options": [
+            "Full vegan menu available",
+            "Vegetarian menu available",
+            "Gluten-free on request (48 hours notice)",
+            "Ayurvedic menu available (coordinated with wellness team)"
+          ]
+        }
+      },
+      {
+        "id": "the_stream_table",
+        "name": "The Stream Table",
+        "type": "Private dining — by reservation only",
+        "setting": "A table for two (or four) set beside the property's natural stream, under a canopy of ferns",
+        "open": "Dinner only — 7:00 PM seatings",
+        "capacity": "Maximum 4 guests per evening",
+        "description": "Wilderwood's most intimate dining experience. A six-course tasting menu served beside the stream by lamplight. Guests are presented with a personalised menu card at the end of their meal as a keepsake.",
+        "menu_format": "6-course set tasting menu, changes monthly",
+        "sample_courses": [
+          "Amuse-bouche: King coconut jelly with caviar and lime",
+          "Cold: Seared tuna with pomelo, gotukola, and black sesame",
+          "Warm: Jungle mushroom consommé with hand-rolled rice dumplings",
+          "Fish: Butter-poached snapper with coconut foam and turmeric oil",
+          "Main: Dry-aged lamb with jak fruit rendang and wild herb salad",
+          "Dessert: Kithul treacle panna cotta with tamarind gel and sesame tuile"
+        ],
+        "pricing_note": "Pricing on enquiry. Advance reservation required — minimum 24 hours. Wine pairing available."
+      },
+      {
+        "id": "the_spice_bar",
+        "name": "The Spice Bar",
+        "type": "Bar and light bites",
+        "setting": "Open-air bar on the main lodge terrace, overlooking the forest",
+        "open": "11:00 AM – Midnight",
+        "description": "The social hub of Wilderwood. Handcrafted cocktails built around Sri Lankan botanicals — arrack, cinnamon, cardamom, tamarind, and pandan. Bar snacks and sharing plates served all evening.",
+        "signature_cocktails": [
+          "The Serendib Sour — aged arrack, tamarind shrub, jaggery, egg white",
+          "Rainforest Collins — coconut gin, fresh lemongrass, lime, soda",
+          "Pandan Mule — vodka, pandan syrup, ginger beer, lime",
+          "Cinnamon Old Fashioned — bourbon, Ceylon cinnamon bark syrup, bitters",
+          "The Wilderwood Cooler — non-alcoholic: king coconut, lime, mint, ginger"
+        ],
+        "bar_snacks": [
+          "Devilled cashews with curry leaf and chilli",
+          "Spiced chickpea fritters with coconut chutney",
+          "Beef or mushroom sliders with kithul glaze",
+          "Cheese board with local buffalo curd, crackers, and fruit chutney"
+        ]
+      }
+    ],
+
+    "in_villa_dining": {
+      "available": true,
+      "hours": "7:00 AM – 10:00 PM",
+      "note": "Full menu available for in-villa dining. Private candlelit dinner on your villa deck can be arranged with 4 hours notice.",
+      "private_bbq": "Available for Treetop Pool Villas and Estate Suites — chef-attended private BBQ on your deck, by request."
+    }
+  },
+
+  "facilities": {
+    "wellness": {
+      "name": "Vana Spa",
+      "description": "Vana — meaning 'forest' in Sanskrit — is a spa rooted in ancient Ayurvedic tradition, updated for the modern traveller. All treatments use oils and herbs sourced from the surrounding forest and our on-site herbal garden.",
+      "open": "8:00 AM – 8:00 PM",
+      "treatment_rooms": 4,
+      "signature_treatments": [
+        {
+          "name": "Sinharaja Forest Ritual",
+          "duration_minutes": 120,
+          "description": "A full-body experience beginning with a forest herb steam, followed by a warm oil massage using rainforest botanicals, and ending with a cooling gotukola face mask.",
+          "pricing_note": "Pricing on enquiry"
+        },
+        {
+          "name": "Couples Rainforest Journey",
+          "duration_minutes": 90,
+          "description": "Designed for two — a synchronised massage in the private couples suite, with a shared herbal bath drawn in a hand-carved stone tub overlooking the forest.",
+          "pricing_note": "Complimentary for Treetop Pool Villa guests (once per stay)"
+        },
+        {
+          "name": "Ayurvedic Shirodhara",
+          "duration_minutes": 60,
+          "description": "The classic Ayurvedic warm oil flow treatment, deeply calming for the nervous system. Preceded by a consultation with our in-house Ayurvedic practitioner.",
+          "pricing_note": "Pricing on enquiry"
+        },
+        {
+          "name": "Jungle Foot Ritual",
+          "duration_minutes": 45,
+          "description": "A grounding treatment using warm herbal poultices and reflexology — ideal after a day of trekking.",
+          "pricing_note": "Pricing on enquiry"
+        }
+      ],
+      "other_services": [
+        "Daily morning yoga — 6:30 AM at the Forest Yoga Pavilion (complimentary)",
+        "Meditation sessions by the stream — 6:00 AM (complimentary)",
+        "Private yoga with resident instructor (on request)",
+        "Ayurvedic consultations",
+        "Sound healing — singing bowl sessions"
+      ]
+    },
+
+    "pool": {
+      "main_infinity_pool": {
+        "size": "18m x 5m",
+        "type": "Infinity edge, overlooking forest",
+        "heated": false,
+        "open": "6:00 AM – 10:00 PM",
+        "features": ["Poolside bar service", "Sun loungers", "Complimentary towels", "Underwater mood lighting at night"]
+      },
+      "villa_pools": "All Treetop Pool Villas, Estate Suites, and the Family Villa have private plunge pools."
+    },
+
+    "activities": {
+      "complimentary": [
+        {
+          "name": "Guided Dawn Rainforest Walk",
+          "description": "A 2-hour guided walk into the Sinharaja buffer zone led by our resident naturalist. The best time to spot endemic birds and purple-faced langurs.",
+          "time": "5:45 AM departure",
+          "duration": "2 hours",
+          "difficulty": "Easy to moderate"
+        },
+        {
+          "name": "Spice Garden Tour",
+          "description": "A 45-minute walk through our working spice garden — cinnamon, cardamom, pepper, cloves, nutmeg — with tastings and explanations.",
+          "time": "Daily at 9:00 AM",
+          "duration": "45 minutes"
+        },
+        {
+          "name": "Evening Firefly Walk",
+          "description": "A magical short walk along the stream after dark to witness Sri Lanka's bioluminescent firefly colonies.",
+          "time": "Seasonal — June to November, 8:00 PM",
+          "duration": "1 hour"
+        },
+        {
+          "name": "Cooking Class — Sri Lankan Basics",
+          "description": "Learn to make two signature dishes with our chef — typically a curry and a dessert. Held in the open kitchen beside the Canopy Table.",
+          "time": "Tuesdays and Fridays, 10:00 AM",
+          "duration": "2 hours"
+        },
+        {
+          "name": "Morning Yoga",
+          "description": "Open-air yoga at the forest pavilion, guided by our resident instructor.",
+          "time": "Daily at 6:30 AM",
+          "duration": "1 hour"
+        }
+      ],
+      "on_request": [
+        {
+          "name": "Sinharaja Deep Forest Trek",
+          "description": "A full-day guided trek into the Sinharaja forest interior with a specialist naturalist. Permit arranged by the hotel.",
+          "duration": "Full day (6–7 hours)",
+          "pricing_note": "Pricing on enquiry — includes park permit, packed lunch, naturalist guide"
+        },
+        {
+          "name": "Birdwatching with a Resident Ornithologist",
+          "description": "Sri Lanka has 35 endemic bird species — many visible from the property. Our ornithologist leads targeted half-day sessions with spotting scopes.",
+          "duration": "3–4 hours",
+          "pricing_note": "Pricing on enquiry"
+        },
+        {
+          "name": "Village Cycling Tour",
+          "description": "A gentle 2-hour cycle through surrounding Sabaragamuwa villages, visiting a rubber tapper, a tea smallholder, and a local school.",
+          "duration": "2.5 hours",
+          "pricing_note": "Pricing on enquiry — bicycles provided"
+        },
+        {
+          "name": "White Water Rafting — Kalu Ganga",
+          "description": "Transfer to the Kalu Ganga river for a half-day rafting experience on Class 2–3 rapids.",
+          "duration": "Half day",
+          "pricing_note": "Pricing on enquiry — transfer included"
+        },
+        {
+          "name": "Stargazing Session",
+          "description": "Our naturalist sets up a high-powered telescope on the hilltop clearing for a private guided stargazing session — best in the dry season.",
+          "time": "After dinner, by arrangement",
+          "pricing_note": "Complimentary for Estate Suite guests"
+        },
+        {
+          "name": "Helicopter Transfer",
+          "description": "Arrive or depart Wilderwood by helicopter — landing pad on-site. Transfers to Colombo (35 min), Galle (25 min), or Yala (40 min) available.",
+          "pricing_note": "Pricing on enquiry — minimum 2 passengers"
+        }
+      ]
+    },
+
+    "other_facilities": [
+      {
+        "name": "The Nest Library Lounge",
+        "description": "A cosy indoor lounge with floor-to-ceiling bookshelves, a curated collection of Sri Lanka travel, natural history, and fiction titles, board games, and complimentary teas and coffee throughout the day."
+      },
+      {
+        "name": "Forest Yoga Pavilion",
+        "description": "An open-air timber pavilion set in the garden, used for yoga, meditation, and private wellness sessions."
+      },
+      {
+        "name": "Children's Nature Club",
+        "description": "A half-day programme for children 5–12 — guided bug hunting, leaf printing, bird identification, and a nature journal activity. Runs daily at 9:00 AM.",
+        "age": "5–12 years",
+        "pricing_note": "Complimentary for Family Villa guests"
+      },
+      {
+        "name": "Boutique",
+        "description": "A small curated shop stocking handmade products from local artisans — batik, hand-poured beeswax candles, estate spice packs, local illustrated books, and Wilderwood-branded accessories."
+      },
+      {
+        "name": "Laundry",
+        "description": "Same-day laundry service available (drop-off by 9 AM, return by 6 PM). Complimentary for Estate Suite guests."
+      },
+      {
+        "name": "Electric Vehicle Fleet",
+        "description": "The property operates a fleet of electric Tuk-tuks and a 4WD EV for guest transfers within the estate and to the forest trailhead."
+      }
+    ]
+  },
+
+  "sustainability": {
+    "overview": "Wilderwood is built on a commitment to leave the forest better than we found it.",
+    "initiatives": [
+      "Solar-powered — 90% of energy needs met by on-site solar array",
+      "Rainwater harvesting and grey water recycling",
+      "Zero single-use plastics — all amenities in glass, bamboo, or refillable containers",
+      "70% food sourced within 50km of the property",
+      "On-site composting — kitchen waste returns to the spice garden",
+      "Employs 80% staff from surrounding Kalawana villages",
+      "1% of revenue donated to the Sinharaja Forest Conservation Fund",
+      "Guests offered a tree planting experience during their stay"
+    ],
+    "certifications": [
+      "Sri Lanka Tourism Green Leaf Certification — Platinum",
+      "Rainforest Alliance Verified"
+    ]
+  },
+
+  "policies": {
+    "check_in": "2:00 PM",
+    "check_out": "11:00 AM",
+    "late_checkout": "Available until 2 PM on request, subject to availability (fee applies)",
+    "minimum_stay": "2 nights (Estate Suite: 3 nights minimum)",
+    "children": "Welcome. Children under 6 stay free in existing bedding. Extra bed available for older children.",
+    "pets": "Not permitted (to protect local wildlife)",
+    "smoking": "Non-smoking property. Designated smoking area near the main entrance.",
+    "payment": "All major credit cards accepted. Bank transfer available for advance bookings.",
+    "cancellation": "Full refund if cancelled 14+ days before arrival. 50% refund 7–13 days. No refund within 7 days.",
+    "pricing_note": "All room rates are on request — please enquire for current pricing and availability. Rates vary by season and occupancy."
+  },
+
+  "transfers": {
+    "options": [
+      {
+        "type": "Private car transfer",
+        "from": "Bandaranaike International Airport (CMB)",
+        "duration": "3.5 hours",
+        "pricing_note": "Pricing on enquiry"
+      },
+      {
+        "type": "Private car transfer",
+        "from": "Galle / South Coast",
+        "duration": "2.5 hours",
+        "pricing_note": "Pricing on enquiry"
+      },
+      {
+        "type": "Helicopter",
+        "from": "Colombo / Ratmalana Airport",
+        "duration": "35 minutes",
+        "pricing_note": "Pricing on enquiry — pad on-site"
+      }
+    ]
+  },
+
+  "contact": {
+    "email": "wilderwood@hoteltravels.com",
+    "phone": "+94 11 234 5678",
+    "website": "https://hoteltravels.com/hotels/wilderwood",
+    "reservations_note": "For bookings, our travel consultant Serendib can collect your requirements and forward them to the reservations team, who will respond within 24 hours with availability and pricing."
+  }
+}
